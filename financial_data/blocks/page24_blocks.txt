@@ -1,0 +1,747 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 578.6820068359375, 123.63623046875)
+  - Span: Payments and other fees. 
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: We enable Payments from our users to our Platform developers. Our users can transact and make payments on the Facebook Platform by
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: using credit cards, PayPal or other payment methods available on our website. We receive a fee from our Platform developers when users make purchases from our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Platform developers using our Payments infrastructure. We recognize revenue net of amounts remitted to our Platform developers. We have mandated the use of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Payments infrastructure for game apps on Facebook, and fees related to Payments are generated almost exclusively from games. To date, games from Zynga have
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: generated the majority of our payments and other fees revenue. In addition, we generate other fees revenue in connection with arrangements related to business
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: development transactions and fees from various mobile providers; in recent periods, other fees revenue has been immaterial.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Payments and other fees. We enable Payments from our users to our Platform developers. Our users can transact and make payments on the Facebook Platform by using credit cards, PayPal or other payment methods available on our website. We receive a fee from our Platform developers when users make purchases from our Platform developers using our Payments infrastructure. We recognize revenue net of amounts remitted to our Platform developers. We have mandated the use of our Payments infrastructure for game apps on Facebook, and fees related to Payments are generated almost exclusively from games. To date, games from Zynga have generated the majority of our payments and other fees revenue. In addition, we generate other fees revenue in connection with arrangements related to business development transactions and fees from various mobile providers; in recent periods, other fees revenue has been immaterial.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 135.075439453125, 165.44100952148438, 144.075439453125)
+  - Span: Cost of Revenue and Operating Expenses
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Cost of Revenue and Operating Expenses
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 148.23779296875, 578.9820556640625, 186.03662109375)
+  - Span: Cost of revenue. 
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These include expenses related to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the operation of our data centers such as facility and server equipment depreciation, facility and server equipment rent expense, energy and bandwidth costs, support and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: maintenance costs, and salaries, benefits, and share-based compensation for employees on our operations teams. Cost of revenue also includes credit card and other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: transaction fees related to processing customer transactions.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Cost of revenue. Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These include expenses related to the operation of our data centers such as facility and server equipment depreciation, facility and server equipment rent expense, energy and bandwidth costs, support and maintenance costs, and salaries, benefits, and share-based compensation for employees on our operations teams. Cost of revenue also includes credit card and other transaction fees related to processing customer transactions.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 193.83740234375, 578.916015625, 222.03662109375)
+  - Span: Marketing and sales. 
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Our marketing and sales expenses consist primarily of salaries, benefits, and share-based compensation for our employees engaged in sales,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: sales support, marketing, business development, and customer service functions. Our marketing and sales expenses also include user-, developer-, and advertiser-facing
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: marketing and promotional expenditures.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Marketing and sales. Our marketing and sales expenses consist primarily of salaries, benefits, and share-based compensation for our employees engaged in sales, sales support, marketing, business development, and customer service functions. Our marketing and sales expenses also include user-, developer-, and advertiser-facing marketing and promotional expenditures.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 229.83740234375, 578.9820556640625, 258.03662109375)
+  - Span: Research and development. 
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Research and development expenses consist primarily of salaries, benefits, and share-based compensation for employees on our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: engineering and technical teams who are responsible for building new products as well as improving existing products. We expense substantially all of our research and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: development costs as they are incurred.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Research and development. Research and development expenses consist primarily of salaries, benefits, and share-based compensation for employees on our engineering and technical teams who are responsible for building new products as well as improving existing products. We expense substantially all of our research and development costs as they are incurred.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 265.83740234375, 579.1410522460938, 303.63623046875)
+  - Span: General and administrative. 
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Our general and administrative expenses consist primarily of salaries, benefits, and share-based compensation for our executives as
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: well as our legal, finance, human resources, corporate communications and policy, and other administrative employees. In addition, general and administrative expenses
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: include outside consulting fees, legal and accounting services, and facilities and other supporting overhead costs. General and administrative expenses also include legal
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlements.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: General and administrative. Our general and administrative expenses consist primarily of salaries, benefits, and share-based compensation for our executives as well as our legal, finance, human resources, corporate communications and policy, and other administrative employees. In addition, general and administrative expenses include outside consulting fees, legal and accounting services, and facilities and other supporting overhead costs. General and administrative expenses also include legal settlements.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 311.43701171875, 578.5410766601562, 339.63623046875)
+  - Span: We have reclassified certain prior period expense amounts from marketing and sales to general and administrative within our condensed consolidated statements of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operations to conform to our current period presentation. These reclassifications did not affect revenue, total costs and expenses, (loss) income from operations, or net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (loss) income.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We have reclassified certain prior period expense amounts from marketing and sales to general and administrative within our condensed consolidated statements of operations to conform to our current period presentation. These reclassifications did not affect revenue, total costs and expenses, (loss) income from operations, or net (loss) income.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 351.075439453125, 104.24100494384766, 360.075439453125)
+  - Span: Results of Operations
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Results of Operations
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 364.2352600097656, 507.58203125, 382.83740234375)
+  - Span: The following table summarizes our historical condensed consolidated statements of operations data
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  (in millions, except per share amounts):
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The following table summarizes our historical condensed consolidated statements of operations data (in millions, except per share amounts):  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 390.80975341796875, 407.5128173828125, 398.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (424.8000183105469, 383.6416015625, 479.5128173828125, 398.04083251953125)
+  - Span: Three Months
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Three Months Ended June 30,    
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (496.8000183105469, 383.6416015625, 546.5855712890625, 390.84161376953125)
+  - Span: Six Months Ended
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Six Months Ended
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 390.80975341796875, 556.7160034179688, 464.009765625)
+  - Span: June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:     
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $1,184 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $895 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $2,242  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 1,626  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Costs and expenses
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cost of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  367  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  210 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 644  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 377 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Marketing and sales
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  392  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  96 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 535  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 158 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Research and development
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  705  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  99 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 858  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 156 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: General and administrative
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  463  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  83 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 567  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 140 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: June 30,        2012    2011     2012    2011   Revenue    $1,184   $895    $2,242    $ 1,626   Costs and expenses           Cost of revenue     367     210      644      377  Marketing and sales     392     96      535      158  Research and development     705     99      858      156  General and administrative     463     83      567      140 
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 463.7860107421875, 554.916015625, 475.41015625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total costs and expenses
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,927  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  488 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  2,604  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 831 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                   Total costs and expenses     1,927     488     2,604      831 
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 475.1864013671875, 556.7160034179688, 486.810546875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: (Loss) income from operations
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (743) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  407  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (362) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 795  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                   (Loss) income from operations     (743)    407      (362)     795  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 486.5848388671875, 556.7160034179688, 498.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net (loss) income
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (157) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $240 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 48  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 471  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                   Net (loss) income    $ (157)   $240    $ 48    $ 471  
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 497.9852294921875, 556.7160034179688, 548.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Share-based compensation expense included in costs and expenses:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cost of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 66  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 71  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Marketing and sales
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  232  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  11  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 251  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 11  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Research and development
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  545  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  35  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 605  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 39  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: General and administrative
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  263  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  15  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 282  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 18  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                   Share-based compensation expense included in costs and expenses:           Cost of revenue      66      3       71      3   Marketing and sales     232     11       251      11   Research and development     545     35       605      39   General and administrative     263     15       282      18  
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 547.7860107421875, 556.7160034179688, 559.41015625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total share-based compensation expense
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $1,106  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 64  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $1,209  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 71  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                   Total share-based compensation expense    $1,106    $ 64     $1,209    $ 71  
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 559.1864013671875, 553.1688232421875, 568.41015625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:                                    
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 568.23779296875, 310.0320129394531, 577.23779296875)
+  - Span: 25
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 25

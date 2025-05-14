@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2021
+QUARTER: 1
+Total Revenue: 5900.00
+Net Income: 1300.00
+EPS: 1.87
+Operating Margin: 22.03

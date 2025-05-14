@@ -1,0 +1,182 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 142.25039672851562, 75.8200454711914)
+  - Span: Cash Used in Investing Activities
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Cash Used in Investing Activities
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 80.43701171875, 579.1410522460938, 118.23779296875)
+  - Span: Cash used in investing activities during the first six months of 2012 primarily resulted from $5.7 billion for the net purchase of marketable securities, capital
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: expenditures of $866 million related to the purchase of servers, networking equipment, storage infrastructure, and the construction of data centers as well as $575 million
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: for acquisitions of businesses and other assets, such as patents. The increase in cash used in investing activities during the first six months of 2012 compared to the same
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: period in 2011 was mainly due to increases in the purchase of marketable securities, capital expenditures and acquisitions of businesses and other assets.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Cash used in investing activities during the first six months of 2012 primarily resulted from $5.7 billion for the net purchase of marketable securities, capital expenditures of $866 million related to the purchase of servers, networking equipment, storage infrastructure, and the construction of data centers as well as $575 million for acquisitions of businesses and other assets, such as patents. The increase in cash used in investing activities during the first six months of 2012 compared to the same period in 2011 was mainly due to increases in the purchase of marketable securities, capital expenditures and acquisitions of businesses and other assets.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 126.03662109375, 578.531982421875, 163.83740234375)
+  - Span: We anticipate making capital expenditures in 2012 of approximately $1.6 billion to $1.8 billion, a portion of which we will finance through leasing arrangements. We
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: also anticipate spending $300 million in cash as part of the purchase price for the acquisition of Instagram which is still subject to customary closing conditions. We have
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: agreed to pay Instagram a $200 million termination fee if governmental authorities permanently enjoin or otherwise prevent the completion of the merger or if either party
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: terminates the agreement after December 10, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We anticipate making capital expenditures in 2012 of approximately $1.6 billion to $1.8 billion, a portion of which we will finance through leasing arrangements. We also anticipate spending $300 million in cash as part of the purchase price for the acquisition of Instagram which is still subject to customary closing conditions. We have agreed to pay Instagram a $200 million termination fee if governmental authorities permanently enjoin or otherwise prevent the completion of the merger or if either party terminates the agreement after December 10, 2012.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 174.8216094970703, 161.45040893554688, 184.42161560058594)
+  - Span: Cash Provided by Financing Activities
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Cash Provided by Financing Activities
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 189.03662109375, 578.6820068359375, 226.83740234375)
+  - Span: In May 2012, we received $6.8 billion in proceeds from our IPO, net of offering costs. Our financing activities have primarily consisted of equity issuances, lease
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financing, and debt financing. Net cash provided by financing activities was $7.1 billion and $1.1 billion, for the first six months of 2012 and 2011, respectively and included
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: excess tax benefits from stock award activities of $381 million and $355 million for the same periods, respectively. In the first six months of 2011, it also included $250 million
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of debt repayment. We had no outstanding debt during the same period in 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In May 2012, we received $6.8 billion in proceeds from our IPO, net of offering costs. Our financing activities have primarily consisted of equity issuances, lease financing, and debt financing. Net cash provided by financing activities was $7.1 billion and $1.1 billion, for the first six months of 2012 and 2011, respectively and included excess tax benefits from stock award activities of $381 million and $355 million for the same periods, respectively. In the first six months of 2011, it also included $250 million of debt repayment. We had no outstanding debt during the same period in 2012.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 238.276611328125, 142.64100646972656, 247.276611328125)
+  - Span: Off-Balance Sheet Arrangements
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Off-Balance Sheet Arrangements
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 251.43701171875, 287.3160095214844, 260.43701171875)
+  - Span: We did not have any off-balance sheet arrangements as of June 30, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We did not have any off-balance sheet arrangements as of June 30, 2012.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 271.876220703125, 112.04100036621094, 280.876220703125)
+  - Span: Contractual Obligations
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Contractual Obligations
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 285.03662109375, 578.531982421875, 303.63623046875)
+  - Span: There were no material changes in our commitments under contractual obligations, as disclosed in our Prospectus, except as noted in “Cash Used in Investing
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Activities” above.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: There were no material changes in our commitments under contractual obligations, as disclosed in our Prospectus, except as noted in “Cash Used in Investing Activities” above.
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 315.075439453125, 80.24100494384766, 324.075439453125)
+  - Span: Contingencies
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Contingencies
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 328.23779296875, 578.6820068359375, 366.03662109375)
+  - Span: We are involved in claims, lawsuits, government investigations, and proceedings. We record a provision for a liability when we believe that it is both probable that a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: liability has been incurred, and the amount can be reasonably estimated. Significant judgment is required to determine both probability and the estimated amount. Such
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: legal proceedings are inherently unpredictable and subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: assumptions change or prove to be incorrect, it could have a material impact on our results of operations, financial position, and cash flows.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We are involved in claims, lawsuits, government investigations, and proceedings. We record a provision for a liability when we believe that it is both probable that a liability has been incurred, and the amount can be reasonably estimated. Significant judgment is required to determine both probability and the estimated amount. Such legal proceedings are inherently unpredictable and subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to be incorrect, it could have a material impact on our results of operations, financial position, and cash flows.
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 373.83740234375, 578.2410278320312, 392.43701171875)
+  - Span: See Note 6 in the notes to the condensed consolidated financial statements included in Part I, Item 1 and “Legal Proceedings” contained in Part II, Item 1 of this
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Quarterly Report on Form 10-Q for additional information regarding contingencies.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: See Note 6 in the notes to the condensed consolidated financial statements included in Part I, Item 1 and “Legal Proceedings” contained in Part II, Item 1 of this Quarterly Report on Form 10-Q for additional information regarding contingencies.
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 403.876220703125, 221.8410186767578, 426.2204284667969)
+  - Span: Recently Issued and Adopted Accounting Pronouncements
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Comprehensive Income
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Recently Issued and Adopted Accounting Pronouncements Comprehensive Income
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 430.83740234375, 579.1320190429688, 476.609375)
+  - Span: In May 2011, the Financial Accounting Standards Board issued guidance that changed the requirement for presenting “Comprehensive Income” in the consolidated
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial statements. The update requires an entity to present the components of other comprehensive income either in a single continuous statement of comprehensive
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: income or in two separate but consecutive statements. The update is effective for fiscal years, and interim periods within those years, beginning after December 15, 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and should be applied retrospectively. We adopted this new guidance on January 1, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: In May 2011, the Financial Accounting Standards Board issued guidance that changed the requirement for presenting “Comprehensive Income” in the consolidated financial statements. The update requires an entity to present the components of other comprehensive income either in a single continuous statement of comprehensive income or in two separate but consecutive statements. The update is effective for fiscal years, and interim periods within those years, beginning after December 15, 2011 and should be applied retrospectively. We adopted this new guidance on January 1, 2012.  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 476.43701171875, 310.0320129394531, 485.43701171875)
+  - Span: 32
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 32

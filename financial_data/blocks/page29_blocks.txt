@@ -1,0 +1,125 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 579.1320190429688, 94.83740234375)
+  - Span: Our provision for income taxes in the second quarter and the first six months of 2012 decreased $767 million and $757 million, respectively, resulting in income tax
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: benefits of $608 million and $431 million in the second quarter and the first six months of 2012, respectively, compared to the same periods in 2011 primarily due to the pre-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: tax losses generated in the second quarter and the first six months of 2012 and the associated tax benefits recorded for these losses.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our provision for income taxes in the second quarter and the first six months of 2012 decreased $767 million and $757 million, respectively, resulting in income tax benefits of $608 million and $431 million in the second quarter and the first six months of 2012, respectively, compared to the same periods in 2011 primarily due to the pre- tax losses generated in the second quarter and the first six months of 2012 and the associated tax benefits recorded for these losses.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 102.63623046875, 578.531982421875, 130.83740234375)
+  - Span: Our effective tax rate in the second quarter and the first six months of 2012 increased primarily due to additional losses arising outside the United States in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: jurisdictions where we do not receive a tax benefit, the impact of certain non-deductible share-based compensation expense that was recognized during the periods, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the expiration of the federal tax credit for research and development activities.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our effective tax rate in the second quarter and the first six months of 2012 increased primarily due to additional losses arising outside the United States in jurisdictions where we do not receive a tax benefit, the impact of certain non-deductible share-based compensation expense that was recognized during the periods, and the expiration of the federal tax credit for research and development activities.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 138.63623046875, 578.9820556640625, 166.83740234375)
+  - Span: Our effective tax rate in the third quarter and full year of 2012 could exceed 100% depending on the amount and geographic mix of our income before provision for
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: income taxes. If our effective tax rate exceeds 100%, we would have a net loss even though our income before provision for income taxes was positive for any period in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: which that occurs.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our effective tax rate in the third quarter and full year of 2012 could exceed 100% depending on the amount and geographic mix of our income before provision for income taxes. If our effective tax rate exceeds 100%, we would have a net loss even though our income before provision for income taxes was positive for any period in which that occurs.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 174.63623046875, 579.7319946289062, 222.03662109375)
+  - Span: Our effective tax rate has exceeded the U.S. statutory rate primarily because of losses arising outside the United States in jurisdictions where we do not receive a tax
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: benefit and the impact of non-deductible share-based compensation. These losses were primarily due to the initial start-up costs incurred by our foreign subsidiaries to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operate in certain foreign markets, including the costs incurred by those subsidiaries to license, develop, and use our intellectual property. Our effective tax rate in the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: future will depend on the portion of our profits earned within and outside the United States, which will also be affected by our methodologies for valuing our intellectual
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: property and intercompany transactions.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our effective tax rate has exceeded the U.S. statutory rate primarily because of losses arising outside the United States in jurisdictions where we do not receive a tax benefit and the impact of non-deductible share-based compensation. These losses were primarily due to the initial start-up costs incurred by our foreign subsidiaries to operate in certain foreign markets, including the costs incurred by those subsidiaries to license, develop, and use our intellectual property. Our effective tax rate in the future will depend on the portion of our profits earned within and outside the United States, which will also be affected by our methodologies for valuing our intellectual property and intercompany transactions.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 233.475830078125, 137.2410125732422, 242.475830078125)
+  - Span: Liquidity and Capital Resources
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Liquidity and Capital Resources
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 246.63623046875, 578.916015625, 303.63623046875)
+  - Span: Our principal sources of liquidity are our cash and cash equivalents, marketable securities, and cash generated from operations. Cash and cash equivalents and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: marketable securities consist primarily of cash on deposit with banks and investments in money market funds and U.S. government and U.S. government agency securities.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Cash and cash equivalents and marketable securities totaled $10.2 billion as of June 30, 2012, an increase of $6.3 billion from December 31, 2011. The most significant cash
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: flow activities consisted of $6.8 billion from financing activities, due to net proceeds from our IPO, which was completed in May 2012, and $683 million of cash generated
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: from operations, offset by $866 million used for capital expenditures and $575 million used for acquisition of businesses and other assets. We currently anticipate that our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: available funds, credit facilities, and cash flow from operations will be sufficient to meet our operational cash needs for the foreseeable future.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our principal sources of liquidity are our cash and cash equivalents, marketable securities, and cash generated from operations. Cash and cash equivalents and marketable securities consist primarily of cash on deposit with banks and investments in money market funds and U.S. government and U.S. government agency securities. Cash and cash equivalents and marketable securities totaled $10.2 billion as of June 30, 2012, an increase of $6.3 billion from December 31, 2011. The most significant cash flow activities consisted of $6.8 billion from financing activities, due to net proceeds from our IPO, which was completed in May 2012, and $683 million of cash generated from operations, offset by $866 million used for capital expenditures and $575 million used for acquisition of businesses and other assets. We currently anticipate that our available funds, credit facilities, and cash flow from operations will be sufficient to meet our operational cash needs for the foreseeable future.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 311.43701171875, 578.6820068359375, 386.009765625)
+  - Span: In April 2012, we entered into an agreement to acquire Instagram, Inc., which has built a mobile phone-based photo-sharing service, for 22,999,412 shares of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: common stock and $300 million in cash. The value of the equity component of the final purchase price will be determined for accounting purposes based on the fair value
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of our common stock on the closing date. Following the closing of this acquisition, we plan to maintain Instagram’s products as independent mobile applications to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: enhance our photos product offerings and to enable users to increase their levels of mobile engagement and photo sharing. This acquisition is subject to customary
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: closing conditions, including the expiration or early termination of all applicable HSR waiting periods, and is expected to close in 2012. We have agreed to pay Instagram a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: $200 million termination fee if governmental authorities permanently enjoin or otherwise prevent the completion of the merger or if either party terminates the agreement
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: after December 10, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: In April 2012, we entered into an agreement to acquire Instagram, Inc., which has built a mobile phone-based photo-sharing service, for 22,999,412 shares of our common stock and $300 million in cash. The value of the equity component of the final purchase price will be determined for accounting purposes based on the fair value of our common stock on the closing date. Following the closing of this acquisition, we plan to maintain Instagram’s products as independent mobile applications to enhance our photos product offerings and to enable users to increase their levels of mobile engagement and photo sharing. This acquisition is subject to customary closing conditions, including the expiration or early termination of all applicable HSR waiting periods, and is expected to close in 2012. We have agreed to pay Instagram a $200 million termination fee if governmental authorities permanently enjoin or otherwise prevent the completion of the merger or if either party terminates the agreement after December 10, 2012.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 385.83740234375, 310.0320129394531, 394.83740234375)
+  - Span: 30
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 30

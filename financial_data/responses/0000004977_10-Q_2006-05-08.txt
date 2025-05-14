@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2006
+QUARTER: 1
+Total Revenue: 3559.00
+Net Income: 375.00
+EPS: 0.75
+Operating Margin: 16.17

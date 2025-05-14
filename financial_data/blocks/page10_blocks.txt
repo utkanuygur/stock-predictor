@@ -1,0 +1,2010 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63671875, 579.1410522460938, 147.20947265625)
+  - Span: The numerators and denominators of the basic and diluted EPS computations for our common stock are calculated as follows (in millions, except per share amounts):
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class A
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class B
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class A
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class B
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class A
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class B
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class A
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Class B
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Basic EPS:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Numerator
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Net (loss) income
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (31)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (126)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 20 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 220 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 7 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 41 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 39 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 432 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Less: Net income attributable to participating securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 7  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 74  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 18  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 13  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  147  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The numerators and denominators of the basic and diluted EPS computations for our common stock are calculated as follows (in millions, except per share amounts):        Three Months Ended June 30,     Six Months Ended June 30,        2012    2011     2012     2011        Class A   Class B   Class A    Class B    Class A    Class B    Class A    Class B  Basic EPS:                       Numerator                       Net (loss) income    $ (31)   $ (126)  $ 20    $ 220    $ 7    $ 41    $ 39    $ 432  Less: Net income attributable to participating securities      0      0      7       74       3       18       13      147  
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (90.9000015258789, 146.98521423339844, 577.1160278320312, 158.609375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net (loss) income attributable to common stockholders
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (31)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (126)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 13 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 146 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 23 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 26 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 285 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Net (loss) income attributable to common stockholders    $ (31)   $ (126)  $ 13    $ 146    $ 4    $ 23    $ 26    $ 285 
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 158.38511657714844, 578.916015625, 189.20947265625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Denominator
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Weighted average shares outstanding
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  377 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,505 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  110 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,188 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  247 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,369  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  105 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,167 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Less: Shares subject to repurchase
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 5  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 5  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Denominator                       Weighted average shares outstanding     377    1,505    110     1,188     247     1,369      105     1,167  Less: Shares subject to repurchase      1      2      1       5       1       2       0       5  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (90.9000015258789, 188.98521423339844, 577.1160278320312, 200.609375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Number of shares used for basic EPS computation
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  376 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,503 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  109 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,183 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  246 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,367 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  105 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,162 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Number of shares used for basic EPS computation     376    1,503    109     1,183     246     1,367     105     1,162 
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 200.38511657714844, 577.1160278320312, 212.00927734375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Basic EPS
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $(0.08)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $(0.08)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.12 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.12 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.02 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.02 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.25 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.25 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Basic EPS    $(0.08)   $(0.08)  $ 0.12    $ 0.12    $ 0.02    $ 0.02    $ 0.25    $ 0.25 
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (305.1000061035156, 213.58531188964844, 319.768798828125, 214.7853240966797)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (335.70001220703125, 212.38511657714844, 335.96881103515625, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (339.9000244140625, 213.58531188964844, 353.96881103515625, 214.7853240966797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (369.9000244140625, 212.38511657714844, 370.1688232421875, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (373.5, 213.58531188964844, 388.1688232421875, 214.7853240966797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (404.1000061035156, 212.38511657714844, 404.3688049316406, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (407.70001220703125, 213.58531188964844, 422.3688049316406, 214.7853240966797)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (438.3000183105469, 212.38511657714844, 438.5688171386719, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (441.9000244140625, 213.58531188964844, 456.5688171386719, 214.7853240966797)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (472.5000305175781, 212.38511657714844, 472.7688293457031, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (476.1000061035156, 213.58531188964844, 490.7688293457031, 214.7853240966797)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (506.70001220703125, 212.38511657714844, 506.96881103515625, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (510.3000183105469, 213.58531188964844, 524.9688110351562, 214.7853240966797)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (540.9000244140625, 212.38511657714844, 541.1688232421875, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (544.5, 213.58531188964844, 559.1688232421875, 214.7853240966797)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (575.1000366210938, 212.38511657714844, 575.3688354492188, 213.5851287841797)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 224.4365234375, 578.916015625, 271.83642578125)
+  - Span: Diluted EPS:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Numerator
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Net (loss) income attributable to common stockholders
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (31)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (126)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 13 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 146  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 23 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 26 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 285 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Reallocation of net income attributable to participating securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 8  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 16  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Reallocation of net (loss) income as a result of conversion of Class B to
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Diluted EPS:                       Numerator                       Net (loss) income attributable to common stockholders    $ (31)   $ (126)  $ 13    $ 146     $ 4    $ 23    $ 26    $ 285  Reallocation of net income attributable to participating securities      0      0      8       0       1       0       16       0   Reallocation of net (loss) income as a result of conversion of Class B to
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (71.69999694824219, 272.4365234375, 578.916015625, 291.80908203125)
+  - Span: Class A common stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (126) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  146  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 23  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  285  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Reallocation of net income to Class B common stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 9  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 19  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Class A common stock     (126)     0     146       0       23       0      285       0   Reallocation of net income to Class B common stock      0      0      0       9       0       1       0       19  
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (90.9000015258789, 291.5853271484375, 575.3688354492188, 302.4365234375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net (loss) income attributable to common stockholders for diluted
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Net (loss) income attributable to common stockholders for diluted
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (100.5, 303.03662109375, 577.1160278320312, 312.80908203125)
+  - Span: EPS
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (157)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ (126)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 167 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 155 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 28 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 24 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 327 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 304 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: EPS    $ (157)   $ (126)  $ 167    $ 155    $ 28    $ 24    $ 327    $ 304 
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 312.5853271484375, 578.916015625, 391.4091796875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Denominator
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Number of shares used for basic EPS computation
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  376 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,503 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  109 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,183 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  246 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,367 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  105 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,162 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Conversion of Class B to Class A common stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,503 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,183  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,367 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,162 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Weighted average effect of dilutive securities:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Employee stock options
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  206 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  206 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  155 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  155 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  223  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  223  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: RSUs
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 22 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 22 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Shares subject to repurchase
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Warrants
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Denominator                       Number of shares used for basic EPS computation     376    1,503    109     1,183     246     1,367     105     1,162  Conversion of Class B to Class A common stock     1,503     0    1,183       0     1,367      0     1,162      0  Weighted average effect of dilutive securities:                       Employee stock options      0      0    206     206     155     155     223      223   RSUs      0     0     6      6       22      22      2       2   Shares subject to repurchase      0     0     4       4       2      2      4       4   Warrants      0     0     2      2       0      0      3       3  
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (110.10000610351562, 391.1849365234375, 577.1160278320312, 402.80908203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Number of shares used for diluted EPS computation
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,879 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,503 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,510 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,401 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,792 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,546  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,499 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,394 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Number of shares used for diluted EPS computation     1,879    1,503    1,510     1,401     1,792     1,546      1,499     1,394 
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 402.5853271484375, 577.1160278320312, 414.20947265625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Diluted EPS
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $(0.08)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $(0.08)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.11 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.11 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.02 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.02 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.22 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 0.22 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                                                       Diluted EPS    $(0.08)   $(0.08)  $ 0.11    $ 0.11    $ 0.02    $ 0.02    $ 0.22    $ 0.22 
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (305.1000061035156, 415.7850341796875, 319.768798828125, 416.9850158691406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (335.70001220703125, 414.5853271484375, 335.96881103515625, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 31:
+================================================================================
+Type: 0
+Bounding Box: (339.9000244140625, 415.7850341796875, 353.96881103515625, 416.9850158691406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 32:
+================================================================================
+Type: 0
+Bounding Box: (369.9000244140625, 414.5853271484375, 370.1688232421875, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 33:
+================================================================================
+Type: 0
+Bounding Box: (373.5, 415.7850341796875, 388.1688232421875, 416.9850158691406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 34:
+================================================================================
+Type: 0
+Bounding Box: (404.1000061035156, 414.5853271484375, 404.3688049316406, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 35:
+================================================================================
+Type: 0
+Bounding Box: (407.70001220703125, 415.7850341796875, 422.3688049316406, 416.9850158691406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 36:
+================================================================================
+Type: 0
+Bounding Box: (438.3000183105469, 414.5853271484375, 438.5688171386719, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 37:
+================================================================================
+Type: 0
+Bounding Box: (441.9000244140625, 415.7850341796875, 456.5688171386719, 416.9850158691406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 38:
+================================================================================
+Type: 0
+Bounding Box: (472.5000305175781, 414.5853271484375, 472.7688293457031, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 39:
+================================================================================
+Type: 0
+Bounding Box: (476.1000061035156, 415.7850341796875, 490.7688293457031, 416.9850158691406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 40:
+================================================================================
+Type: 0
+Bounding Box: (506.70001220703125, 414.5853271484375, 506.96881103515625, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 41:
+================================================================================
+Type: 0
+Bounding Box: (510.3000183105469, 415.7850341796875, 524.9688110351562, 416.9850158691406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 42:
+================================================================================
+Type: 0
+Bounding Box: (540.9000244140625, 414.5853271484375, 541.1688232421875, 415.7853088378906)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 43:
+================================================================================
+Type: 0
+Bounding Box: (544.5, 415.7850341796875, 559.1688232421875, 416.9850158691406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 44:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 414.5853271484375, 575.3688354492188, 424.4091796875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:    
+
+================================================================================
+BLOCK 45:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 424.236328125, 310.0320129394531, 433.236328125)
+  - Span: 11
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 11

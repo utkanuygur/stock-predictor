@@ -1,0 +1,165 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 543.0504150390625, 86.0231704711914)
+  - Span: Our business is dependent on our ability to maintain and scale our technical infrastructure, and any significant disruption in our service could damage our
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: reputation, result in a potential loss of users and engagement, and adversely affect our financial results.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our business is dependent on our ability to maintain and scale our technical infrastructure, and any significant disruption in our service could damage our reputation, result in a potential loss of users and engagement, and adversely affect our financial results.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63623046875, 578.916015625, 157.23779296875)
+  - Span: Our reputation and ability to attract, retain, and serve our users is dependent upon the reliable performance of Facebook and our underlying technical infrastructure.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Our systems may not be adequately designed with the necessary reliability and redundancy to avoid performance delays or outages that could be harmful to our business.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: If Facebook is unavailable when users attempt to access it, or if it does not load as quickly as they expect, users may not return to our website as often in the future, or at
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: all. As our user base and the amount and types of information shared on Facebook continue to grow, we will need an increasing amount of technical infrastructure,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: including network capacity, and computing power, to continue to satisfy the needs of our users. It is possible that we may fail to effectively scale and grow our technical
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: infrastructure to accommodate these increased demands. In addition, our business is subject to interruptions, delays, or failures resulting from earthquakes, adverse
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: weather conditions, other natural disasters, power loss, terrorism, or other catastrophic events.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our reputation and ability to attract, retain, and serve our users is dependent upon the reliable performance of Facebook and our underlying technical infrastructure. Our systems may not be adequately designed with the necessary reliability and redundancy to avoid performance delays or outages that could be harmful to our business. If Facebook is unavailable when users attempt to access it, or if it does not load as quickly as they expect, users may not return to our website as often in the future, or at all. As our user base and the amount and types of information shared on Facebook continue to grow, we will need an increasing amount of technical infrastructure, including network capacity, and computing power, to continue to satisfy the needs of our users. It is possible that we may fail to effectively scale and grow our technical infrastructure to accommodate these increased demands. In addition, our business is subject to interruptions, delays, or failures resulting from earthquakes, adverse weather conditions, other natural disasters, power loss, terrorism, or other catastrophic events.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 165.03857421875, 578.9730224609375, 193.23779296875)
+  - Span: A substantial portion of our network infrastructure is provided by third parties. Any disruption or failure in the services we receive from these providers could harm
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our ability to handle existing or increased traffic and could significantly harm our business. Any financial or other difficulties these providers face may adversely affect our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: business, and we exercise little control over these providers, which increases our vulnerability to problems with the services they provide.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: A substantial portion of our network infrastructure is provided by third parties. Any disruption or failure in the services we receive from these providers could harm our ability to handle existing or increased traffic and could significantly harm our business. Any financial or other difficulties these providers face may adversely affect our business, and we exercise little control over these providers, which increases our vulnerability to problems with the services they provide.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 204.2200469970703, 575.0808715820312, 224.02317810058594)
+  - Span: We recently began to own and build key portions of our technical infrastructure, and, because of our limited experience in this area, we could experience unforeseen
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: difficulties.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We recently began to own and build key portions of our technical infrastructure, and, because of our limited experience in this area, we could experience unforeseen difficulties.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 228.63623046875, 578.9820556640625, 285.63623046875)
+  - Span: In 2011, we began serving our products from data centers owned by Facebook using servers specifically designed for us. We plan to continue to significantly
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: expand the size of our infrastructure, primarily through data centers that we design and own. The infrastructure expansion we are undertaking is complex, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: unanticipated delays in the completion of these projects or availability of components may lead to increased project costs, operational inefficiencies, or interruptions in the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: delivery or degradation of the quality of our products. In addition, there may be issues related to this infrastructure that are not identified during the testing phases of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: design and implementation, which may only become evident after we have started to fully utilize the underlying equipment, that could further degrade the user experience
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: or increase our costs.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In 2011, we began serving our products from data centers owned by Facebook using servers specifically designed for us. We plan to continue to significantly expand the size of our infrastructure, primarily through data centers that we design and own. The infrastructure expansion we are undertaking is complex, and unanticipated delays in the completion of these projects or availability of components may lead to increased project costs, operational inefficiencies, or interruptions in the delivery or degradation of the quality of our products. In addition, there may be issues related to this infrastructure that are not identified during the testing phases of design and implementation, which may only become evident after we have started to fully utilize the underlying equipment, that could further degrade the user experience or increase our costs.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 296.6224060058594, 394.85040283203125, 306.2223815917969)
+  - Span: Our software is highly technical, and if it contains undetected errors, our business could be adversely affected.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our software is highly technical, and if it contains undetected errors, our business could be adversely affected.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 310.83935546875, 579.1410522460938, 348.63623046875)
+  - Span: Our products incorporate software that is highly technical and complex. Our software has contained, and may now or in the future contain, undetected errors, bugs,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: or vulnerabilities. Some errors in our software code may only be discovered after the code has been released. Any errors, bugs, or vulnerabilities discovered in our code
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: after release could result in damage to our reputation, loss of users, loss of revenue, or liability for damages, any of which could adversely affect our business and financial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: results.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our products incorporate software that is highly technical and complex. Our software has contained, and may now or in the future contain, undetected errors, bugs, or vulnerabilities. Some errors in our software code may only be discovered after the code has been released. Any errors, bugs, or vulnerabilities discovered in our code after release could result in damage to our reputation, loss of users, loss of revenue, or liability for damages, any of which could adversely affect our business and financial results.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 359.6224060058594, 556.0007934570312, 379.4216003417969)
+  - Span: Certain of our user metrics are subject to inherent challenges in measurement, and real or perceived inaccuracies in such metrics may harm our reputation and
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: negatively affect our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Certain of our user metrics are subject to inherent challenges in measurement, and real or perceived inaccuracies in such metrics may harm our reputation and negatively affect our business.
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 384.03857421875, 579.1320190429688, 525.810546875)
+  - Span: The numbers of our MAUs and DAUs and average revenue per user (ARPU) are calculated using internal company data based on the activity of user accounts.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: While these numbers are based on what we believe to be reasonable estimates of our user base for the applicable period of measurement, there are inherent challenges in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: measuring usage of our products across large online and mobile populations around the world. For example, there may be individuals who maintain one or more Facebook
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accounts in violation of our terms of service, despite our efforts to detect and suppress such behavior. We estimate that “duplicate” accounts (an account that a user
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: maintains in addition to his or her principal account) may have represented approximately 4.8% of our worldwide MAUs as of June 30, 2012. We also seek to identify
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: “false” accounts, which we divide into two categories: (1) user-misclassified accounts, where users have created personal profiles for a business, organization, or non-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: human entity such as a pet (such entities are permitted on Facebook using a Page rather than a personal profile under our terms of service); and (2) undesirable accounts,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: which represent user profiles that we determine are intended to be used for purposes that violate our terms of service, such as spamming. As of June 30, 2012, we estimate
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: user-misclassified accounts may have represented approximately 2.4% of our worldwide MAUs and undesirable accounts may have represented approximately 1.5% of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: worldwide MAUs. We believe the percentage of accounts that are duplicate or false is meaningfully lower in developed markets such as the United States or Australia and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: higher in developing markets such as Indonesia and Turkey. However, these estimates are based on an internal review of a limited sample of accounts and we apply
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: significant judgment in making this determination, such as identifying names that appear to be fake or other behavior that appears inauthentic to the reviewers. As such,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our estimation of duplicate or false accounts may not accurately represent the actual number of such accounts. We are continually seeking to improve our ability to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: identify duplicate or false accounts and estimate the total number of such accounts, and such estimates may be affected by improvements or changes in our methodology.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: The numbers of our MAUs and DAUs and average revenue per user (ARPU) are calculated using internal company data based on the activity of user accounts. While these numbers are based on what we believe to be reasonable estimates of our user base for the applicable period of measurement, there are inherent challenges in measuring usage of our products across large online and mobile populations around the world. For example, there may be individuals who maintain one or more Facebook accounts in violation of our terms of service, despite our efforts to detect and suppress such behavior. We estimate that “duplicate” accounts (an account that a user maintains in addition to his or her principal account) may have represented approximately 4.8% of our worldwide MAUs as of June 30, 2012. We also seek to identify “false” accounts, which we divide into two categories: (1) user-misclassified accounts, where users have created personal profiles for a business, organization, or non- human entity such as a pet (such entities are permitted on Facebook using a Page rather than a personal profile under our terms of service); and (2) undesirable accounts, which represent user profiles that we determine are intended to be used for purposes that violate our terms of service, such as spamming. As of June 30, 2012, we estimate user-misclassified accounts may have represented approximately 2.4% of our worldwide MAUs and undesirable accounts may have represented approximately 1.5% of our worldwide MAUs. We believe the percentage of accounts that are duplicate or false is meaningfully lower in developed markets such as the United States or Australia and higher in developing markets such as Indonesia and Turkey. However, these estimates are based on an internal review of a limited sample of accounts and we apply significant judgment in making this determination, such as identifying names that appear to be fake or other behavior that appears inauthentic to the reviewers. As such, our estimation of duplicate or false accounts may not accurately represent the actual number of such accounts. We are continually seeking to improve our ability to identify duplicate or false accounts and estimate the total number of such accounts, and such estimates may be affected by improvements or changes in our methodology.  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 525.63623046875, 310.0320129394531, 534.63623046875)
+  - Span: 47
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 47

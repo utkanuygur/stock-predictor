@@ -1,0 +1,7 @@
+CIK: 0000006201
+YEAR: 2013
+QUARTER: 3
+Total Revenue: 6828.00
+Net Income: 289.00
+EPS: 0.86
+Operating Margin: 10.22

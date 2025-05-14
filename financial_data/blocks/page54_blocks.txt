@@ -1,0 +1,114 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 578.9820556640625, 104.43701171875)
+  - Span: In addition, complying with public disclosure rules makes our business more visible, which we believe may result in threatened or actual litigation, including by
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: competitors and other third parties. If such claims are successful, our business and operating results could be harmed, and even if the claims do not result in litigation or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: are resolved in our favor, these claims, and the time and resources necessary to resolve them, could divert the resources of our management and harm our business and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operating results.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In addition, complying with public disclosure rules makes our business more visible, which we believe may result in threatened or actual litigation, including by competitors and other third parties. If such claims are successful, our business and operating results could be harmed, and even if the claims do not result in litigation or are resolved in our favor, these claims, and the time and resources necessary to resolve them, could divert the resources of our management and harm our business and operating results.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 115.42317199707031, 568.8504028320312, 135.22239685058594)
+  - Span: The dual class structure of our common stock and the voting agreements among certain stockholders have the effect of concentrating voting control with our CEO,
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: and also with employees and directors and their affiliates; this will limit or preclude your ability to influence corporate matters.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: The dual class structure of our common stock and the voting agreements among certain stockholders have the effect of concentrating voting control with our CEO, and also with employees and directors and their affiliates; this will limit or preclude your ability to influence corporate matters.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 139.83935546875, 579.4042358398438, 196.83935546875)
+  - Span: Our Class B common stock has ten votes per share, and our Class A common stock has one vote per share. Stockholders who hold shares of Class B common stock,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: including our executive officers, employees, and directors and their affiliates, together hold a substantial majority of the voting power of our outstanding capital stock.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Because of the ten-to-one voting ratio between our Class B and Class A common stock, the holders of our Class B common stock collectively control a majority of the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: combined voting power of our common stock and therefore are able to control all matters submitted to our stockholders for approval so long as the shares of Class B
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: common stock represent at least 9.1% of all outstanding shares of our Class A and Class B common stock. This concentrated control will limit or preclude your ability to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: influence corporate matters for the foreseeable future.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our Class B common stock has ten votes per share, and our Class A common stock has one vote per share. Stockholders who hold shares of Class B common stock, including our executive officers, employees, and directors and their affiliates, together hold a substantial majority of the voting power of our outstanding capital stock. Because of the ten-to-one voting ratio between our Class B and Class A common stock, the holders of our Class B common stock collectively control a majority of the combined voting power of our common stock and therefore are able to control all matters submitted to our stockholders for approval so long as the shares of Class B common stock represent at least 9.1% of all outstanding shares of our Class A and Class B common stock. This concentrated control will limit or preclude your ability to influence corporate matters for the foreseeable future.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 204.63623046875, 578.531982421875, 252.03857421875)
+  - Span: Future transfers by holders of Class B common stock will generally result in those shares converting to Class A common stock, subject to limited exceptions, such
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: as certain transfers effected for estate planning or charitable purposes. The conversion of Class B common stock to Class A common stock will have the effect, over time,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of increasing the relative voting power of those holders of Class B common stock who retain their shares in the long term. If, for example, Mr. Zuckerberg retains a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: significant portion of his holdings of Class B common stock for an extended period of time, he could, in the future, continue to control a majority of the combined voting
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: power of our Class A common stock and Class B common stock.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Future transfers by holders of Class B common stock will generally result in those shares converting to Class A common stock, subject to limited exceptions, such as certain transfers effected for estate planning or charitable purposes. The conversion of Class B common stock to Class A common stock will have the effect, over time, of increasing the relative voting power of those holders of Class B common stock who retain their shares in the long term. If, for example, Mr. Zuckerberg retains a significant portion of his holdings of Class B common stock for an extended period of time, he could, in the future, continue to control a majority of the combined voting power of our Class A common stock and Class B common stock.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 263.0208435058594, 573.0504150390625, 282.8200378417969)
+  - Span: We have elected to take advantage of the “controlled company” exemption to the corporate governance rules for NASDAQ-listed companies, which could make our
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: Class A common stock less attractive to some investors or otherwise harm our stock price.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We have elected to take advantage of the “controlled company” exemption to the corporate governance rules for NASDAQ-listed companies, which could make our Class A common stock less attractive to some investors or otherwise harm our stock price.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 287.43701171875, 578.9820556640625, 362.009765625)
+  - Span: Because we qualify as a “controlled company” under the corporate governance rules for NASDAQ-listed companies, we are not required to have a majority of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: board of directors be independent, nor are we required to have a compensation committee or an independent nominating function. In light of our status as a controlled
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: company, our board of directors determined not to have an independent nominating function and chose to have the full board of directors be directly responsible for
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: nominating members of our board, and in the future we could elect not to have a majority of our board of directors be independent or not to have a compensation
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: committee. Accordingly, should the interests of our controlling stockholder differ from those of other stockholders, the other stockholders may not have the same
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: protections afforded to stockholders of companies that are subject to all of the corporate governance rules for NASDAQ-listed companies. Our status as a controlled
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: company could make our Class A common stock less attractive to some investors or otherwise harm our stock price.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Because we qualify as a “controlled company” under the corporate governance rules for NASDAQ-listed companies, we are not required to have a majority of our board of directors be independent, nor are we required to have a compensation committee or an independent nominating function. In light of our status as a controlled company, our board of directors determined not to have an independent nominating function and chose to have the full board of directors be directly responsible for nominating members of our board, and in the future we could elect not to have a majority of our board of directors be independent or not to have a compensation committee. Accordingly, should the interests of our controlling stockholder differ from those of other stockholders, the other stockholders may not have the same protections afforded to stockholders of companies that are subject to all of the corporate governance rules for NASDAQ-listed companies. Our status as a controlled company could make our Class A common stock less attractive to some investors or otherwise harm our stock price.  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 361.83935546875, 310.0320129394531, 370.83935546875)
+  - Span: 55
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 55

@@ -1,0 +1,142 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 579.1410522460938, 142.83935546875)
+  - Span: As we continue to grow, we cannot guarantee we will continue to attract the personnel we need to maintain our competitive position. In particular, we intend to hire
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: a significant number of engineering and sales personnel in 2012, and we expect to face significant competition from other companies in hiring such personnel, particularly
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in the San Francisco Bay Area. As we mature, the incentives to attract, retain, and motivate employees provided by our equity awards or by future arrangements, such as
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: through cash bonuses, may not be as effective as in the past. Additionally, we have a number of current employees whose equity ownership in our company gives them a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: substantial amount of personal wealth. Likewise, we have a number of current employees whose equity awards are fully vested and are entitled to receive substantial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: amounts of our capital stock. As a result, it may be difficult for us to continue to retain and motivate these employees, and this wealth could affect their decisions about
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: whether or not they continue to work for us. If we do not succeed in attracting, hiring, and integrating excellent personnel, or retaining and motivating existing personnel,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: we may be unable to grow effectively.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: As we continue to grow, we cannot guarantee we will continue to attract the personnel we need to maintain our competitive position. In particular, we intend to hire a significant number of engineering and sales personnel in 2012, and we expect to face significant competition from other companies in hiring such personnel, particularly in the San Francisco Bay Area. As we mature, the incentives to attract, retain, and motivate employees provided by our equity awards or by future arrangements, such as through cash bonuses, may not be as effective as in the past. Additionally, we have a number of current employees whose equity ownership in our company gives them a substantial amount of personal wealth. Likewise, we have a number of current employees whose equity awards are fully vested and are entitled to receive substantial amounts of our capital stock. As a result, it may be difficult for us to continue to retain and motivate these employees, and this wealth could affect their decisions about whether or not they continue to work for us. If we do not succeed in attracting, hiring, and integrating excellent personnel, or retaining and motivating existing personnel, we may be unable to grow effectively.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 153.8216094970703, 539.450439453125, 163.42161560058594)
+  - Span: We may incur liability as a result of information retrieved from or transmitted over the Internet or posted to Facebook and claims related to our products.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We may incur liability as a result of information retrieved from or transmitted over the Internet or posted to Facebook and claims related to our products.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 168.03857421875, 579.1410522460938, 215.43701171875)
+  - Span: We have faced, currently face, and will continue to face claims relating to information that is published or made available on Facebook. In particular, the nature of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our business exposes us to claims related to defamation, intellectual property rights, rights of publicity and privacy, and personal injury torts. This risk is enhanced in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: certain jurisdictions outside the United States where our protection from liability for third-party actions may be unclear and where we may be less protected under local
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: laws than we are in the United States. We could incur significant costs investigating and defending such claims and, if we are found liable, significant damages. If any of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: these events occur, our business and financial results could be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We have faced, currently face, and will continue to face claims relating to information that is published or made available on Facebook. In particular, the nature of our business exposes us to claims related to defamation, intellectual property rights, rights of publicity and privacy, and personal injury torts. This risk is enhanced in certain jurisdictions outside the United States where our protection from liability for third-party actions may be unclear and where we may be less protected under local laws than we are in the United States. We could incur significant costs investigating and defending such claims and, if we are found liable, significant damages. If any of these events occur, our business and financial results could be adversely affected.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 226.4231719970703, 444.6504211425781, 236.02317810058594)
+  - Span: Computer malware, viruses, hacking and phishing attacks, and spamming could harm our business and results of operations.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Computer malware, viruses, hacking and phishing attacks, and spamming could harm our business and results of operations.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 240.63623046875, 578.531982421875, 278.43701171875)
+  - Span: Computer malware, viruses, and computer hacking and phishing attacks have become more prevalent in our industry, have occurred on our systems in the past, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: may occur on our systems in the future. Because of our prominence, we believe that we are a particularly attractive target for such attacks. Though it is difficult to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: determine what, if any, harm may directly result from any specific interruption or attack, any failure to maintain performance, reliability, security, and availability of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: products and technical infrastructure to the satisfaction of our users may harm our reputation and our ability to retain existing users and attract new users.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Computer malware, viruses, and computer hacking and phishing attacks have become more prevalent in our industry, have occurred on our systems in the past, and may occur on our systems in the future. Because of our prominence, we believe that we are a particularly attractive target for such attacks. Though it is difficult to determine what, if any, harm may directly result from any specific interruption or attack, any failure to maintain performance, reliability, security, and availability of our products and technical infrastructure to the satisfaction of our users may harm our reputation and our ability to retain existing users and attract new users.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 286.23779296875, 578.6820068359375, 314.43701171875)
+  - Span: In addition, spammers attempt to use our products to send targeted and untargeted spam messages to users, which may embarrass or annoy users and make
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Facebook less user-friendly. We cannot be certain that the technologies and employees that we have to attempt to defeat spamming attacks will be able to eliminate all
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: spam messages from being sent on our platform. As a result of spamming activities, our users may use Facebook less or stop using our products altogether.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In addition, spammers attempt to use our products to send targeted and untargeted spam messages to users, which may embarrass or annoy users and make Facebook less user-friendly. We cannot be certain that the technologies and employees that we have to attempt to defeat spamming attacks will be able to eliminate all spam messages from being sent on our platform. As a result of spamming activities, our users may use Facebook less or stop using our products altogether.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 325.4231872558594, 563.9208374023438, 345.2223815917969)
+  - Span: Payment transactions on the Facebook Platform may subject us to additional regulatory requirements and other risks that could be costly and difficult to comply
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: with or that could harm our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Payment transactions on the Facebook Platform may subject us to additional regulatory requirements and other risks that could be costly and difficult to comply with or that could harm our business.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 349.83935546875, 579.123046875, 443.611328125)
+  - Span: Our users can use the Facebook Platform to purchase virtual and digital goods from our Platform developers using our Payments infrastructure. Depending on how
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our Payments product evolves, we may be subject to a variety of laws and regulations in the United States, Europe, and elsewhere, including those governing money
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: transmission, gift cards and other prepaid access instruments, electronic funds transfers, anti-money laundering, counter-terrorist financing, gambling, banking and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: lending, and import and export restrictions. In some jurisdictions, the application or interpretation of these laws and regulations is not clear. To increase flexibility in how
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our use of Payments may evolve and to mitigate regulatory uncertainty, we have applied for and received certain money transmitter licenses in the United States and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: expect to apply for certain regulatory licenses in Europe, which will generally require us to demonstrate compliance with many domestic and foreign laws in these areas.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Our efforts to comply with these laws and regulations could be costly and result in diversion of management time and effort and may still not guarantee compliance. In the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: event that we are found to be in violation of any such legal or regulatory requirements, we may be subject to monetary fines or other penalties such as a cease and desist
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: order, or we may be required to make product changes, any of which could have an adverse effect on our business and financial results.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Our users can use the Facebook Platform to purchase virtual and digital goods from our Platform developers using our Payments infrastructure. Depending on how our Payments product evolves, we may be subject to a variety of laws and regulations in the United States, Europe, and elsewhere, including those governing money transmission, gift cards and other prepaid access instruments, electronic funds transfers, anti-money laundering, counter-terrorist financing, gambling, banking and lending, and import and export restrictions. In some jurisdictions, the application or interpretation of these laws and regulations is not clear. To increase flexibility in how our use of Payments may evolve and to mitigate regulatory uncertainty, we have applied for and received certain money transmitter licenses in the United States and expect to apply for certain regulatory licenses in Europe, which will generally require us to demonstrate compliance with many domestic and foreign laws in these areas. Our efforts to comply with these laws and regulations could be costly and result in diversion of management time and effort and may still not guarantee compliance. In the event that we are found to be in violation of any such legal or regulatory requirements, we may be subject to monetary fines or other penalties such as a cease and desist order, or we may be required to make product changes, any of which could have an adverse effect on our business and financial results.  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 443.43701171875, 310.0320129394531, 452.43701171875)
+  - Span: 49
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 49

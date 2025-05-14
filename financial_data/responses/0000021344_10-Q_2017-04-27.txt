@@ -1,0 +1,7 @@
+CIK: 0000021344
+YEAR: 2017
+QUARTER: 1
+Total Revenue: 9118.00
+Net Income: 1184.00
+EPS: 0.28
+Operating Margin: 21.73

@@ -1,0 +1,135 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 568.7208251953125, 86.0231704711914)
+  - Span: We anticipate that we will expend substantial funds in connection with the tax liabilities that arise upon the initial settlement of RSUs and the manner in which we
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: fund that expenditure may have an adverse effect on our financial condition.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We anticipate that we will expend substantial funds in connection with the tax liabilities that arise upon the initial settlement of RSUs and the manner in which we fund that expenditure may have an adverse effect on our financial condition.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63623046875, 579.1410522460938, 176.43701171875)
+  - Span: We anticipate that we will expend substantial funds to satisfy tax withholding and remittance obligations on dates occurring between October 15, 2012 and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: November 14, 2012, when we anticipate settling a portion of our RSUs granted prior to January 1, 2011 (Pre-2011 RSUs). On the settlement dates, we plan to withhold and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: remit income taxes at applicable minimum statutory rates based on the then current value of the underlying shares. We currently expect that the average of these
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: withholding tax rates will be approximately 45%. If the price of our common stock at the time of settlement were equal to $31.10, the closing price of our Class A common
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: stock on June 30, 2012, we estimate that this tax obligation would be approximately $3.7 billion in the aggregate. The amount of this obligation could be higher or lower,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: depending on the closing price of our shares at the time of settlement. To settle these RSUs, assuming an approximate 45% tax withholding rate, we anticipate that we will
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: net settle the awards by delivering an aggregate of approximately 153 million shares of Class B common stock to RSU holders and withholding an aggregate of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: approximately 120 million shares of Class B common stock, based on RSUs outstanding as of June 30, 2012 for which the service condition will be satisfied as of the date of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlement. In connection with these net settlements, we will withhold and remit the tax liabilities on behalf of the RSU holders in cash to the applicable tax authorities.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We anticipate that we will expend substantial funds to satisfy tax withholding and remittance obligations on dates occurring between October 15, 2012 and November 14, 2012, when we anticipate settling a portion of our RSUs granted prior to January 1, 2011 (Pre-2011 RSUs). On the settlement dates, we plan to withhold and remit income taxes at applicable minimum statutory rates based on the then current value of the underlying shares. We currently expect that the average of these withholding tax rates will be approximately 45%. If the price of our common stock at the time of settlement were equal to $31.10, the closing price of our Class A common stock on June 30, 2012, we estimate that this tax obligation would be approximately $3.7 billion in the aggregate. The amount of this obligation could be higher or lower, depending on the closing price of our shares at the time of settlement. To settle these RSUs, assuming an approximate 45% tax withholding rate, we anticipate that we will net settle the awards by delivering an aggregate of approximately 153 million shares of Class B common stock to RSU holders and withholding an aggregate of approximately 120 million shares of Class B common stock, based on RSUs outstanding as of June 30, 2012 for which the service condition will be satisfied as of the date of settlement. In connection with these net settlements, we will withhold and remit the tax liabilities on behalf of the RSU holders in cash to the applicable tax authorities.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 184.23779296875, 578.9820556640625, 250.83935546875)
+  - Span: To fund the withholding and remittance obligations, we may choose to borrow funds from our credit facilities, use a portion of our existing cash, or rely upon a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: combination of these sources. In the event that we elect to satisfy tax withholding and remittance obligations in whole or in part by drawing on our credit facilities, our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: interest expense and principal repayment requirements could increase significantly, which could have an adverse effect on our financial results. Alternatively, we may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: choose to sell equity securities on a date near or after the initial settlement date in an amount that is substantially equivalent to the number of shares of common stock that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: we withhold in connection with these net settlements, such that the newly issued shares should not be dilutive. In the event that we issue equity securities, we cannot
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: assure you that we will be able to successfully match the proceeds to the amount of this tax liability. In addition, any such equity financing could result in a decline in our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: stock price.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: To fund the withholding and remittance obligations, we may choose to borrow funds from our credit facilities, use a portion of our existing cash, or rely upon a combination of these sources. In the event that we elect to satisfy tax withholding and remittance obligations in whole or in part by drawing on our credit facilities, our interest expense and principal repayment requirements could increase significantly, which could have an adverse effect on our financial results. Alternatively, we may choose to sell equity securities on a date near or after the initial settlement date in an amount that is substantially equivalent to the number of shares of common stock that we withhold in connection with these net settlements, such that the newly issued shares should not be dilutive. In the event that we issue equity securities, we cannot assure you that we will be able to successfully match the proceeds to the amount of this tax liability. In addition, any such equity financing could result in a decline in our stock price.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 261.8216247558594, 395.4504089355469, 271.4216003417969)
+  - Span: We cannot be certain that additional financing will be available on reasonable terms when required, or at all.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We cannot be certain that additional financing will be available on reasonable terms when required, or at all.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 276.03857421875, 578.9820556640625, 323.43701171875)
+  - Span: From time to time, we may need additional financing, whether in connection with our RSU tax obligation or otherwise. Our ability to obtain additional financing, if
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and when required, will depend on investor demand, our operating performance, the condition of the capital markets, and other factors. To the extent we draw on our credit
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: facilities to fund the RSU tax obligation, we may need to raise additional funds and we cannot assure you that additional financing will be available to us on favorable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: terms when required, or at all. If we raise additional funds through the issuance of equity, equity-linked or debt securities, those securities may have rights, preferences, or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: privileges senior to the rights of our Class A common stock, and our existing stockholders may experience dilution.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: From time to time, we may need additional financing, whether in connection with our RSU tax obligation or otherwise. Our ability to obtain additional financing, if and when required, will depend on investor demand, our operating performance, the condition of the capital markets, and other factors. To the extent we draw on our credit facilities to fund the RSU tax obligation, we may need to raise additional funds and we cannot assure you that additional financing will be available to us on favorable terms when required, or at all. If we raise additional funds through the issuance of equity, equity-linked or debt securities, those securities may have rights, preferences, or privileges senior to the rights of our Class A common stock, and our existing stockholders may experience dilution.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 334.4231872558594, 296.4504089355469, 344.0231628417969)
+  - Span: Our costs are growing quickly, which could harm our business and profitability.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our costs are growing quickly, which could harm our business and profitability.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 348.63623046875, 579.1410522460938, 432.810546875)
+  - Span: Providing our products to our users is costly and we expect our expenses to continue to increase in the future as we broaden our user base, as users increase the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: number of connections and amount of data they share with us, as we develop and implement new product features that require more computing infrastructure, and as we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: hire additional employees. Historically, our costs have increased each year due to these factors and we expect to continue to incur increasing costs, in particular for
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: employees, servers, storage, power, and data centers, to support our anticipated future growth. We expect to continue to invest in our global infrastructure in order to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: provide our products rapidly and reliably to all users around the world, including in countries where we do not expect significant short-term monetization. Our expenses
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: may continue to grow faster than our revenue over time. Our expenses may be greater than we anticipate, and our investments to make our business and our technical
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: infrastructure more efficient may not be successful. In addition, we may increase marketing, sales, and other operating expenses in order to grow and expand our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operations and to remain competitive. Increases in our costs may adversely affect our business and profitability.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Providing our products to our users is costly and we expect our expenses to continue to increase in the future as we broaden our user base, as users increase the number of connections and amount of data they share with us, as we develop and implement new product features that require more computing infrastructure, and as we hire additional employees. Historically, our costs have increased each year due to these factors and we expect to continue to incur increasing costs, in particular for employees, servers, storage, power, and data centers, to support our anticipated future growth. We expect to continue to invest in our global infrastructure in order to provide our products rapidly and reliably to all users around the world, including in countries where we do not expect significant short-term monetization. Our expenses may continue to grow faster than our revenue over time. Our expenses may be greater than we anticipate, and our investments to make our business and our technical infrastructure more efficient may not be successful. In addition, we may increase marketing, sales, and other operating expenses in order to grow and expand our operations and to remain competitive. Increases in our costs may adversely affect our business and profitability.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 432.63623046875, 310.0320129394531, 441.63623046875)
+  - Span: 46
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 46

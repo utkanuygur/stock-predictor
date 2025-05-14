@@ -1,0 +1,7 @@
+CIK: 0000002488
+YEAR: 2003
+QUARTER: 3
+Total Revenue: 954.00
+Net Income: -31.23
+EPS: -0.09
+Operating Margin: -3.17

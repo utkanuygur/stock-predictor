@@ -1,0 +1,7 @@
+CIK: 0001001039
+YEAR: 2001
+QUARTER: 2
+Total Revenue: N/A
+Net Income: N/A
+EPS: N/A
+Operating Margin: N/A

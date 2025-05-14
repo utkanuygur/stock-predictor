@@ -1,0 +1,7 @@
+CIK: 0001001039
+YEAR: 2002
+QUARTER: 3
+Total Revenue: 5795.00
+Net Income: 364.00
+EPS: 0.18
+Operating Margin: 14.28

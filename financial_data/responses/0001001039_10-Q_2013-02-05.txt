@@ -1,0 +1,7 @@
+CIK: 0001001039
+YEAR: 2013
+QUARTER: 1
+Total Revenue: 11341.00
+Net Income: 1382.00
+EPS: 0.77
+Operating Margin: 20.96

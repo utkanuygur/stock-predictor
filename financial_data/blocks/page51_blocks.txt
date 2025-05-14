@@ -1,0 +1,310 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 549.4008178710938, 86.0231704711914)
+  - Span: The enactment of legislation implementing changes in the U.S. taxation of international business activities or the adoption of other tax reform policies could
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: materially affect our financial position and results of operations.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: The enactment of legislation implementing changes in the U.S. taxation of international business activities or the adoption of other tax reform policies could materially affect our financial position and results of operations.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63623046875, 578.531982421875, 138.03857421875)
+  - Span: The current administration has made public statements indicating that it has made international tax reform a priority, and key members of the U.S. Congress have
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: conducted hearings and proposed a wide variety of potential changes. Certain changes to U.S. tax laws, including limitations on the ability to defer U.S. taxation on
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: earnings outside of the United States until those earnings are repatriated to the United States, could affect the tax treatment of our foreign earnings, as well as cash and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: cash equivalent balances we currently maintain outside of the United States. Due to the large and expanding scale of our international business activities, any changes in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the U.S. taxation of such activities may increase our worldwide effective tax rate and harm our financial position and results of operations.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The current administration has made public statements indicating that it has made international tax reform a priority, and key members of the U.S. Congress have conducted hearings and proposed a wide variety of potential changes. Certain changes to U.S. tax laws, including limitations on the ability to defer U.S. taxation on earnings outside of the United States until those earnings are repatriated to the United States, could affect the tax treatment of our foreign earnings, as well as cash and cash equivalent balances we currently maintain outside of the United States. Due to the large and expanding scale of our international business activities, any changes in the U.S. taxation of such activities may increase our worldwide effective tax rate and harm our financial position and results of operations.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 149.475830078125, 346.2503967285156, 171.82005310058594)
+  - Span: Risks Related to Ownership of Our Class A Common Stock
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: The trading price of our Class A common stock has been and will likely continue to be volatile.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Risks Related to Ownership of Our Class A Common Stock The trading price of our Class A common stock has been and will likely continue to be volatile.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 176.43701171875, 578.531982421875, 227.43701171875)
+  - Span: The trading price of our Class A common stock has been, and is likely to continue to be, volatile. Since shares of our Class A common stock were sold in our initial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: public offering in May 2012 at a price of $38.00 per share, our stock price has ranged from $25.52 to $45.00, through June 30, 2012. In addition to the factors discussed in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: this Quarterly Report on Form 10-Q, the trading price of our Class A common stock may fluctuate significantly in response to numerous factors, many of which are beyond
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our control, including:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: actual or anticipated fluctuations in our revenue and other operating results;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The trading price of our Class A common stock has been, and is likely to continue to be, volatile. Since shares of our Class A common stock were sold in our initial public offering in May 2012 at a price of $38.00 per share, our stock price has ranged from $25.52 to $45.00, through June 30, 2012. In addition to the factors discussed in this Quarterly Report on Form 10-Q, the trading price of our Class A common stock may fluctuate significantly in response to numerous factors, many of which are beyond our control, including:     •  actual or anticipated fluctuations in our revenue and other operating results;
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 227.95761108398438, 483.74102783203125, 240.63623046875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the financial projections we may provide to the public, any changes in these projections or our failure to meet these projections;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the financial projections we may provide to the public, any changes in these projections or our failure to meet these projections;
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 241.15682983398438, 34.10639953613281, 244.7568359375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 244.83935546875, 578.3820190429688, 258.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: actions of securities analysts who initiate or maintain coverage of us, changes in financial estimates by any securities analysts who follow our company, or
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  actions of securities analysts who initiate or maintain coverage of us, changes in financial estimates by any securities analysts who follow our company, or
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 254.43701171875, 289.9410095214844, 263.43701171875)
+  - Span: our failure to meet these estimates or the expectations of investors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: our failure to meet these estimates or the expectations of investors;
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 263.9576110839844, 34.10639953613281, 267.5576171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 267.63623046875, 578.6820068359375, 281.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: additional shares of our common stock being sold into the market by us or our existing stockholders or the anticipation of such sales, including if we issue
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  additional shares of our common stock being sold into the market by us or our existing stockholders or the anticipation of such sales, including if we issue
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 277.23779296875, 514.9410400390625, 299.43701171875)
+  - Span: shares to satisfy RSU-related tax obligations or if existing stockholders sell shares into the market when applicable “lock-up” periods end;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: investor sentiment with respect to our competitors, our business partners, and our industry in general;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: shares to satisfy RSU-related tax obligations or if existing stockholders sell shares into the market when applicable “lock-up” periods end;     •  investor sentiment with respect to our competitors, our business partners, and our industry in general;
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 299.9576110839844, 34.10639953613281, 303.5576171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 303.63623046875, 578.9820556640625, 317.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: announcements by us or our competitors of significant products or features, technical innovations, acquisitions, strategic partnerships, joint ventures, or
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  announcements by us or our competitors of significant products or features, technical innovations, acquisitions, strategic partnerships, joint ventures, or
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 313.23779296875, 143.54100036621094, 326.3544921875)
+  - Span: capital commitments;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text: capital commitments;  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 326.43701171875, 578.6820068359375, 339.810546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: announcements by us or estimates by third parties of actual or anticipated changes in the size of our user base, the level of user engagement or the
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  announcements by us or estimates by third parties of actual or anticipated changes in the size of our user base, the level of user engagement or the
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 336.03857421875, 575.5410766601562, 371.43701171875)
+  - Span: effectiveness of our ad products;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: changes in operating performance and stock market valuations of technology companies in our industry, including our Platform developers and competitors;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: price and volume fluctuations in the overall stock market, including as a result of trends in the economy as a whole;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: effectiveness of our ad products;     •  changes in operating performance and stock market valuations of technology companies in our industry, including our Platform developers and competitors;     •  price and volume fluctuations in the overall stock market, including as a result of trends in the economy as a whole;
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 371.9576110839844, 264.1410217285156, 384.63623046875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: media coverage of our business and financial performance;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  media coverage of our business and financial performance;
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 385.1568298339844, 540.1319580078125, 432.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: lawsuits threatened or filed against us;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: developments in new legislation and pending lawsuits or regulatory actions, including interim or final rulings by judicial or regulatory bodies; and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: other events or factors, including those resulting from war or incidents of terrorism, or responses to these events.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     •  lawsuits threatened or filed against us;     •  developments in new legislation and pending lawsuits or regulatory actions, including interim or final rulings by judicial or regulatory bodies; and     •  other events or factors, including those resulting from war or incidents of terrorism, or responses to these events.  
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 432.03857421875, 310.0320129394531, 441.03857421875)
+  - Span: 52
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 52

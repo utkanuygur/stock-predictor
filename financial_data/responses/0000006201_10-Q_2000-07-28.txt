@@ -1,0 +1,7 @@
+CIK: 0000006201
+YEAR: 2000
+QUARTER: 2
+Total Revenue: 5011.00
+Net Income: 321.00
+EPS: 2.15
+Operating Margin: 10.32

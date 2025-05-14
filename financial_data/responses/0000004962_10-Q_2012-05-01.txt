@@ -1,0 +1,7 @@
+CIK: 0000004962  
+YEAR: 2012  
+QUARTER: 1  
+Total Revenue: 7614.00  
+Net Income: 1256.00  
+EPS: 1.07  
+Operating Margin: 16.51

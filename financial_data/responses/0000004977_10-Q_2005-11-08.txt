@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2005
+QUARTER: 3
+Total Revenue: 3669.00
+Net Income: 455.00
+EPS: 0.91
+Operating Margin: 17.58

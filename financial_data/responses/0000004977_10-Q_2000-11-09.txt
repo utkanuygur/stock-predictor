@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2000
+QUARTER: 3
+Total Revenue: 2475.00
+Net Income: 163.00
+EPS: 0.61
+Operating Margin: 10.18

@@ -1,0 +1,7 @@
+CIK: 0000019617
+YEAR: 2005
+QUARTER: 2
+Total Revenue: 12743.00
+Net Income: 994.00
+EPS: 0.28
+Operating Margin: 9.87

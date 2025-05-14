@@ -1,0 +1,7 @@
+CIK: 0000200406
+YEAR: 2020
+QUARTER: 1
+Total Revenue: 20691.00
+Net Income: 5796.00
+EPS: 2.20
+Operating Margin: 28.26

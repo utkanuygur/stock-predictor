@@ -1,0 +1,125 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (282.29998779296875, 66.675048828125, 329.38201904296875, 75.675048828125)
+  - Span: SIGNATURES
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: SIGNATURES
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 83.43701171875, 578.0819702148438, 111.63623046875)
+  - Span: Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: undersigned, thereunto duly authorized, in the City of Menlo Park, State of California, on this 31st day of July 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Menlo Park, State of California, on this 31st day of July 2012.  
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 112.276611328125, 372.5159912109375, 122.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: FACEBOOK, INC.
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text:    FACEBOOK, INC.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 131.43701171875, 398.52301025390625, 142.412109375)
+  - Span: Date: July 31, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: /s/ DAVID A. EBERSMAN
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Date: July 31, 2012  /s/ DAVID A. EBERSMAN
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (306.3000183105469, 164.6105499267578, 307.9128112792969, 171.810546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (311.70001220703125, 142.23779296875, 406.1820068359375, 170.43446350097656)
+  - Span: David A. Ebersman
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Chief Financial Officer
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (Principal Financial Officer)
+    Font: TimesNewRomanItalic, Size: 9.0
+Full Text: David A. Ebersman Chief Financial Officer (Principal Financial Officer)
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 181.23779296875, 394.02301025390625, 192.208984375)
+  - Span: Date: July 31, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: /s/ DAVID M. SPILLANE
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Date: July 31, 2012  /s/ DAVID M. SPILLANE
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (306.3000183105469, 214.4113311767578, 307.9128112792969, 221.611328125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 192.03857421875, 411.58203125, 228.810546875)
+  - Span: David M. Spillane
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Chief Accounting Officer
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (Principal Accounting Officer)
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: David M. Spillane Chief Accounting Officer (Principal Accounting Officer)  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 228.63623046875, 310.0320129394531, 237.63623046875)
+  - Span: 59
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 59

@@ -1,0 +1,7 @@
+CIK: 0000002969
+YEAR: 2017
+QUARTER: 1
+Total Revenue: 1980.10
+Net Income: 2130.00
+EPS: 9.70
+Operating Margin: 19.80

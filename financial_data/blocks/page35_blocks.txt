@@ -1,0 +1,314 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.677001953125, 574.120849609375, 99.2204360961914)
+  - Span: Risks Related to Our Business and Industry
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: If we fail to retain existing users or add new users, or if our users decrease their level of engagement with Facebook, our revenue, financial results, and business may
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: be significantly harmed.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Risks Related to Our Business and Industry If we fail to retain existing users or add new users, or if our users decrease their level of engagement with Facebook, our revenue, financial results, and business may be significantly harmed.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 103.83740234375, 579.123046875, 199.23779296875)
+  - Span: The size of our user base and our users’ level of engagement are critical to our success. We had 955 million monthly active users (MAUs) as of June 30, 2012. Our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial performance has been and will continue to be significantly determined by our success in adding, retaining, and engaging active users. We anticipate that our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: active user growth rate will decline over time as the size of our active user base increases, and as we achieve higher market penetration rates. To the extent our active user
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: growth rate slows, our business performance will become increasingly dependent on our ability to increase levels of user engagement and monetization in current and new
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: markets. If people do not perceive our products to be useful, reliable, and trustworthy, we may not be able to attract or retain users or otherwise maintain or increase the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: frequency and duration of their engagement. A number of other social networking companies that achieved early popularity have since seen their active user bases or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: levels of engagement decline, in some cases precipitously. There is no guarantee that we will not experience a similar erosion of our active user base or engagement levels.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: A decrease in user retention, growth, or engagement could render Facebook less attractive to developers and advertisers, which may have a material and adverse impact
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: on our revenue, business, financial condition, and results of operations. Any number of factors could potentially negatively affect user retention, growth, and engagement,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: including if:
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The size of our user base and our users’ level of engagement are critical to our success. We had 955 million monthly active users (MAUs) as of June 30, 2012. Our financial performance has been and will continue to be significantly determined by our success in adding, retaining, and engaging active users. We anticipate that our active user growth rate will decline over time as the size of our active user base increases, and as we achieve higher market penetration rates. To the extent our active user growth rate slows, our business performance will become increasingly dependent on our ability to increase levels of user engagement and monetization in current and new markets. If people do not perceive our products to be useful, reliable, and trustworthy, we may not be able to attract or retain users or otherwise maintain or increase the frequency and duration of their engagement. A number of other social networking companies that achieved early popularity have since seen their active user bases or levels of engagement decline, in some cases precipitously. There is no guarantee that we will not experience a similar erosion of our active user base or engagement levels. A decrease in user retention, growth, or engagement could render Facebook less attractive to developers and advertisers, which may have a material and adverse impact on our revenue, business, financial condition, and results of operations. Any number of factors could potentially negatively affect user retention, growth, and engagement, including if:
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 199.75643920898438, 243.7410125732422, 212.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: users increasingly engage with competing products;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  users increasingly engage with competing products;
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 212.95565795898438, 470.541015625, 229.7548828125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we fail to introduce new and improved products or if we introduce new products or services that are not favorably received;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:     •  we fail to introduce new and improved products or if we introduce new products or services that are not favorably received;  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 229.83740234375, 578.3160400390625, 243.2109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we are unable to successfully balance our efforts to provide a compelling user experience with the decisions we make with respect to the frequency,
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  we are unable to successfully balance our efforts to provide a compelling user experience with the decisions we make with respect to the frequency,
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 239.43701171875, 313.34100341796875, 248.43701171875)
+  - Span: prominence, and size of ads and other commercial content that we display;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: prominence, and size of ads and other commercial content that we display;
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 248.95565795898438, 34.10639953613281, 252.5556640625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 252.63818359375, 578.531982421875, 266.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we are unable to continue to develop products for mobile devices that users find engaging, that work with a variety of mobile operating systems and
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  we are unable to continue to develop products for mobile devices that users find engaging, that work with a variety of mobile operating systems and
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 262.23779296875, 271.9410095214844, 271.23779296875)
+  - Span: networks, and that achieve a high level of market acceptance;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: networks, and that achieve a high level of market acceptance;
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 271.7564392089844, 34.10639953613281, 275.3564453125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 275.43701171875, 577.7820434570312, 288.810546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: there are changes in user sentiment about the quality or usefulness of our products or concerns related to privacy and sharing, safety, security, or other
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  there are changes in user sentiment about the quality or usefulness of our products or concerns related to privacy and sharing, safety, security, or other
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 285.03662109375, 100.94100189208984, 294.03662109375)
+  - Span: factors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: factors;
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 294.5552673339844, 526.9410400390625, 307.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we are unable to manage and prioritize information to ensure users are presented with content that is interesting, useful, and relevant to them;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  we are unable to manage and prioritize information to ensure users are presented with content that is interesting, useful, and relevant to them;
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 307.7564392089844, 564.1410522460938, 320.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: there are adverse changes in our products that are mandated by legislation, regulatory authorities, or litigation, including settlements or consent decrees;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  there are adverse changes in our products that are mandated by legislation, regulatory authorities, or litigation, including settlements or consent decrees;
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 320.9556579589844, 526.3410034179688, 346.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: technical or other problems prevent us from delivering our products in a rapid and reliable manner or otherwise affect the user experience;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we adopt policies or procedures related to areas such as sharing or user data that are perceived negatively by our users or the general public;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  technical or other problems prevent us from delivering our products in a rapid and reliable manner or otherwise affect the user experience;     •  we adopt policies or procedures related to areas such as sharing or user data that are perceived negatively by our users or the general public;
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 347.3560485839844, 334.9410095214844, 360.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we fail to provide adequate customer service to users, developers, or advertisers;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  we fail to provide adequate customer service to users, developers, or advertisers;
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 360.5552673339844, 505.7820129394531, 373.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: we, our Platform developers, or other companies in our industry are the subject of adverse media reports or other negative publicity; or
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  we, our Platform developers, or other companies in our industry are the subject of adverse media reports or other negative publicity; or
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 373.7564392089844, 34.10639953613281, 377.3564453125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 377.43701171875, 578.531982421875, 390.810546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our current or future products, such as the Facebook Platform, reduce user activity on Facebook by making it easier for our users to interact and share on
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  our current or future products, such as the Facebook Platform, reduce user activity on Facebook by making it easier for our users to interact and share on
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 387.03662109375, 142.7160186767578, 404.009765625)
+  - Span: third-party websites.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: third-party websites.  
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 403.83740234375, 310.0320129394531, 412.83740234375)
+  - Span: 36
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 36

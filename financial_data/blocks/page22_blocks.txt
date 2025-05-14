@@ -1,0 +1,63 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63720703125, 578.2410278320312, 107.54850006103516)
+  - Span: In June 2012, we discovered an error in the algorithm we used to estimate the geographic location of our users that affected our attribution of certain user locations
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: for the first quarter of 2012. The first quarter of 2012 ARPU amount for the United States & Canada region below reflects an adjustment based on the reclassification to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: more correctly attribute users by geographic region.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 12.0
+Full Text: In June 2012, we discovered an error in the algorithm we used to estimate the geographic location of our users that affected our attribution of certain user locations for the first quarter of 2012. The first quarter of 2012 ARPU amount for the United States & Canada region below reflects an adjustment based on the reclassification to more correctly attribute users by geographic region.  
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 134.0079345703125, 578.2128295898438, 148.4071502685547)
+  - Span: Note: Our revenue by user geography in the charts above is geographically apportioned based on our estimation of the geographic location of our users when they perform a revenue-generating activity. This
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+  - Span: allocation differs from our revenue by geography disclosure in our consolidated financial statements where revenue is geographically apportioned based on the location of the advertiser or developer.
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+Full Text: Note: Our revenue by user geography in the charts above is geographically apportioned based on our estimation of the geographic location of our users when they perform a revenue-generating activity. This allocation differs from our revenue by geography disclosure in our consolidated financial statements where revenue is geographically apportioned based on the location of the advertiser or developer.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 155.43701171875, 578.531982421875, 210.8095703125)
+  - Span: During the second quarter of 2012, worldwide ARPU was $1.28, an increase of 2% from the second quarter of 2011. Over this period, ARPU increased by over 10% in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the United States and Canada, Asia, and Rest of World, and by 8% in Europe. User growth was more rapid in geographies with relatively lower ARPU, such as Asia and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Rest of World. These user growth dynamics resulted in worldwide ARPU increasing at a slower rate than the rate experienced in any geographic region. We expect that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: user growth in the future will continue to be higher in those regions where ARPU is relatively lower, such as Asia and Rest of World, such that worldwide ARPU may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: continue to increase at a slower rate relative to ARPU in any geographic region, or potentially decrease even if ARPU increases in each geographic region.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: During the second quarter of 2012, worldwide ARPU was $1.28, an increase of 2% from the second quarter of 2011. Over this period, ARPU increased by over 10% in the United States and Canada, Asia, and Rest of World, and by 8% in Europe. User growth was more rapid in geographies with relatively lower ARPU, such as Asia and Rest of World. These user growth dynamics resulted in worldwide ARPU increasing at a slower rate than the rate experienced in any geographic region. We expect that user growth in the future will continue to be higher in those regions where ARPU is relatively lower, such as Asia and Rest of World, such that worldwide ARPU may continue to increase at a slower rate relative to ARPU in any geographic region, or potentially decrease even if ARPU increases in each geographic region.  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 210.63720703125, 310.0320129394531, 219.63720703125)
+  - Span: 23
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 23

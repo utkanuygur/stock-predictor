@@ -1,0 +1,7 @@
+CIK: 0001141391
+YEAR: 2021
+QUARTER: 2
+Total Revenue: 4528.00
+Net Income: 2066.00
+EPS: 2.09
+Operating Margin: 51.66

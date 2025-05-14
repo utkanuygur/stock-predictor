@@ -1,0 +1,14 @@
+CIK: 0000019617  
+YEAR: 2004  
+QUARTER: 3  
+Total Revenue: 12505.00  
+Net Income: 1418.00  
+EPS: 0.39  
+Operating Margin: 15.67
+
+Explanation:
+• The report (a Form 10‐Q) is for the three‐month period ended September 30, 2004 (i.e. Q3 2004).
+• “Total Revenue” is taken from the “Total net revenue” line in the Consolidated Statements of Income – $12,505 million.
+• “Net Income” is reported as $1,418 million.
+• “Earnings Per Share (EPS)” – we use the diluted figure of $0.39 per share.
+• “Operating Margin” is calculated as (Income before income tax expense ÷ Total net revenue)×100. With Income before income tax expense of $1,959 million, the margin is (1959/12505)*100 ≈ 15.67%.

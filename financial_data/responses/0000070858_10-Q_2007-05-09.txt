@@ -1,0 +1,7 @@
+CIK: 0000070858
+YEAR: 2007
+QUARTER: 1
+Total Revenue: 18093.00
+Net Income: 5255.00
+EPS: 1.18
+Operating Margin: 43.24

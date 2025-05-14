@@ -1,0 +1,145 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22200012207031, 571.600830078125, 86.0212173461914)
+  - Span: We have been subject to regulatory investigations and settlements and we expect to continue to be subject to such proceedings in the future, which could cause us to
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: incur substantial costs or require us to change our business practices in a manner materially adverse to our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We have been subject to regulatory investigations and settlements and we expect to continue to be subject to such proceedings in the future, which could cause us to incur substantial costs or require us to change our business practices in a manner materially adverse to our business.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63818359375, 578.916015625, 166.83740234375)
+  - Span: From time to time, we receive inquiries from regulators regarding our compliance with laws and other matters. For example, in 2011, we reached agreement with the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Federal Trade Commission (FTC) to resolve an investigation into various practices by entering into a 20-year settlement agreement that, among other things, requires us to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: establish and refine certain practices with respect to treatment of user data and privacy settings and also requires that we complete bi-annual independent privacy audits.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: As another example, in 2011 the Irish Data Protection Commissioner (DPC) conducted an audit of the data, security, and privacy practices and policies of Facebook Ireland,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: which is the data controller for Facebook users outside the United States and Canada, and released a report of its conclusions in December 2011. The DPC conducted a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: second audit in July 2012 and we expect the DPC to release the report of its conclusions in the second half of 2012. The FTC and DPC have investigated and audited
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: aspects of our products and practices, and we expect to continue to be the subject of regulatory investigations and audits in the future by these and other regulators
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: throughout the world.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: From time to time, we receive inquiries from regulators regarding our compliance with laws and other matters. For example, in 2011, we reached agreement with the Federal Trade Commission (FTC) to resolve an investigation into various practices by entering into a 20-year settlement agreement that, among other things, requires us to establish and refine certain practices with respect to treatment of user data and privacy settings and also requires that we complete bi-annual independent privacy audits. As another example, in 2011 the Irish Data Protection Commissioner (DPC) conducted an audit of the data, security, and privacy practices and policies of Facebook Ireland, which is the data controller for Facebook users outside the United States and Canada, and released a report of its conclusions in December 2011. The DPC conducted a second audit in July 2012 and we expect the DPC to release the report of its conclusions in the second half of 2012. The FTC and DPC have investigated and audited aspects of our products and practices, and we expect to continue to be the subject of regulatory investigations and audits in the future by these and other regulators throughout the world.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 174.63818359375, 578.5410766601562, 212.43701171875)
+  - Span: It is possible that a regulatory inquiry might result in changes to our policies or practices. Violation of existing or future regulatory orders or consent decrees could
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: subject us to substantial monetary fines and other penalties that could negatively affect our financial condition and results of operations. In addition, it is possible that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: future orders issued by, or enforcement actions initiated by, regulatory authorities could cause us to incur substantial costs or require us to change our business practices
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in a manner materially adverse to our business.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: It is possible that a regulatory inquiry might result in changes to our policies or practices. Violation of existing or future regulatory orders or consent decrees could subject us to substantial monetary fines and other penalties that could negatively affect our financial condition and results of operations. In addition, it is possible that future orders issued by, or enforcement actions initiated by, regulatory authorities could cause us to incur substantial costs or require us to change our business practices in a manner materially adverse to our business.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 223.4212188720703, 551.32080078125, 243.22044372558594)
+  - Span: If we are unable to protect our intellectual property, the value of our brand and other intangible assets may be diminished, and our business may be adversely
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: affected.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: If we are unable to protect our intellectual property, the value of our brand and other intangible assets may be diminished, and our business may be adversely affected.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 247.83740234375, 578.9820556640625, 391.23779296875)
+  - Span: We rely and expect to continue to rely on a combination of confidentiality and license agreements with our employees, consultants, and third parties with whom we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have relationships, as well as trademark, copyright, patent, trade secret, and domain name protection laws, to protect our proprietary rights. In the United States and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: internationally, we have filed various applications for protection of certain aspects of our intellectual property, and we currently hold a number of issued patents in multiple
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: jurisdictions. In addition, in the future we may acquire additional patents or patent portfolios, which could require significant cash expenditures. However, third parties may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: knowingly or unknowingly infringe our proprietary rights, third parties may challenge proprietary rights held by us, and pending and future trademark and patent
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: applications may not be approved. In addition, effective intellectual property protection may not be available in every country in which we operate or intend to operate our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: business. In any or all of these cases, we may be required to expend significant time and expense in order to prevent infringement or to enforce our rights. Although we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have taken measures to protect our proprietary rights, there can be no assurance that others will not offer products or concepts that are substantially similar to ours and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: compete with our business. In addition, we regularly contribute software source code under open source licenses and have made other technology we developed available
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: under other open licenses, and we include open source software in our products. For example, we have contributed certain specifications and designs related to our data
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: center equipment to the Open Compute Project Foundation, a non-profit entity that shares and develops such information with the technology community, under the Open
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Web Foundation License. As a result of our open source contributions and the use of open source in our products, we may license or be required to license innovations
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: that turn out to be material to our business and may also be exposed to increased litigation risk. If the protection of our proprietary rights is inadequate to prevent
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: unauthorized use or appropriation by third parties, the value of our brand and other intangible assets may be diminished and competitors may be able to more effectively
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: mimic our service and methods of operations. Any of these events could have an adverse effect on our business and financial results.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We rely and expect to continue to rely on a combination of confidentiality and license agreements with our employees, consultants, and third parties with whom we have relationships, as well as trademark, copyright, patent, trade secret, and domain name protection laws, to protect our proprietary rights. In the United States and internationally, we have filed various applications for protection of certain aspects of our intellectual property, and we currently hold a number of issued patents in multiple jurisdictions. In addition, in the future we may acquire additional patents or patent portfolios, which could require significant cash expenditures. However, third parties may knowingly or unknowingly infringe our proprietary rights, third parties may challenge proprietary rights held by us, and pending and future trademark and patent applications may not be approved. In addition, effective intellectual property protection may not be available in every country in which we operate or intend to operate our business. In any or all of these cases, we may be required to expend significant time and expense in order to prevent infringement or to enforce our rights. Although we have taken measures to protect our proprietary rights, there can be no assurance that others will not offer products or concepts that are substantially similar to ours and compete with our business. In addition, we regularly contribute software source code under open source licenses and have made other technology we developed available under other open licenses, and we include open source software in our products. For example, we have contributed certain specifications and designs related to our data center equipment to the Open Compute Project Foundation, a non-profit entity that shares and develops such information with the technology community, under the Open Web Foundation License. As a result of our open source contributions and the use of open source in our products, we may license or be required to license innovations that turn out to be material to our business and may also be exposed to increased litigation risk. If the protection of our proprietary rights is inadequate to prevent unauthorized use or appropriation by third parties, the value of our brand and other intangible assets may be diminished and competitors may be able to more effectively mimic our service and methods of operations. Any of these events could have an adverse effect on our business and financial results.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 402.2220153808594, 571.9608154296875, 422.0212097167969)
+  - Span: We are currently, and expect to be in the future, party to patent lawsuits and other intellectual property rights claims that are expensive and time consuming, and, if
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: resolved adversely, could have a significant impact on our business, financial condition, or results of operations.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We are currently, and expect to be in the future, party to patent lawsuits and other intellectual property rights claims that are expensive and time consuming, and, if resolved adversely, could have a significant impact on our business, financial condition, or results of operations.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 426.63818359375, 579.1410522460938, 482.009765625)
+  - Span: Companies in the Internet, technology, and media industries own large numbers of patents, copyrights, trademarks, and trade secrets, and frequently enter into
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: litigation based on allegations of infringement, misappropriation, or other violations of intellectual property or other rights. In addition, various “non-practicing entities”
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: that own patents and other intellectual property rights often attempt to aggressively assert their rights in order to extract value from technology companies. Furthermore,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: from time to time we may introduce new products, including in areas where we currently do not compete, which could increase our exposure to patent and other intellectual
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: property claims from competitors and non-practicing entities.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Companies in the Internet, technology, and media industries own large numbers of patents, copyrights, trademarks, and trade secrets, and frequently enter into litigation based on allegations of infringement, misappropriation, or other violations of intellectual property or other rights. In addition, various “non-practicing entities” that own patents and other intellectual property rights often attempt to aggressively assert their rights in order to extract value from technology companies. Furthermore, from time to time we may introduce new products, including in areas where we currently do not compete, which could increase our exposure to patent and other intellectual property claims from competitors and non-practicing entities.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 481.83740234375, 310.0320129394531, 490.83740234375)
+  - Span: 44
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 44

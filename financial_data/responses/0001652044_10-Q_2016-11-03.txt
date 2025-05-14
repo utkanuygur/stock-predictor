@@ -1,0 +1,7 @@
+CIK: 0001652044
+YEAR: 2016
+QUARTER: 3
+Total Revenue: 22451.00
+Net Income: 5061.00
+EPS: 7.36
+Operating Margin: 25.70

@@ -1,0 +1,7 @@
+CIK: 0000731766
+YEAR: 2007
+QUARTER: 2
+Total Revenue: 19000.00
+Net Income: 1228.00
+EPS: 0.93
+Operating Margin: 10.92

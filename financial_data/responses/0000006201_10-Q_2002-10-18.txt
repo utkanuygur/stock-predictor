@@ -1,0 +1,7 @@
+CIK: 0000006201
+YEAR: 2002
+QUARTER: 3
+Total Revenue: 4494.00
+Net Income: -924.00
+EPS: -5.93
+Operating Margin: -29.41

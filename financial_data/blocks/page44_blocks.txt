@@ -1,0 +1,140 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63818359375, 579.1410522460938, 181.23779296875)
+  - Span: From time to time, we receive notice letters from patent holders alleging that certain of our products and services infringe their patent rights. We presently are
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: involved in a number of lawsuits, and as we face increasing competition and gain an increasingly high profile, we expect the number of patent and other intellectual
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: property claims against us to grow. Defending patent and other intellectual property litigation is costly and can impose a significant burden on management and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: employees, and there can be no assurances that favorable final outcomes will be obtained in all cases. In addition, plaintiffs may seek, and we may become subject to,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: preliminary or provisional rulings in the course of any such litigation, including potential preliminary injunctions requiring us to cease some or all of our operations. We
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: may decide to settle such lawsuits and disputes on terms that are unfavorable to us. Similarly, if any litigation to which we are a party is resolved adversely, we may be
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: subject to an unfavorable judgment that may not be reversed upon appeal. The terms of such a settlement or judgment may require us to cease some or all of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operations or pay substantial amounts to the other party. In addition, we may have to seek a license to continue practices found to be in violation of a third party’s rights,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: which may not be available on reasonable terms, or at all, and may significantly increase our operating costs and expenses. As a result, we may also be required to develop
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: alternative non-infringing technology or practices or discontinue the practices. The development of alternative non-infringing technology or practices could require
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: significant effort and expense or may not be feasible. Our business, financial condition, or results of operations could be adversely affected as a result of an unfavorable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: resolution of the disputes and litigation referred to above.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: From time to time, we receive notice letters from patent holders alleging that certain of our products and services infringe their patent rights. We presently are involved in a number of lawsuits, and as we face increasing competition and gain an increasingly high profile, we expect the number of patent and other intellectual property claims against us to grow. Defending patent and other intellectual property litigation is costly and can impose a significant burden on management and employees, and there can be no assurances that favorable final outcomes will be obtained in all cases. In addition, plaintiffs may seek, and we may become subject to, preliminary or provisional rulings in the course of any such litigation, including potential preliminary injunctions requiring us to cease some or all of our operations. We may decide to settle such lawsuits and disputes on terms that are unfavorable to us. Similarly, if any litigation to which we are a party is resolved adversely, we may be subject to an unfavorable judgment that may not be reversed upon appeal. The terms of such a settlement or judgment may require us to cease some or all of our operations or pay substantial amounts to the other party. In addition, we may have to seek a license to continue practices found to be in violation of a third party’s rights, which may not be available on reasonable terms, or at all, and may significantly increase our operating costs and expenses. As a result, we may also be required to develop alternative non-infringing technology or practices or discontinue the practices. The development of alternative non-infringing technology or practices could require significant effort and expense or may not be feasible. Our business, financial condition, or results of operations could be adversely affected as a result of an unfavorable resolution of the disputes and litigation referred to above.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 192.2220001220703, 564.0504150390625, 212.02122497558594)
+  - Span: We are involved in numerous class action lawsuits and other litigation matters that are expensive and time consuming, and, if resolved adversely, could harm our
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: business, financial condition, or results of operations.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We are involved in numerous class action lawsuits and other litigation matters that are expensive and time consuming, and, if resolved adversely, could harm our business, financial condition, or results of operations.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 216.63818359375, 578.9820556640625, 292.83740234375)
+  - Span: In addition to intellectual property claims, we are also involved in numerous other lawsuits, including putative class action lawsuits brought by users and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: advertisers, many of which claim statutory damages, and we anticipate that we will continue to be a target for numerous lawsuits in the future. Because we have hundreds
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of millions of users, the plaintiffs in class action cases filed against us typically claim enormous monetary damages even if the alleged per-user harm is small or non-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: existent. Any negative outcome from such lawsuits could result in payments of substantial monetary damages or fines, or changes to our products or business practices,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and accordingly our business, financial condition, or results of operations could be materially and adversely affected. Although the results of such lawsuits and claims
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: cannot be predicted with certainty, we do not believe that the final outcome of those matters relating to our products that we currently face will have a material adverse
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: effect on our business, financial condition, or results of operations. In addition, following our initial public offering, we became the subject of shareholder class action
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: suits. We believe these lawsuits are without merit and are vigorously defending these lawsuits.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In addition to intellectual property claims, we are also involved in numerous other lawsuits, including putative class action lawsuits brought by users and advertisers, many of which claim statutory damages, and we anticipate that we will continue to be a target for numerous lawsuits in the future. Because we have hundreds of millions of users, the plaintiffs in class action cases filed against us typically claim enormous monetary damages even if the alleged per-user harm is small or non- existent. Any negative outcome from such lawsuits could result in payments of substantial monetary damages or fines, or changes to our products or business practices, and accordingly our business, financial condition, or results of operations could be materially and adversely affected. Although the results of such lawsuits and claims cannot be predicted with certainty, we do not believe that the final outcome of those matters relating to our products that we currently face will have a material adverse effect on our business, financial condition, or results of operations. In addition, following our initial public offering, we became the subject of shareholder class action suits. We believe these lawsuits are without merit and are vigorously defending these lawsuits.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 300.63818359375, 578.916015625, 338.43701171875)
+  - Span: There can be no assurances that a favorable final outcome will be obtained in all our cases, and defending any lawsuit is costly and can impose a significant burden
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: on management and employees. Any litigation to which we are a party may result in an onerous or unfavorable judgment that may not be reversed upon appeal or in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: payments of substantial monetary damages or fines, or we may decide to settle lawsuits on similarly unfavorable terms, which could adversely affect our business,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial conditions, or results of operations.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: There can be no assurances that a favorable final outcome will be obtained in all our cases, and defending any lawsuit is costly and can impose a significant burden on management and employees. Any litigation to which we are a party may result in an onerous or unfavorable judgment that may not be reversed upon appeal or in payments of substantial monetary damages or fines, or we may decide to settle lawsuits on similarly unfavorable terms, which could adversely affect our business, financial conditions, or results of operations.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 349.4212341308594, 379.85040283203125, 359.0212097167969)
+  - Span: Our CEO has control over key decision making as a result of his control of a majority of our voting stock.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our CEO has control over key decision making as a result of his control of a majority of our voting stock.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 363.63818359375, 578.916015625, 486.208984375)
+  - Span: As a result of voting agreements with certain stockholders, together with the shares he holds, Mark Zuckerberg, our founder, Chairman, and CEO, is able to exercise
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: voting rights with respect to a majority of the voting power of our outstanding capital stock as of June 30, 2012. Mr. Zuckerberg therefore has the ability to control the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: outcome of matters submitted to our stockholders for approval, including the election of directors and any merger, consolidation, or sale of all or substantially all of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: assets. This concentrated control could delay, defer, or prevent a change of control, merger, consolidation, or sale of all or substantially all of our assets that our other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: stockholders support, or conversely this concentrated control could result in the consummation of such a transaction that our other stockholders do not support. This
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: concentrated control could also discourage a potential investor from acquiring our Class A common stock due to the limited voting power of such stock relative to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Class B common stock and might harm the trading price of our Class A common stock. In addition, Mr. Zuckerberg has the ability to control the management and major
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: strategic investments of our company as a result of his position as our CEO and his ability to control the election or replacement of our directors. In the event of his death,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the shares of our capital stock that Mr. Zuckerberg owns will be transferred to the persons or entities that he designates. As a board member and officer, Mr. Zuckerberg
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: owes a fiduciary duty to our stockholders and must act in good faith in a manner he reasonably believes to be in the best interests of our stockholders. As a stockholder,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: even a controlling stockholder, Mr. Zuckerberg is entitled to vote his shares, and shares over which he has voting control as a result of voting agreements, in his own
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: interests, which may not always be in the interests of our stockholders generally.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: As a result of voting agreements with certain stockholders, together with the shares he holds, Mark Zuckerberg, our founder, Chairman, and CEO, is able to exercise voting rights with respect to a majority of the voting power of our outstanding capital stock as of June 30, 2012. Mr. Zuckerberg therefore has the ability to control the outcome of matters submitted to our stockholders for approval, including the election of directors and any merger, consolidation, or sale of all or substantially all of our assets. This concentrated control could delay, defer, or prevent a change of control, merger, consolidation, or sale of all or substantially all of our assets that our other stockholders support, or conversely this concentrated control could result in the consummation of such a transaction that our other stockholders do not support. This concentrated control could also discourage a potential investor from acquiring our Class A common stock due to the limited voting power of such stock relative to the Class B common stock and might harm the trading price of our Class A common stock. In addition, Mr. Zuckerberg has the ability to control the management and major strategic investments of our company as a result of his position as our CEO and his ability to control the election or replacement of our directors. In the event of his death, the shares of our capital stock that Mr. Zuckerberg owns will be transferred to the persons or entities that he designates. As a board member and officer, Mr. Zuckerberg owes a fiduciary duty to our stockholders and must act in good faith in a manner he reasonably believes to be in the best interests of our stockholders. As a stockholder, even a controlling stockholder, Mr. Zuckerberg is entitled to vote his shares, and shares over which he has voting control as a result of voting agreements, in his own interests, which may not always be in the interests of our stockholders generally.  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 486.03857421875, 310.0320129394531, 495.03857421875)
+  - Span: 45
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 45

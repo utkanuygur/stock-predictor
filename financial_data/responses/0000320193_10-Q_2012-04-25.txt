@@ -1,0 +1,7 @@
+CIK: 0000320193
+YEAR: 2012
+QUARTER: 1
+Total Revenue: 39186.00
+Net Income: 11622.00
+EPS: 12.45
+Operating Margin: 39.26

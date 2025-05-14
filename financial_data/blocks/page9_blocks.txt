@@ -1,0 +1,82 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63671875, 578.9820556640625, 94.83642578125)
+  - Span: Undistributed earnings allocated to these participating securities are subtracted from net income in determining net income attributable to common stockholders.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Net losses are not allocated to these participating securities. Basic EPS is computed by dividing net (loss) income attributable to common stockholders by the weighted-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: average number of shares of our Class A and Class B common stock outstanding, adjusted for outstanding shares that are subject to repurchase.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Undistributed earnings allocated to these participating securities are subtracted from net income in determining net income attributable to common stockholders. Net losses are not allocated to these participating securities. Basic EPS is computed by dividing net (loss) income attributable to common stockholders by the weighted- average number of shares of our Class A and Class B common stock outstanding, adjusted for outstanding shares that are subject to repurchase.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 102.63671875, 578.6820068359375, 140.4365234375)
+  - Span: For the calculation of diluted EPS, net income attributable to common stockholders for basic EPS is adjusted by the effect of dilutive securities, including awards
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: under our equity compensation plans. In addition, the computation of the diluted EPS of Class A common stock assumes the conversion from Class B common stock, while
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the diluted EPS of Class B common stock does not assume the conversion of those shares. Diluted EPS attributable to common stockholders is computed by dividing the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: resulting net income attributable to common stockholders by the weighted-average number of fully diluted common shares outstanding.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: For the calculation of diluted EPS, net income attributable to common stockholders for basic EPS is adjusted by the effect of dilutive securities, including awards under our equity compensation plans. In addition, the computation of the diluted EPS of Class A common stock assumes the conversion from Class B common stock, while the diluted EPS of Class B common stock does not assume the conversion of those shares. Diluted EPS attributable to common stockholders is computed by dividing the resulting net income attributable to common stockholders by the weighted-average number of fully diluted common shares outstanding.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 148.236328125, 579.1320190429688, 234.03662109375)
+  - Span: Dilutive securities in our diluted EPS calculation for the three and six months ended June 30, 2011 do not include Pre-2011 RSUs. Vesting of these RSUs is
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: dependent upon the satisfaction of both a service condition and a liquidity condition. The liquidity condition is satisfied upon the occurrence of a qualifying event,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: defined as a change of control transaction or six months following the completion of our IPO. Our IPO did not occur until May 2012. Therefore, prior to this date the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: holders of these RSUs had no rights in our undistributed earnings and accordingly, they are excluded from the effect of basic and dilutive securities in the three and six
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: months ended June 30, 2011. However, subsequent to the completion of our IPO in May 2012, these RSUs are included in our basic and diluted EPS calculation for the six
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: months ended June 30, 2012. Post-2011 RSUs are not subject to a liquidity condition in order to vest, and are thus included in the calculation of diluted EPS. We also
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: excluded 0.4 million Post-2011 RSUs for the three months ended June 30, 2011, 8.1 million and 0.7 million Post-2011 RSUs for the six months ended June 30, 2012 and 2011,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: respectively, because the impact would be antidilutive. No dilutive securities have been included in the diluted EPS calculation for the three months ended June 30, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: due to our reporting a net loss for the quarter.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Dilutive securities in our diluted EPS calculation for the three and six months ended June 30, 2011 do not include Pre-2011 RSUs. Vesting of these RSUs is dependent upon the satisfaction of both a service condition and a liquidity condition. The liquidity condition is satisfied upon the occurrence of a qualifying event, defined as a change of control transaction or six months following the completion of our IPO. Our IPO did not occur until May 2012. Therefore, prior to this date the holders of these RSUs had no rights in our undistributed earnings and accordingly, they are excluded from the effect of basic and dilutive securities in the three and six months ended June 30, 2011. However, subsequent to the completion of our IPO in May 2012, these RSUs are included in our basic and diluted EPS calculation for the six months ended June 30, 2012. Post-2011 RSUs are not subject to a liquidity condition in order to vest, and are thus included in the calculation of diluted EPS. We also excluded 0.4 million Post-2011 RSUs for the three months ended June 30, 2011, 8.1 million and 0.7 million Post-2011 RSUs for the six months ended June 30, 2012 and 2011, respectively, because the impact would be antidilutive. No dilutive securities have been included in the diluted EPS calculation for the three months ended June 30, 2012 due to our reporting a net loss for the quarter.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 241.83642578125, 490.1159973144531, 258.80908203125)
+  - Span: Basic and diluted EPS are the same for each class of common stock because they are entitled to the same liquidation and dividend rights.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Basic and diluted EPS are the same for each class of common stock because they are entitled to the same liquidation and dividend rights.  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 258.63671875, 310.0320129394531, 267.63671875)
+  - Span: 10
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 10

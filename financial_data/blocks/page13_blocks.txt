@@ -1,0 +1,595 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 74.00897979736328, 406.9128112792969, 81.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:           
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (463.20001220703125, 66.8408203125, 535.0128173828125, 74.04081726074219)
+  - Span: Fair Value Measurement at 
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Fair Value Measurement at 
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (471.3000183105469, 74.00897979736328, 576.7128295898438, 81.24003601074219)
+  - Span: Reporting Date Using
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Reporting Date Using  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 110.0400390625, 349.31280517578125, 117.8095703125)
+  - Span: Description
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Description   
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (365.70001220703125, 103.4404296875, 399.7127990722656, 110.64042663574219)
+  - Span: December 31,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: December 31,
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (376.8000183105469, 110.60956573486328, 406.9128112792969, 117.84062194824219)
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: 2011    
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (425.1000061035156, 81.8408203125, 461.81280517578125, 89.04081726074219)
+  - Span: Quoted Prices
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Quoted Prices
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (423.3000183105469, 89.0400390625, 463.61279296875, 110.64042663574219)
+  - Span: in Active
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Markets for
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Identical Assets
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: in Active Markets for Identical Assets
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (432.3000183105469, 110.60956573486328, 470.5128173828125, 117.84062194824219)
+  - Span: (Level 1)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: (Level 1)    
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (487.20001220703125, 81.8408203125, 516.3456420898438, 89.04081726074219)
+  - Span: Significant
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Significant
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (486.9000244140625, 89.0400390625, 516.765625, 103.44023132324219)
+  - Span: Other
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Observable
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Other Observable
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (490.5000305175781, 103.4404296875, 523.3128051757812, 117.84062194824219)
+  - Span: Inputs
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: (Level 2)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:     
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Inputs (Level 2)    
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (539.7000122070312, 89.0400390625, 575.5656127929688, 103.44023132324219)
+  - Span: Significant
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Unobservable
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Significant Unobservable
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 103.4404296875, 578.916015625, 185.009765625)
+  - Span: Inputs
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: (Level 3)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cash equivalents:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Money market funds
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 892  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 892  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $            0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $             0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: U.S. government securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 60  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 60  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: U.S. government agency securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 50  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 50  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Marketable securities:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: U.S. government securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,415  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,415  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: U.S. government agency securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 981  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 981  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Inputs (Level 3)   Cash equivalents:             Money market funds    $ 892     $ 892     $            0     $             0   U.S. government securities      60       60       0       0   U.S. government agency securities      50       50       0       0   Marketable securities:             U.S. government securities      1,415       1,415       0       0   U.S. government agency securities      981       981       0       0  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 184.78501892089844, 578.916015625, 196.4091796875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total cash equivalents and marketable securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3,398  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3,398  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                     Total cash equivalents and marketable securities    $ 3,398     $ 3,398     $ 0     $ 0  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (345.9000244140625, 197.98521423339844, 371.96881103515625, 199.1852264404297)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (399.9000244140625, 196.78501892089844, 400.1688232421875, 197.9850311279297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (403.5, 197.98521423339844, 430.7688293457031, 199.1852264404297)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (463.5000305175781, 196.78501892089844, 463.7688293457031, 197.9850311279297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (467.1000061035156, 197.98521423339844, 490.7688293457031, 199.1852264404297)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (516.300048828125, 196.78501892089844, 516.56884765625, 197.9850311279297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (519.9000244140625, 197.98521423339844, 544.1688232421875, 199.1852264404297)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (575.1000366210938, 196.78501892089844, 575.3688354492188, 197.9850311279297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 206.43701171875, 499.71600341796875, 215.43701171875)
+  - Span: Gross unrealized gains or losses for cash equivalents and marketable securities as of June 30, 2012 and December 31, 2011 were not material.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Gross unrealized gains or losses for cash equivalents and marketable securities as of June 30, 2012 and December 31, 2011 were not material.
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 223.23681640625, 485.916015625, 269.609375)
+  - Span: The following table classifies our marketable securities by contractual maturities as of June 30, 2012 (in millions):
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Fair Value 
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Due in one year
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 5,369  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Due in one to two years
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  2,721  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The following table classifies our marketable securities by contractual maturities as of June 30, 2012 (in millions):        Fair Value  Due in one year    $ 5,369   Due in one to two years     2,721  
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (425.70001220703125, 269.3856201171875, 485.916015625, 281.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 8,090  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:             $ 8,090  
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (425.70001220703125, 282.5848388671875, 461.3688049316406, 283.7848205566406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (482.1000061035156, 281.3856201171875, 482.3688049316406, 282.5856018066406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 294.675048828125, 170.8410186767578, 317.0202331542969)
+  - Span: Note 6.    Commitments and Contingencies
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Leases
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Note 6.    Commitments and Contingencies Leases
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 321.63623046875, 578.531982421875, 378.63623046875)
+  - Span: We have entered into various capital lease arrangements to obtain property and equipment for our operations. Additionally, on occasion we have purchased
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: property and equipment for which we have subsequently obtained capital financing under sale-leaseback transactions. These agreements are typically for three years
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: except for building leases which are for 15 years, with interest rates ranging from 1% to 13%. The leases are secured by the underlying leased buildings and equipment. We
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have also entered into various non-cancelable operating lease agreements for certain of our offices, equipment, land and data centers with original lease periods expiring
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: between 2012 and 2027. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have free rent periods and/or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We have entered into various capital lease arrangements to obtain property and equipment for our operations. Additionally, on occasion we have purchased property and equipment for which we have subsequently obtained capital financing under sale-leaseback transactions. These agreements are typically for three years except for building leases which are for 15 years, with interest rates ranging from 1% to 13%. The leases are secured by the underlying leased buildings and equipment. We have also entered into various non-cancelable operating lease agreements for certain of our offices, equipment, land and data centers with original lease periods expiring between 2012 and 2027. We are committed to pay a portion of the related actual operating expenses under certain of these lease agreements. Certain of these arrangements have free rent periods and/or escalating rent payment provisions, and we recognize rent expense under such arrangements on a straight-line basis.
+
+================================================================================
+BLOCK 31:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 386.43701171875, 579.7319946289062, 413.009765625)
+  - Span: Operating lease expense totaled $50 million and $101 million for the three and six months ended June 30, 2012, and $61 million and $119 million for the three and six
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: months ended June 30, 2011.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Operating lease expense totaled $50 million and $101 million for the three and six months ended June 30, 2012, and $61 million and $119 million for the three and six months ended June 30, 2011.  
+
+================================================================================
+BLOCK 32:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 412.83642578125, 310.0320129394531, 421.83642578125)
+  - Span: 14
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 14

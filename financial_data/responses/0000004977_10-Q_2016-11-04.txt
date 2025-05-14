@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2016
+QUARTER: 3
+Total Revenue: 5716.00
+Net Income: 629.00
+EPS: 1.54
+Operating Margin: 13.10

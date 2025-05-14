@@ -1,0 +1,489 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.60667419433594, 578.0855712890625, 100.83935546875)
+  - Span: Exhibit
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Incorporated by Reference
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Filed
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Herewith
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Number
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Exhibit Description
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Form
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: File No.
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Exhibit
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Filing Date
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   10.6
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Exhibit          Incorporated by Reference    Filed Herewith Number    Exhibit Description    Form   File No.   Exhibit   Filing Date     10.6
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 104.00897979736328, 68.51280212402344, 111.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (83.10000610351562, 91.83935546875, 538.912841796875, 111.208984375)
+  - Span: Amendment No. 2 to Developer Addendum No. 2, dated July 3, 2012, between Registrant
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and Zynga Inc.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Amendment No. 2 to Developer Addendum No. 2, dated July 3, 2012, between Registrant and Zynga Inc.               
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 91.83935546875, 569.5230102539062, 100.83935546875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 115.83935546875, 49.932003021240234, 124.83935546875)
+  - Span:   31.1
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   31.1
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 128.0089874267578, 68.51280212402344, 135.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (83.10000610351562, 115.83935546875, 538.912841796875, 135.208984375)
+  - Span: Certification of Mark Zuckerberg, Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Certification of Mark Zuckerberg, Chief Executive Officer, pursuant to Rule 13a-14(a)/15d- 14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.               
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 115.83935546875, 569.5230102539062, 124.83935546875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 139.83935546875, 49.932003021240234, 148.83935546875)
+  - Span:   31.2
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   31.2
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 152.0089874267578, 68.51280212402344, 159.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (83.10000610351562, 139.83935546875, 538.912841796875, 159.208984375)
+  - Span: Certification of David A. Ebersman, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Certification of David A. Ebersman, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d- 14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.               
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 139.83935546875, 569.5230102539062, 148.83935546875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 163.83935546875, 53.53200149536133, 172.83935546875)
+  - Span:   32.1#
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   32.1#
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 176.0089874267578, 68.51280212402344, 183.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (83.10000610351562, 163.83935546875, 538.912841796875, 183.208984375)
+  - Span: Certification of Mark Zuckerberg, Chief Executive Officer, pursuant to 18 U.S.C.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Certification of Mark Zuckerberg, Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.               
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 163.83935546875, 569.5230102539062, 172.83935546875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 187.83935546875, 53.53200149536133, 196.83935546875)
+  - Span:   32.2#
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   32.2#
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 200.0089874267578, 68.51280212402344, 207.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (83.10000610351562, 187.83935546875, 538.912841796875, 207.208984375)
+  - Span: Certification of David A. Ebersman, Chief Financial Officer, pursuant to 18 U.S.C.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Certification of David A. Ebersman, Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.               
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 187.83935546875, 569.5230102539062, 196.83935546875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 211.83935546875, 569.5230102539062, 221.611328125)
+  - Span: 101.INS*
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: XBRL Instance Document.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 101.INS*    XBRL Instance Document.                X
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 226.23779296875, 569.5230102539062, 236.009765625)
+  - Span: 101.SCH*
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: XBRL Taxonomy Extension Schema Document.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 101.SCH*   XBRL Taxonomy Extension Schema Document.                X
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 240.63623046875, 569.5230102539062, 250.412109375)
+  - Span: 101.CAL*
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: XBRL Taxonomy Extension Calculation Linkbase Document.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 101.CAL*   XBRL Taxonomy Extension Calculation Linkbase Document.                X
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 255.03857421875, 569.5230102539062, 264.810546875)
+  - Span: 101.DEF*
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: XBRL Taxonomy Extension Definition Linkbase Document.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 101.DEF*    XBRL Taxonomy Extension Definition Linkbase Document.                X
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 269.43701171875, 569.5230102539062, 279.208984375)
+  - Span: 101.LAB*
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: XBRL Taxonomy Extension Labels Linkbase Document.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 101.LAB*   XBRL Taxonomy Extension Labels Linkbase Document.                X
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 283.83935546875, 578.3160400390625, 308.43701171875)
+  - Span: 101.PRE*
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: XBRL Taxonomy Extension Presentation Linkbase Document.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span: † Registrant has omitted portions of the referenced exhibit pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933,
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 101.PRE*    XBRL Taxonomy Extension Presentation Linkbase Document.                X  † Registrant has omitted portions of the referenced exhibit pursuant to a request for confidential treatment under Rule 406 promulgated under the Securities Act of 1933,
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 309.03857421875, 577.33203125, 327.63623046875)
+  - Span: as amended (Securities Act).
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: # This certification is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or otherwise subject to the liability
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: as amended (Securities Act). # This certification is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or otherwise subject to the liability
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 328.23779296875, 578.9820556640625, 346.83935546875)
+  - Span: of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: * Pursuant to applicable securities laws and regulations, these interactive data files are deemed not filed or part of a registration statement or prospectus for purposes of
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act. * Pursuant to applicable securities laws and regulations, these interactive data files are deemed not filed or part of a registration statement or prospectus for purposes of
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 347.43701171875, 577.4819946289062, 374.009765625)
+  - Span: sections 11 or 12 of the Securities Act, are deemed not filed for purposes of section 18 of the Exchange Act and otherwise are not subject to liability under these
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: sections.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: sections 11 or 12 of the Securities Act, are deemed not filed for purposes of section 18 of the Exchange Act and otherwise are not subject to liability under these sections.  
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 373.83935546875, 310.0320129394531, 382.83935546875)
+  - Span: 58
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 58

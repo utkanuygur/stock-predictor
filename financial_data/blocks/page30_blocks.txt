@@ -1,0 +1,141 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 579.1320190429688, 190.83740234375)
+  - Span: Pre-2011 RSUs vest upon the satisfaction of both a service condition and a liquidity condition. The liquidity condition will be satisfied in November 2012. Under
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlement procedures applicable to these awards, we are permitted to deliver the underlying shares within 30 days before or after the date on which the liquidity condition
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: is satisfied. As a result, we expect that a portion of these RSUs that are held by our directors and then current employees will be settled on a date that is between
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: October 15, 2012 and November 13, 2012. In addition, a portion of these RSUs that are held by former employees will be settled on or about November 14, 2012. On the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlement dates, we plan to withhold and remit income taxes for certain RSU holders at applicable minimum statutory rates based on the then current value of the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: underlying shares. We currently expect that the average of these withholding tax rates will be approximately 45%. Assuming the price of our common stock at the time of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlement were equal to the closing price of our Class A common stock on June 30, 2012, and based on Pre-2011 RSUs outstanding as of June 30, 2012 for which the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: service condition will be satisfied as of the date of settlement, we estimate that this tax obligation would be approximately $3.7 billion in the aggregate. The amount of this
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: obligation could be higher or lower, depending on the closing price of our shares at the time of settlement. To settle these RSUs, assuming an approximate 45% tax
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: withholding rate, we anticipate that we will net settle the awards by delivering an aggregate of approximately 153 million shares of Class B common stock to RSU holders
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and withholding an aggregate of approximately 120 million shares of Class B common stock based on RSUs outstanding as of June 30, 2012 for which the service condition
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: will be satisfied as of the date of settlement. In connection with these net settlements, we will withhold and remit the tax liabilities on behalf of the RSU holders to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: relevant tax authorities in cash.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Pre-2011 RSUs vest upon the satisfaction of both a service condition and a liquidity condition. The liquidity condition will be satisfied in November 2012. Under settlement procedures applicable to these awards, we are permitted to deliver the underlying shares within 30 days before or after the date on which the liquidity condition is satisfied. As a result, we expect that a portion of these RSUs that are held by our directors and then current employees will be settled on a date that is between October 15, 2012 and November 13, 2012. In addition, a portion of these RSUs that are held by former employees will be settled on or about November 14, 2012. On the settlement dates, we plan to withhold and remit income taxes for certain RSU holders at applicable minimum statutory rates based on the then current value of the underlying shares. We currently expect that the average of these withholding tax rates will be approximately 45%. Assuming the price of our common stock at the time of settlement were equal to the closing price of our Class A common stock on June 30, 2012, and based on Pre-2011 RSUs outstanding as of June 30, 2012 for which the service condition will be satisfied as of the date of settlement, we estimate that this tax obligation would be approximately $3.7 billion in the aggregate. The amount of this obligation could be higher or lower, depending on the closing price of our shares at the time of settlement. To settle these RSUs, assuming an approximate 45% tax withholding rate, we anticipate that we will net settle the awards by delivering an aggregate of approximately 153 million shares of Class B common stock to RSU holders and withholding an aggregate of approximately 120 million shares of Class B common stock based on RSUs outstanding as of June 30, 2012 for which the service condition will be satisfied as of the date of settlement. In connection with these net settlements, we will withhold and remit the tax liabilities on behalf of the RSU holders to the relevant tax authorities in cash.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 198.63623046875, 578.6820068359375, 226.83740234375)
+  - Span: To fund the withholding and remittance obligations, we may choose to borrow funds from our credit facilities, use a portion of our existing cash, or rely upon a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: combination of these sources. Alternatively, we may choose to sell equity securities on a date near or after the initial settlement date in an amount substantially equivalent
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: to the number of shares of common stock that we withhold in connection with these net settlements.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: To fund the withholding and remittance obligations, we may choose to borrow funds from our credit facilities, use a portion of our existing cash, or rely upon a combination of these sources. Alternatively, we may choose to sell equity securities on a date near or after the initial settlement date in an amount substantially equivalent to the number of shares of common stock that we withhold in connection with these net settlements.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 234.63623046875, 579.1410522460938, 262.83740234375)
+  - Span: In February 2012, we entered into a new agreement for an unsecured five-year revolving credit facility that allows us to borrow up to $5,000 million for general
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: corporate purposes, with interest payable on the borrowed amounts set at LIBOR plus 1.0%. Under the terms of the new agreement, we are obligated to pay a commitment
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: fee of 0.10% per annum on the daily undrawn balance.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In February 2012, we entered into a new agreement for an unsecured five-year revolving credit facility that allows us to borrow up to $5,000 million for general corporate purposes, with interest payable on the borrowed amounts set at LIBOR plus 1.0%. Under the terms of the new agreement, we are obligated to pay a commitment fee of 0.10% per annum on the daily undrawn balance.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 270.63623046875, 578.531982421875, 366.03662109375)
+  - Span: Concurrent with our entering into the new revolving credit facility, we also entered into a bridge credit facility that allows us to borrow up to $3,000 million to fund
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: tax withholding and remittance obligations related to the settlement of RSUs in connection with our IPO, with interest payable on the borrowed amounts set at LIBOR plus
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1.0% and an additional 0.25% payable on drawn balances outstanding from and after the 180th day of borrowing. We may make a single borrowing under this bridge
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: facility beginning on the closing date of our IPO and ending on the date that is 240 days after that date. Any amounts outstanding under this facility will be due one year
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: after the date we draw on the facility but no later than June 30, 2014. During the term of this bridge facility, the lenders’ commitments are subject to reduction and amounts
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: borrowed thereunder are subject to repayment in the event we raise capital through certain asset sales, debt issuances, or equity issuances. We paid origination fees at
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: closing and these fees are amortized over the remaining term of the facility, and we are obligated to pay an additional upfront fee of 0.20% of the aggregate amount of the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: borrowings requested on any applicable funding date. Under the terms of the agreement, we are obligated to pay a commitment fee of 0.10% per annum on the daily
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: undrawn balance from and after the 90th day following the date we entered into the bridge facility. No amounts were drawn down under these credit and bridge credit
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: facility agreement as of June 30, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Concurrent with our entering into the new revolving credit facility, we also entered into a bridge credit facility that allows us to borrow up to $3,000 million to fund tax withholding and remittance obligations related to the settlement of RSUs in connection with our IPO, with interest payable on the borrowed amounts set at LIBOR plus 1.0% and an additional 0.25% payable on drawn balances outstanding from and after the 180th day of borrowing. We may make a single borrowing under this bridge facility beginning on the closing date of our IPO and ending on the date that is 240 days after that date. Any amounts outstanding under this facility will be due one year after the date we draw on the facility but no later than June 30, 2014. During the term of this bridge facility, the lenders’ commitments are subject to reduction and amounts borrowed thereunder are subject to repayment in the event we raise capital through certain asset sales, debt issuances, or equity issuances. We paid origination fees at closing and these fees are amortized over the remaining term of the facility, and we are obligated to pay an additional upfront fee of 0.20% of the aggregate amount of the borrowings requested on any applicable funding date. Under the terms of the agreement, we are obligated to pay a commitment fee of 0.10% per annum on the daily undrawn balance from and after the 90th day following the date we entered into the bridge facility. No amounts were drawn down under these credit and bridge credit facility agreement as of June 30, 2012.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 373.83740234375, 577.9320068359375, 392.43701171875)
+  - Span: As of June 30, 2012, $408 million of the $10.2 billion in cash and cash equivalents and marketable securities was held by our foreign subsidiaries. We have provided
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: for the additional taxes that would be due if we repatriated these funds for use in our operations in the United States.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: As of June 30, 2012, $408 million of the $10.2 billion in cash and cash equivalents and marketable securities was held by our foreign subsidiaries. We have provided for the additional taxes that would be due if we repatriated these funds for use in our operations in the United States.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 403.4212341308594, 160.2504119873047, 413.0212097167969)
+  - Span: Cash Provided by Operating Activities
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Cash Provided by Operating Activities
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 417.63623046875, 578.9820556640625, 463.41015625)
+  - Span: Cash flow from operating activities during the first six months of 2012 primarily consisted of adjustments to net income for certain non-cash items such as share-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: based compensation expense of $1.2 billion and total depreciation and amortization, partially offset by deferred income taxes and income tax refundable. The increase in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: cash flow from operating activities during the first six months of 2012 compared to the same period in 2011 was mainly due to increases in adjustments for non-cash items
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: as described above, partially offset by an increase in income tax refundable and a decrease in net income.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Cash flow from operating activities during the first six months of 2012 primarily consisted of adjustments to net income for certain non-cash items such as share- based compensation expense of $1.2 billion and total depreciation and amortization, partially offset by deferred income taxes and income tax refundable. The increase in cash flow from operating activities during the first six months of 2012 compared to the same period in 2011 was mainly due to increases in adjustments for non-cash items as described above, partially offset by an increase in income tax refundable and a decrease in net income.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 463.23779296875, 310.0320129394531, 472.23779296875)
+  - Span: 31
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 31

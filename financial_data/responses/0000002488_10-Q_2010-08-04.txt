@@ -1,0 +1,7 @@
+CIK: 0000002488
+YEAR: 2010
+QUARTER: 2
+Total Revenue: 1653.00
+Net Income: -43.00
+EPS: -0.06
+Operating Margin: 7.57

@@ -1,0 +1,7 @@
+CIK: 0000001800
+YEAR: 2008
+QUARTER: 1
+Total Revenue: 6765.60
+Net Income: 937.87
+EPS: 0.61
+Operating Margin: 16.96

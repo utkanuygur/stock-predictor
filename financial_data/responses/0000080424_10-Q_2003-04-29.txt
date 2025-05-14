@@ -1,0 +1,7 @@
+CIK: 0000080424
+YEAR: 2003
+QUARTER: 1
+Total Revenue: 10656.00
+Net Income: 1273.00
+EPS: 0.91
+Operating Margin: 18.40

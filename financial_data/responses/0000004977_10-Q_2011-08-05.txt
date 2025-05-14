@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2011
+QUARTER: 2
+Total Revenue: 5100.00
+Net Income: 280.00
+EPS: 0.60
+Operating Margin: 20.46

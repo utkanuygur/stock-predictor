@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2009
+QUARTER: 3
+Total Revenue: 4526.00
+Net Income: 363.00
+EPS: 0.78
+Operating Margin: 12.13

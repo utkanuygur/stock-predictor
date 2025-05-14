@@ -1,0 +1,82 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875118255615234, 89.84099578857422, 52.875118255615234)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (216.3000030517578, 66.675048828125, 395.38201904296875, 75.675048828125)
+  - Span: NOTE ABOUT FORWARD-LOOKING STATEMENTS
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: NOTE ABOUT FORWARD-LOOKING STATEMENTS
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 83.436279296875, 579.1410522460938, 188.436279296875)
+  - Span: This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: contained in this Quarterly Report on Form 10-Q other than statements of historical fact, including statements regarding our future results of operations and financial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: position, our business strategy and plans, and our objectives for future operations, are forward-looking statements. The words “believe,” “may,” “will,” “estimate,”
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: “continue,” “anticipate,” “intend,” “expect,” and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: strategy, short-term and long-term business operations and objectives, and financial needs. These forward-looking statements are subject to a number of risks,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: uncertainties and assumptions, including those described in Part II. Item 1A. “Risk Factors” in this Quarterly Report on Form 10-Q. Moreover, we operate in a very
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this Quarterly Report on Form 10-Q may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained in this Quarterly Report on Form 10-Q other than statements of historical fact, including statements regarding our future results of operations and financial position, our business strategy and plans, and our objectives for future operations, are forward-looking statements. The words “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “intend,” “expect,” and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives, and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in Part II. Item 1A. “Risk Factors” in this Quarterly Report on Form 10-Q. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward- looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this Quarterly Report on Form 10-Q may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 196.236328125, 577.041015625, 214.8363037109375)
+  - Span: We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 222.6363525390625, 578.531982421875, 258.80908203125)
+  - Span: Unless expressly indicated or the context requires otherwise, the terms “Facebook,” “company,” “we,” “us,” and “our” in this document refer to Facebook, Inc., a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Delaware corporation, and, where appropriate, its wholly owned subsidiaries. The term “Facebook” may also refer to our products, regardless of the manner in which they
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: are accessed.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Unless expressly indicated or the context requires otherwise, the terms “Facebook,” “company,” “we,” “us,” and “our” in this document refer to Facebook, Inc., a Delaware corporation, and, where appropriate, its wholly owned subsidiaries. The term “Facebook” may also refer to our products, regardless of the manner in which they are accessed.  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (304.20001220703125, 258.6363525390625, 308.2320251464844, 267.6363525390625)
+  - Span: 3
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 3

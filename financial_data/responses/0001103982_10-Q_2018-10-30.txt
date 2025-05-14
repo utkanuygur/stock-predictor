@@ -1,0 +1,7 @@
+CIK: 0001103982
+YEAR: 2018
+QUARTER: 3
+Total Revenue: 6288.00
+Net Income: 1194.00
+EPS: 0.81
+Operating Margin: 11.72

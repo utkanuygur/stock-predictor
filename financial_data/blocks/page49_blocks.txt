@@ -1,0 +1,292 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 66.63623046875, 443.541015625, 75.63623046875)
+  - Span: In addition, we may be subject to a variety of additional risks as a result of Payments on the Facebook Platform, including:
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In addition, we may be subject to a variety of additional risks as a result of Payments on the Facebook Platform, including:
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 76.1568374633789, 501.1410217285156, 128.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: increased costs and diversion of management time and effort and other resources to deal with bad transactions or customer disputes;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: potential fraudulent or otherwise illegal activity by users, developers, employees, or third parties;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: restrictions on the investment of consumer funds used to transact Payments; and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: additional disclosure and reporting requirements.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  increased costs and diversion of management time and effort and other resources to deal with bad transactions or customer disputes;     •  potential fraudulent or otherwise illegal activity by users, developers, employees, or third parties;     •  restrictions on the investment of consumer funds used to transact Payments; and     •  additional disclosure and reporting requirements.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 139.4231719970703, 576.890380859375, 159.22239685058594)
+  - Span: We plan to continue expanding our operations abroad where we have limited operating experience and may be subject to increased business and economic risks that
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: could affect our financial results.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We plan to continue expanding our operations abroad where we have limited operating experience and may be subject to increased business and economic risks that could affect our financial results.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 163.83935546875, 577.9320068359375, 224.43701171875)
+  - Span: We plan to continue the international expansion of our business operations and the translation of our products. We currently make Facebook available in more than
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 70 different languages, and we have offices or data centers in more than 20 different countries. We may enter new international markets where we have limited or no
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: experience in marketing, selling, and deploying our products. For example, we continue to evaluate entering China. However, this market has substantial legal and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: regulatory complexities that have prevented our entry into China to date. If we fail to deploy or manage our operations in international markets successfully, our business
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: may suffer. In addition, we are subject to a variety of risks inherent in doing business internationally, including:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: political, social, or economic instability;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We plan to continue the international expansion of our business operations and the translation of our products. We currently make Facebook available in more than 70 different languages, and we have offices or data centers in more than 20 different countries. We may enter new international markets where we have limited or no experience in marketing, selling, and deploying our products. For example, we continue to evaluate entering China. However, this market has substantial legal and regulatory complexities that have prevented our entry into China to date. If we fail to deploy or manage our operations in international markets successfully, our business may suffer. In addition, we are subject to a variety of risks inherent in doing business internationally, including:     •  political, social, or economic instability;
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 224.95761108398438, 34.10639953613281, 228.5576171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 228.63623046875, 577.9320068359375, 242.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: risks related to the legal and regulatory environment in foreign jurisdictions, including with respect to privacy, and unexpected changes in laws, regulatory
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  risks related to the legal and regulatory environment in foreign jurisdictions, including with respect to privacy, and unexpected changes in laws, regulatory
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 238.23779296875, 177.14100646972656, 251.3544921875)
+  - Span: requirements, and enforcement;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text: requirements, and enforcement;  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 251.43701171875, 578.531982421875, 264.810546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: potential damage to our brand and reputation due to compliance with local laws, including potential censorship or requirements to provide user information
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  potential damage to our brand and reputation due to compliance with local laws, including potential censorship or requirements to provide user information
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 261.03857421875, 222.74099731445312, 296.43701171875)
+  - Span: to local authorities;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: fluctuations in currency exchange rates;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: higher levels of credit risk and payment fraud;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: to local authorities;     •  fluctuations in currency exchange rates;     •  higher levels of credit risk and payment fraud;
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 296.9576110839844, 269.5409851074219, 309.63623046875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: enhanced difficulties of integrating any foreign acquisitions;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  enhanced difficulties of integrating any foreign acquisitions;
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 310.1568298339844, 294.7409973144531, 340.1552734375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: burdens of complying with a variety of foreign laws;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: reduced protection for intellectual property rights in some countries;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:     •  burdens of complying with a variety of foreign laws;     •  reduced protection for intellectual property rights in some countries;  
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 340.23779296875, 578.6820068359375, 353.611328125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: difficulties in staffing and managing global operations and the increased travel, infrastructure, and legal compliance costs associated with multiple
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  difficulties in staffing and managing global operations and the increased travel, infrastructure, and legal compliance costs associated with multiple
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 349.83935546875, 459.13201904296875, 385.23779296875)
+  - Span: international locations;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: compliance with the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and similar laws in other jurisdictions; and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: compliance with statutory equity requirements and management of tax consequences.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: international locations;     •  compliance with the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and similar laws in other jurisdictions; and     •  compliance with statutory equity requirements and management of tax consequences.
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 393.03857421875, 553.7160034179688, 410.009765625)
+  - Span: If we are unable to expand internationally and manage the complexity of our global operations successfully, our financial results could be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: If we are unable to expand internationally and manage the complexity of our global operations successfully, our financial results could be adversely affected.  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 409.83935546875, 310.0320129394531, 418.83935546875)
+  - Span: 50
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 50

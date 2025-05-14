@@ -1,0 +1,7 @@
+CIK: 0001090872
+YEAR: 2004
+QUARTER: 1
+Total Revenue: 1643.00
+Net Income: 71.00
+EPS: 0.15
+Operating Margin: 4.81

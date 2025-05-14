@@ -1,0 +1,7 @@
+CIK: 0000006201
+YEAR: 2010
+QUARTER: 2
+Total Revenue: 5674.00
+Net Income: -11.00
+EPS: -0.03
+Operating Margin: 3.45

@@ -1,0 +1,7 @@
+CIK: 0000034088
+YEAR: 2012
+QUARTER: 3
+Total Revenue: 115706.00
+Net Income: 9570.00
+EPS: 2.09
+Operating Margin: 14.97

@@ -1,0 +1,7 @@
+CIK: 0001045810
+YEAR: 2003
+QUARTER: 2
+Total Revenue: 459.77
+Net Income: 24.15
+EPS: 0.15
+Operating Margin: 5.36

@@ -1,0 +1,15 @@
+CIK: 0000006201
+YEAR: 2020
+QUARTER: 3
+Total Revenue: 3173.00
+Net Income: -2399.00
+EPS: -4.71
+Operating Margin: -90.50
+
+CIK: 0000006201
+YEAR: 2020
+QUARTER: 3
+Total Revenue: 3172.00
+Net Income: -2276.00
+EPS: N/A
+Operating Margin: -88.61

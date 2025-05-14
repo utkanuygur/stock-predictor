@@ -1,0 +1,7 @@
+CIK: 0000796343
+YEAR: 2007
+QUARTER: 3
+Total Revenue: 851.69
+Net Income: 205.24
+EPS: 0.35
+Operating Margin: 29.93

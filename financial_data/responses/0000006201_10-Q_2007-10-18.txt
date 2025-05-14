@@ -1,0 +1,7 @@
+CIK: 0000006201
+YEAR: 2007
+QUARTER: 3
+Total Revenue: 5946.00
+Net Income: 175.00
+EPS: 0.70
+Operating Margin: 5.36

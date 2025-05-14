@@ -1,0 +1,15 @@
+CIK: 0000006201
+YEAR: 2021
+QUARTER: 3
+Total Revenue: 8969.00
+Net Income: 169.00
+EPS: 0.26
+Operating Margin: 6.64
+
+CIK: 0000006201
+YEAR: 2021
+QUARTER: 3
+Total Revenue: 8968.00
+Net Income: 280.00
+EPS: N/A
+Operating Margin: 7.73

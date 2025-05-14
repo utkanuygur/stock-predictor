@@ -1,0 +1,1063 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (194.10000610351562, 66.675048828125, 417.5820007324219, 85.275146484375)
+  - Span: FACEBOOK, INC.
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: FACEBOOK, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (285.6000061035156, 85.8338851928711, 326.08203125, 104.4339828491211)
+  - Span: (In millions)
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: (Unaudited)
+    Font: TimesNewRomanItalic, Size: 9.0
+Full Text: (In millions) (Unaudited)
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 112.40937042236328, 496.9128112792969, 119.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (517.2000122070312, 105.240234375, 566.985595703125, 112.44023132324219)
+  - Span: Six Months Ended
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Six Months Ended
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 112.40937042236328, 578.916015625, 309.80908203125)
+  - Span: June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cash flows from operating activities
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Net income
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 48  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 471 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Adjustments to reconcile net income to net cash provided by operating activities:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Depreciation and amortization
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 249  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 123 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Loss on write-off of equipment
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Share-based compensation
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,209  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 71 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Deferred income taxes
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (374) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (14) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Tax benefit from share-based award activity
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 381  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 355 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Excess tax benefit from share-based award activity
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (381) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (355) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Changes in assets and liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Accounts receivable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (41) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (28) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Income tax refundable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (567) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Prepaid expenses and other current assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (7) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (226) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Other assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (43) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (6) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Accounts payable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (8) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 7 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Platform partners payable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (15) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 38  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Accrued expenses and other current liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 226  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (21) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Deferred revenue and deposits
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (5) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 20 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Other liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 7  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 33 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: June 30,        2012    2011   Cash flows from operating activities      Net income    $ 48    $ 471  Adjustments to reconcile net income to net cash provided by operating activities:      Depreciation and amortization      249      123  Loss on write-off of equipment      4      6  Share-based compensation     1,209      71  Deferred income taxes     (374)     (14)  Tax benefit from share-based award activity      381      355  Excess tax benefit from share-based award activity     (381)    (355)  Changes in assets and liabilities      Accounts receivable      (41)     (28)  Income tax refundable     (567)     0   Prepaid expenses and other current assets      (7)    (226)  Other assets      (43)     (6)  Accounts payable      (8)     7  Platform partners payable      (15)     38   Accrued expenses and other current liabilities      226      (21)  Deferred revenue and deposits      (5)     20  Other liabilities      7      33 
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 309.5848388671875, 578.916015625, 398.00927734375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net cash provided by operating activities
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 683 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 474  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Cash flows from investing activities
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Purchases of property and equipment
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (866) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (285) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Purchases of marketable securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (6,957) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (1,892) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Sales of marketable securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 128  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Maturities of marketable securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,106  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Investments in non-marketable equity securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (3) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (1) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Acquisitions of businesses, net of cash acquired, and purchases of intangible and other assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (575) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (4) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Change in restricted cash and deposits
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (3) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (3) 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Net cash provided by operating activities      683     474   Cash flows from investing activities      Purchases of property and equipment     (866)    (285)  Purchases of marketable securities     (6,957)    (1,892)  Sales of marketable securities      128      0   Maturities of marketable securities     1,106      0   Investments in non-marketable equity securities      (3)     (1)  Acquisitions of businesses, net of cash acquired, and purchases of intangible and other assets     (575)     (4)  Change in restricted cash and deposits      (3)     (3) 
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 397.7850341796875, 578.916015625, 476.609375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net cash used in investing activities
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (7,170) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (2,185) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Cash flows from financing activities
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Net proceeds from issuance of common stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 6,761  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 998 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Proceeds from exercise of stock options
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 9  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 24 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Repayment of long term debt
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (250)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Proceeds from sale and lease-back transactions
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 82  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 8  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Principal payments on capital lease obligations
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (143) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (82) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Excess tax benefit from share-based award activity
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 381  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 355 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Net cash used in investing activities     (7,170)    (2,185)  Cash flows from financing activities      Net proceeds from issuance of common stock    $ 6,761    $ 998  Proceeds from exercise of stock options      9      24  Repayment of long term debt      0     (250) Proceeds from sale and lease-back transactions      82      8   Principal payments on capital lease obligations     (143)     (82)  Excess tax benefit from share-based award activity      381      355 
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 476.3851318359375, 576.5159912109375, 488.00927734375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net cash provided by financing activities
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  7,090  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,053 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Net cash provided by financing activities     7,090     1,053 
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 487.7850341796875, 578.3160400390625, 499.4091796875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Effect of exchange rate changes on cash and cash equivalents
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (17) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Effect of exchange rate changes on cash and cash equivalents      (17)     4  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 499.1849365234375, 578.916015625, 520.4091796875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net increase (decrease) in cash and cash equivalents
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 586  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (654) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Cash and cash equivalents at beginning of period
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,512  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,785 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Net increase (decrease) in cash and cash equivalents      586     (654)  Cash and cash equivalents at beginning of period     1,512     1,785 
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 520.1849365234375, 576.5159912109375, 531.80908203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Cash and cash equivalents at end of period
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 2,098  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 1,131 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Cash and cash equivalents at end of period    $ 2,098    $ 1,131 
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (493.5000305175781, 533.3851318359375, 513.56884765625, 534.5851440429688)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (531.9000244140625, 532.1849365234375, 532.1688232421875, 533.3849487304688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (536.0999755859375, 533.3851318359375, 556.1688232421875, 534.5851440429688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 532.1849365234375, 576.5159912109375, 563.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Supplemental cash flow data
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cash paid during the period for:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Interest
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 19 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 13 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   Supplemental cash flow data      Cash paid during the period for:      Interest    $ 19   $ 13 
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (493.5000305175781, 565.1849365234375, 513.56884765625, 566.3849487304688)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (531.9000244140625, 563.9852294921875, 532.1688232421875, 565.1852416992188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (536.0999755859375, 565.1849365234375, 556.1688232421875, 566.3849487304688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (71.69999694824219, 563.9852294921875, 576.5159912109375, 576.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Income taxes
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 182  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 176 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   Income taxes    $ 182    $ 176 
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (493.5000305175781, 577.7850341796875, 513.56884765625, 578.9850463867188)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (531.9000244140625, 576.5848388671875, 532.1688232421875, 577.7848510742188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (536.0999755859375, 577.7850341796875, 556.1688232421875, 578.9850463867188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 576.5848388671875, 576.5159912109375, 598.4091796875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Non-cash investing and financing activities:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Net change in accounts payable and accrued expenses and other current liabilities related to property and equipment additions
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (59) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 56 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   Non-cash investing and financing activities:      Net change in accounts payable and accrued expenses and other current liabilities related to property and equipment additions    $ (59)   $ 56 
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (493.5000305175781, 599.9852294921875, 513.56884765625, 601.1852416992188)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (531.9000244140625, 598.7850341796875, 532.1688232421875, 599.9850463867188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (536.0999755859375, 599.9852294921875, 556.1688232421875, 601.1852416992188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (71.69999694824219, 598.7850341796875, 576.5159912109375, 611.00927734375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Property and equipment acquired under capital leases
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 90  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 291 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   Property and equipment acquired under capital leases    $ 90    $ 291 
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (493.5000305175781, 612.5848388671875, 513.56884765625, 613.7848510742188)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (531.9000244140625, 611.3851318359375, 532.1688232421875, 612.5851440429688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (536.0999755859375, 612.5848388671875, 556.1688232421875, 613.7848510742188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 31:
+================================================================================
+Type: 0
+Bounding Box: (71.69999694824219, 611.3851318359375, 576.5159912109375, 623.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Fair value of shares issued related to acquisitions of businesses and other assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 25  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 44 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   Fair value of shares issued related to acquisitions of businesses and other assets    $ 25    $ 44 
+
+================================================================================
+BLOCK 32:
+================================================================================
+Type: 0
+Bounding Box: (493.5000305175781, 625.1849365234375, 513.56884765625, 626.3849487304688)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 33:
+================================================================================
+Type: 0
+Bounding Box: (531.9000244140625, 623.9852294921875, 532.1688232421875, 625.1852416992188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 34:
+================================================================================
+Type: 0
+Bounding Box: (536.0999755859375, 625.1849365234375, 556.1688232421875, 626.3849487304688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 35:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 623.9852294921875, 574.768798828125, 647.00927734375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: See Accompanying Notes to Condensed Consolidated Financial Statements.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   See Accompanying Notes to Condensed Consolidated Financial Statements.  
+
+================================================================================
+BLOCK 36:
+================================================================================
+Type: 0
+Bounding Box: (304.20001220703125, 646.83642578125, 308.2320251464844, 655.83642578125)
+  - Span: 7
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 7

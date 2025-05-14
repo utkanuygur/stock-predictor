@@ -1,0 +1,160 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22200012207031, 562.120849609375, 86.0212173461914)
+  - Span: Growth in use of Facebook through our mobile products, where our ability to monetize is unproven, as a substitute for use on personal computers may negatively
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: affect our revenue and financial results.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Growth in use of Facebook through our mobile products, where our ability to monetize is unproven, as a substitute for use on personal computers may negatively affect our revenue and financial results.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63818359375, 578.9820556640625, 186.03662109375)
+  - Span: We had 543 million MAUs who used Facebook mobile products in June 2012. While most of our mobile users also access Facebook through personal computers,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: we anticipate that the rate of growth in mobile usage will exceed the growth in usage through personal computers for the foreseeable future and that the usage through
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: personal computers may continue to decline in certain markets, in part due to our focus on developing mobile products to encourage mobile usage of Facebook. For
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: example, the number of daily active users (DAUs) using personal computers was essentially flat, and declined modestly in certain key markets such as the United States
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and Europe during the second quarter of 2012 compared to the first quarter of 2012. We believe increased usage of Facebook on mobile devices has contributed to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: recent trend of our DAUs increasing more rapidly than the increase in the number of ads delivered. We have historically not shown ads to users accessing Facebook
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: through mobile apps or our mobile website. In March 2012, we began to include Sponsored Stories in users’ mobile News Feeds; however, in the first half of 2012, we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: generated only a small portion of our revenue from the use of Facebook mobile products, and our ability to increase mobile revenues is unproven. If users increasingly
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: access Facebook mobile products as a substitute for access through personal computers, and if we are unable to successfully implement monetization strategies for our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: mobile users, or if we incur excessive expenses in this effort, our financial performance and ability to grow revenue would be negatively affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We had 543 million MAUs who used Facebook mobile products in June 2012. While most of our mobile users also access Facebook through personal computers, we anticipate that the rate of growth in mobile usage will exceed the growth in usage through personal computers for the foreseeable future and that the usage through personal computers may continue to decline in certain markets, in part due to our focus on developing mobile products to encourage mobile usage of Facebook. For example, the number of daily active users (DAUs) using personal computers was essentially flat, and declined modestly in certain key markets such as the United States and Europe during the second quarter of 2012 compared to the first quarter of 2012. We believe increased usage of Facebook on mobile devices has contributed to the recent trend of our DAUs increasing more rapidly than the increase in the number of ads delivered. We have historically not shown ads to users accessing Facebook through mobile apps or our mobile website. In March 2012, we began to include Sponsored Stories in users’ mobile News Feeds; however, in the first half of 2012, we generated only a small portion of our revenue from the use of Facebook mobile products, and our ability to increase mobile revenues is unproven. If users increasingly access Facebook mobile products as a substitute for access through personal computers, and if we are unable to successfully implement monetization strategies for our mobile users, or if we incur excessive expenses in this effort, our financial performance and ability to grow revenue would be negatively affected.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 197.0208282470703, 566.6904296875, 216.82200622558594)
+  - Span: Facebook user growth and engagement on mobile devices depend upon effective operation with mobile operating systems, networks, and standards that we do not
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: control.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Facebook user growth and engagement on mobile devices depend upon effective operation with mobile operating systems, networks, and standards that we do not control.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 221.43701171875, 579.1320190429688, 297.63818359375)
+  - Span: There is no guarantee that popular mobile devices will continue to feature Facebook, or that mobile device users will continue to use Facebook rather than
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: competing products. We are dependent on the interoperability of Facebook with popular mobile operating systems that we do not control, such as Android and iOS, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: any changes in such systems that degrade our products’ functionality or give preferential treatment to competitive products could adversely affect Facebook usage on
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: mobile devices. Additionally, in order to deliver high quality mobile products, it is important that our products work well with a range of mobile technologies, systems,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: networks, and standards that we do not control. We may not be successful in developing relationships with key participants in the mobile industry or in developing
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: products that operate effectively with these technologies, systems, networks, or standards. In the event that it is more difficult for our users to access and use Facebook
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: on their mobile devices, or if our users choose not to access or use Facebook on their mobile devices or use mobile products that do not offer access to Facebook, our user
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: growth and user engagement could be harmed.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: There is no guarantee that popular mobile devices will continue to feature Facebook, or that mobile device users will continue to use Facebook rather than competing products. We are dependent on the interoperability of Facebook with popular mobile operating systems that we do not control, such as Android and iOS, and any changes in such systems that degrade our products’ functionality or give preferential treatment to competitive products could adversely affect Facebook usage on mobile devices. Additionally, in order to deliver high quality mobile products, it is important that our products work well with a range of mobile technologies, systems, networks, and standards that we do not control. We may not be successful in developing relationships with key participants in the mobile industry or in developing products that operate effectively with these technologies, systems, networks, or standards. In the event that it is more difficult for our users to access and use Facebook on their mobile devices, or if our users choose not to access or use Facebook on their mobile devices or use mobile products that do not offer access to Facebook, our user growth and user engagement could be harmed.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 308.6204528808594, 370.85040283203125, 318.2204284667969)
+  - Span: We may not be successful in our efforts to grow usage of and engagement with the Facebook Platform.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We may not be successful in our efforts to grow usage of and engagement with the Facebook Platform.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 322.83740234375, 579.5730590820312, 408.63818359375)
+  - Span: We have made and are continuing to make major investments to enable developers to build applications (apps) and websites that integrate with the Facebook
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Platform. Existing and prospective Platform developers may not be successful in building apps or websites that create and maintain user engagement. Additionally,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: developers may choose to build on other platforms, including mobile platforms controlled by third parties, rather than building on the Facebook Platform. We are
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: continuously seeking to balance the distribution objectives of our Platform developers with our desire to provide an optimal user experience, and we may not be successful
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in achieving a balance that continues to attract and retain Platform developers. From time to time, we have taken actions to reduce the volume of communications from
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Platform developers to users on Facebook with the objective of enhancing the user experience, and such actions have reduced distribution from, user engagement with,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and our monetization opportunities from, Facebook-integrated apps and websites. In some instances, these actions have adversely affected our relationships with Platform
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: developers. If we are not successful in our efforts to grow our Platform or if we are unable to build and maintain good relations with Platform developers, our user growth
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and user engagement and our financial results may be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We have made and are continuing to make major investments to enable developers to build applications (apps) and websites that integrate with the Facebook Platform. Existing and prospective Platform developers may not be successful in building apps or websites that create and maintain user engagement. Additionally, developers may choose to build on other platforms, including mobile platforms controlled by third parties, rather than building on the Facebook Platform. We are continuously seeking to balance the distribution objectives of our Platform developers with our desire to provide an optimal user experience, and we may not be successful in achieving a balance that continues to attract and retain Platform developers. From time to time, we have taken actions to reduce the volume of communications from Platform developers to users on Facebook with the objective of enhancing the user experience, and such actions have reduced distribution from, user engagement with, and our monetization opportunities from, Facebook-integrated apps and websites. In some instances, these actions have adversely affected our relationships with Platform developers. If we are not successful in our efforts to grow our Platform or if we are unable to build and maintain good relations with Platform developers, our user growth and user engagement and our financial results may be adversely affected.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 419.6204528808594, 306.0504150390625, 429.2204284667969)
+  - Span: We may not be successful in our efforts to further monetize the Facebook Platform.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We may not be successful in our efforts to further monetize the Facebook Platform.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 433.83740234375, 579.1410522460938, 527.609375)
+  - Span: We currently monetize the Facebook Platform in several ways, including ads on pages generated by apps on Facebook, direct advertising on Facebook purchased
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: by Platform developers to drive traffic to their apps and websites, and fees from our Platform developers’ use of our Payments infrastructure to sell virtual and digital
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: goods to users. Apps built by developers of social games, particularly Zynga, are currently responsible for substantially all of our revenue derived from Payments. Our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Payments revenue has been essentially flat since the third quarter of 2011, and Payments revenue may stay flat or decrease in future periods. In addition, a relatively small
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: percentage of our users have transacted with Facebook Payments. For example, in the first half of 2012, approximately 15 million users purchased virtual goods using
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Facebook Payments. If the Platform apps that currently generate revenue fail to grow or maintain their users and engagement, if Platform developers do not continue to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: introduce new apps that attract users and create engagement, if Platform developers reduce their advertising on Facebook, if we fail to maintain good relationships with
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Platform developers or attract new developers, or if Platform apps outside of social games do not gain popularity and generate significant revenue, our financial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: performance and ability to grow revenue could be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We currently monetize the Facebook Platform in several ways, including ads on pages generated by apps on Facebook, direct advertising on Facebook purchased by Platform developers to drive traffic to their apps and websites, and fees from our Platform developers’ use of our Payments infrastructure to sell virtual and digital goods to users. Apps built by developers of social games, particularly Zynga, are currently responsible for substantially all of our revenue derived from Payments. Our Payments revenue has been essentially flat since the third quarter of 2011, and Payments revenue may stay flat or decrease in future periods. In addition, a relatively small percentage of our users have transacted with Facebook Payments. For example, in the first half of 2012, approximately 15 million users purchased virtual goods using Facebook Payments. If the Platform apps that currently generate revenue fail to grow or maintain their users and engagement, if Platform developers do not continue to introduce new apps that attract users and create engagement, if Platform developers reduce their advertising on Facebook, if we fail to maintain good relationships with Platform developers or attract new developers, or if Platform apps outside of social games do not gain popularity and generate significant revenue, our financial performance and ability to grow revenue could be adversely affected.  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 527.43701171875, 310.0320129394531, 536.43701171875)
+  - Span: 38
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 38

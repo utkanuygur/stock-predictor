@@ -1,0 +1,121 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 578.6820068359375, 114.03662109375)
+  - Span: RSUs granted on or after January 1, 2011 (Post-2011 RSUs) are not subject to a liquidity condition in order to vest, and compensation expense related to these
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: grants is based on the grant date fair value of the RSUs and is recognized on a straight-line basis over the applicable service period. The majority of Post-2011 RSUs are
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: earned over a service period of four to five years. In the three and six months ended June 30, 2012, we recognized $113 million and $210 million, respectively, and in both
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the three and six months ended June 30, 2011, we recognized $58 million of share-based compensation expense related to the Post-2011 RSUs. As of June 30, 2012 we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: anticipate $1,959 million of future period expense related to such RSUs will be recognized over a weighted-average period of approximately two years.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: RSUs granted on or after January 1, 2011 (Post-2011 RSUs) are not subject to a liquidity condition in order to vest, and compensation expense related to these grants is based on the grant date fair value of the RSUs and is recognized on a straight-line basis over the applicable service period. The majority of Post-2011 RSUs are earned over a service period of four to five years. In the three and six months ended June 30, 2012, we recognized $113 million and $210 million, respectively, and in both the three and six months ended June 30, 2011, we recognized $58 million of share-based compensation expense related to the Post-2011 RSUs. As of June 30, 2012 we anticipate $1,959 million of future period expense related to such RSUs will be recognized over a weighted-average period of approximately two years.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 121.83642578125, 578.531982421875, 140.4365234375)
+  - Span: As of June 30, 2012, there was $2,245 million of unrecognized share-based compensation expense, of which $2,164 million relates to RSUs, and $81 million relates to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: restricted shares and stock options. This unrecognized compensation expense is expected to be recognized over a weighted-average period of approximately two years.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: As of June 30, 2012, there was $2,245 million of unrecognized share-based compensation expense, of which $2,164 million relates to RSUs, and $81 million relates to restricted shares and stock options. This unrecognized compensation expense is expected to be recognized over a weighted-average period of approximately two years.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 148.236328125, 578.9820556640625, 205.236328125)
+  - Span: We estimate that an aggregate of approximately 273 million shares underlying Pre-2011 RSUs will vest and settle between October 15, 2012 and November 14, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: These shares have not been included in our shares outstanding in our condensed consolidated balance sheet as of June 30, 2012. RSU holders generally will recognize
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: taxable income based upon the value of the shares on the date they are settled and we are required to withhold taxes on such value at applicable minimum statutory rates.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: We currently expect that the average of these withholding rates will be approximately 45%. We are unable to quantify the obligations as of June 30, 2012 and we will remain
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: unable to quantify this amount until the date of the settlement of the RSUs, as the withholding obligations will be based on the closing price of the shares at the time of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlement.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We estimate that an aggregate of approximately 273 million shares underlying Pre-2011 RSUs will vest and settle between October 15, 2012 and November 14, 2012. These shares have not been included in our shares outstanding in our condensed consolidated balance sheet as of June 30, 2012. RSU holders generally will recognize taxable income based upon the value of the shares on the date they are settled and we are required to withhold taxes on such value at applicable minimum statutory rates. We currently expect that the average of these withholding rates will be approximately 45%. We are unable to quantify the obligations as of June 30, 2012 and we will remain unable to quantify this amount until the date of the settlement of the RSUs, as the withholding obligations will be based on the closing price of the shares at the time of settlement.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 216.2200469970703, 88.25040435791016, 225.82005310058594)
+  - Span: Use of Estimates
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Use of Estimates
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 230.4365234375, 579.5730590820312, 297.03662109375)
+  - Span: Conformity with GAAP requires the use of estimates and judgments that affect the reported amounts in the condensed consolidated financial statements and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accompanying notes. These estimates form the basis for judgments we make about the carrying values of our assets and liabilities, which are not readily apparent from
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: other sources. We base our estimates and judgments on historical information and on various other assumptions that we believe are reasonable under the circumstances.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: GAAP requires us to make estimates and judgments in several areas, including, but not limited to, those related to revenue recognition, collectability of accounts
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: receivable, contingent liabilities, fair value of share-based awards, fair value of financial instruments, fair value of acquired intangible assets and goodwill, useful lives of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: intangible assets and property and equipment, and income taxes. These estimates are based on management’s knowledge about current events and expectations about
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: actions we may undertake in the future. Actual results could differ materially from those estimates.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Conformity with GAAP requires the use of estimates and judgments that affect the reported amounts in the condensed consolidated financial statements and accompanying notes. These estimates form the basis for judgments we make about the carrying values of our assets and liabilities, which are not readily apparent from other sources. We base our estimates and judgments on historical information and on various other assumptions that we believe are reasonable under the circumstances. GAAP requires us to make estimates and judgments in several areas, including, but not limited to, those related to revenue recognition, collectability of accounts receivable, contingent liabilities, fair value of share-based awards, fair value of financial instruments, fair value of acquired intangible assets and goodwill, useful lives of intangible assets and property and equipment, and income taxes. These estimates are based on management’s knowledge about current events and expectations about actions we may undertake in the future. Actual results could differ materially from those estimates.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 308.475341796875, 149.6820068359375, 317.475341796875)
+  - Span: Note 2.    (Loss) Earnings per Share
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Note 2.    (Loss) Earnings per Share
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 321.63671875, 578.6820068359375, 367.4091796875)
+  - Span: We compute (loss) earnings per share (EPS) of Class A and Class B common stock using the two-class method required for participating securities. Prior to the date
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of the IPO, we considered all series of our convertible preferred stock to be participating securities due to their non-cumulative dividend rights. Immediately after the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: completion of our IPO in May 2012, all outstanding shares of convertible preferred stock converted to Class B common stock. Additionally, we consider restricted stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: awards to be participating securities, because holders of such shares have non-forfeitable dividend rights in the event of our declaration of a dividend for common shares.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We compute (loss) earnings per share (EPS) of Class A and Class B common stock using the two-class method required for participating securities. Prior to the date of the IPO, we considered all series of our convertible preferred stock to be participating securities due to their non-cumulative dividend rights. Immediately after the completion of our IPO in May 2012, all outstanding shares of convertible preferred stock converted to Class B common stock. Additionally, we consider restricted stock awards to be participating securities, because holders of such shares have non-forfeitable dividend rights in the event of our declaration of a dividend for common shares.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (304.20001220703125, 367.236328125, 308.2320251464844, 376.236328125)
+  - Span: 9
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 9

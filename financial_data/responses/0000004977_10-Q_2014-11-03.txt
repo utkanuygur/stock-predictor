@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2014
+QUARTER: 3
+Total Revenue: 5700.00
+Net Income: 706.00
+EPS: 1.56
+Operating Margin: 12.02

@@ -1,0 +1,613 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 96.65040588378906, 75.8200454711914)
+  - Span: (b) Use of Proceeds
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: (b) Use of Proceeds
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 80.43701171875, 579.1410522460938, 166.23779296875)
+  - Span: On May 17, 2012, our registration statement on Form S-1 (File No. 333-179287) was declared effective by the Securities and Exchange Commission for our initial public
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: offering pursuant to which we sold an aggregate of 180,000,000 shares of our Class A common stock at a price to the public of $38.00 per share. Morgan Stanley & Co.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: LLC, J.P. Morgan Securities LLC, Goldman, Sachs & Co., Merrill Lynch, Pierce, Fenner & Smith Incorporated, Barclays Capital Inc., Allen & Company LLC, Citigroup Global
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Markets Inc., Credit Suisse Securities (USA) LLC and Deutsche Bank Securities Inc. acted as book runners. The offering commenced as of May 18, 2012 and did not
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: terminate before all of the securities registered in the registration statement were sold. On May 22, 2012, we closed the sale of such shares, resulting in net proceeds to us
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of $6.8 billion after deducting underwriting discounts and commissions of $75 million and other offering expenses of approximately $6 million. No payments were made by
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: us to directors, officers or persons owning ten percent or more of our common stock or to their associates, or to our affiliates. We invested the funds received in short-term
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and long-term marketable securities, consisting of U.S. government and government agency securities. There has been no material change in the planned use of proceeds
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: from our initial public offering as described in our final prospectus filed with the Securities and Exchange Commission on May 18, 2012 pursuant to Rule 424(b).
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: On May 17, 2012, our registration statement on Form S-1 (File No. 333-179287) was declared effective by the Securities and Exchange Commission for our initial public offering pursuant to which we sold an aggregate of 180,000,000 shares of our Class A common stock at a price to the public of $38.00 per share. Morgan Stanley & Co. LLC, J.P. Morgan Securities LLC, Goldman, Sachs & Co., Merrill Lynch, Pierce, Fenner & Smith Incorporated, Barclays Capital Inc., Allen & Company LLC, Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC and Deutsche Bank Securities Inc. acted as book runners. The offering commenced as of May 18, 2012 and did not terminate before all of the securities registered in the registration statement were sold. On May 22, 2012, we closed the sale of such shares, resulting in net proceeds to us of $6.8 billion after deducting underwriting discounts and commissions of $75 million and other offering expenses of approximately $6 million. No payments were made by us to directors, officers or persons owning ten percent or more of our common stock or to their associates, or to our affiliates. We invested the funds received in short-term and long-term marketable securities, consisting of U.S. government and government agency securities. There has been no material change in the planned use of proceeds from our initial public offering as described in our final prospectus filed with the Securities and Exchange Commission on May 18, 2012 pursuant to Rule 424(b).
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 177.2200469970703, 163.2504119873047, 186.82005310058594)
+  - Span: c) Issuer Purchases of Equity Securities
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: c) Issuer Purchases of Equity Securities
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 191.43701171875, 103.11600494384766, 200.43701171875)
+  - Span: Not applicable.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Not applicable.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 211.878173828125, 83.24100494384766, 230.43701171875)
+  - Span: Item 6. Exhibits
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 6. Exhibits  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 231.00901794433594, 578.0855712890625, 266.009765625)
+  - Span: Exhibit
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Incorporated by Reference
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Filed
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Herewith
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Number
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Exhibit Description
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Form
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: File No.
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Exhibit
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:     
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Filing Date
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   3.1
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Restated Certificate of Incorporation of the Registrant.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Exhibit         Incorporated by Reference    Filed Herewith Number   Exhibit Description    Form    File No.     Exhibit     Filing Date     3.1    Restated Certificate of Incorporation of the Registrant.                X
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 270.63623046875, 569.5230102539062, 280.412109375)
+  - Span:   3.2
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Amended and Restated Bylaws of the Registrant.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   3.2    Amended and Restated Bylaws of the Registrant.                X
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 285.03857421875, 46.332000732421875, 294.03857421875)
+  - Span:   4.1
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   4.1
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (55.5, 297.21209716796875, 58.912803649902344, 304.412109375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (70.5, 285.03857421875, 387.7127990722656, 304.412109375)
+  - Span: Amendment No. 1 to Sixth Amended and Restated Investors’ Rights Agreement, dated May 1,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2012, by and among Registrant and certain security holders of Registrant.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Amendment No. 1 to Sixth Amended and Restated Investors’ Rights Agreement, dated May 1, 2012, by and among Registrant and certain security holders of Registrant.   
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (395.1000061035156, 285.03857421875, 413.916015625, 294.03857421875)
+  - Span:  S-1  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  S-1  
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (413.70001220703125, 297.21209716796875, 417.1128234863281, 304.412109375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (424.5000305175781, 285.03857421875, 464.916015625, 294.03857421875)
+  - Span:  333-179287  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  333-179287  
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (464.70001220703125, 297.21209716796875, 468.1128234863281, 304.412109375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (475.5000305175781, 285.03857421875, 503.3160095214844, 294.03857421875)
+  - Span:  4.2A  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  4.2A  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (503.1000061035156, 297.21209716796875, 506.5128173828125, 304.412109375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (516.5999755859375, 285.03857421875, 540.8160400390625, 294.03857421875)
+  - Span: May 3, 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: May 3, 
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 294.63623046875, 546.7128295898438, 318.03857421875)
+  - Span: 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 10.1
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2012    10.1
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (55.5, 321.80975341796875, 58.912803649902344, 329.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (70.5, 309.03857421875, 157.1160125732422, 318.03857421875)
+  - Span: 2012 Equity Incentive Plan.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2012 Equity Incentive Plan.
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (384.3000183105469, 321.80975341796875, 387.7127990722656, 329.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (395.1000061035156, 309.03857421875, 413.916015625, 318.03857421875)
+  - Span:  S-1  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  S-1  
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (413.70001220703125, 321.80975341796875, 417.1128234863281, 329.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (424.5000305175781, 309.03857421875, 464.916015625, 318.03857421875)
+  - Span:  333-179287  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  333-179287  
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (464.70001220703125, 321.80975341796875, 468.1128234863281, 329.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (475.5000305175781, 309.03857421875, 503.3160095214844, 318.03857421875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 10.4  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   10.4  
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (503.1000061035156, 321.80975341796875, 506.5128173828125, 329.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (515.0999755859375, 309.03857421875, 542.3160400390625, 318.03857421875)
+  - Span: April 23,
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: April 23,
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 318.63623046875, 569.5230102539062, 343.412109375)
+  - Span: 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 10.2
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012 Equity Incentive Plan forms of award agreements.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2012    10.2    2012 Equity Incentive Plan forms of award agreements.                X
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 348.03857421875, 46.332000732421875, 357.03857421875)
+  - Span: 10.3
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 10.3
+
+================================================================================
+BLOCK 31:
+================================================================================
+Type: 0
+Bounding Box: (55.5, 369.80975341796875, 58.912803649902344, 377.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 32:
+================================================================================
+Type: 0
+Bounding Box: (70.5, 348.03857421875, 387.7127990722656, 377.009765625)
+  - Span: Amendment No. 1 to Conversion Agreement, dated April 30, 2012, between Registrant and Mail.ru
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Group Limited (f/k/a Digital Sky Technologies Limited), DST Global Limited, DST Global II, L.P,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: DST Global III, L.P., DST USA Limited, and DST USA II Limited.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Amendment No. 1 to Conversion Agreement, dated April 30, 2012, between Registrant and Mail.ru Group Limited (f/k/a Digital Sky Technologies Limited), DST Global Limited, DST Global II, L.P, DST Global III, L.P., DST USA Limited, and DST USA II Limited.   
+
+================================================================================
+BLOCK 33:
+================================================================================
+Type: 0
+Bounding Box: (395.1000061035156, 348.03857421875, 413.916015625, 357.03857421875)
+  - Span:  S-1  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  S-1  
+
+================================================================================
+BLOCK 34:
+================================================================================
+Type: 0
+Bounding Box: (413.70001220703125, 369.80975341796875, 417.1128234863281, 377.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 35:
+================================================================================
+Type: 0
+Bounding Box: (424.5000305175781, 348.03857421875, 464.916015625, 357.03857421875)
+  - Span:  333-179287  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  333-179287  
+
+================================================================================
+BLOCK 36:
+================================================================================
+Type: 0
+Bounding Box: (464.70001220703125, 369.80975341796875, 468.1128234863281, 377.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 37:
+================================================================================
+Type: 0
+Bounding Box: (475.5000305175781, 348.03857421875, 503.3160095214844, 357.03857421875)
+  - Span:  10.16A  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:  10.16A  
+
+================================================================================
+BLOCK 38:
+================================================================================
+Type: 0
+Bounding Box: (503.1000061035156, 369.80975341796875, 506.5128173828125, 377.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 39:
+================================================================================
+Type: 0
+Bounding Box: (516.5999755859375, 348.03857421875, 540.8160400390625, 357.03857421875)
+  - Span: May 3, 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: May 3, 
+
+================================================================================
+BLOCK 40:
+================================================================================
+Type: 0
+Bounding Box: (521.4000244140625, 357.63623046875, 536.2319946289062, 366.63623046875)
+  - Span: 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2012
+
+================================================================================
+BLOCK 41:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 369.80975341796875, 546.7128295898438, 390.63623046875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 10.4†
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:    10.4†
+
+================================================================================
+BLOCK 42:
+================================================================================
+Type: 0
+Bounding Box: (55.5, 393.80975341796875, 58.912803649902344, 401.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 43:
+================================================================================
+Type: 0
+Bounding Box: (70.5, 381.63623046875, 546.7128295898438, 401.009765625)
+  - Span: Amendment No. 2 to Developer Addendum, dated April 25, 2012, between Registrant and Zynga
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Inc.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Amendment No. 2 to Developer Addendum, dated April 25, 2012, between Registrant and Zynga Inc.               
+
+================================================================================
+BLOCK 44:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 381.63623046875, 569.5230102539062, 390.63623046875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 45:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 405.63623046875, 46.332000732421875, 414.63623046875)
+  - Span: 10.5
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 10.5
+
+================================================================================
+BLOCK 46:
+================================================================================
+Type: 0
+Bounding Box: (55.5, 417.80975341796875, 58.912803649902344, 425.009765625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 47:
+================================================================================
+Type: 0
+Bounding Box: (70.5, 405.63623046875, 546.7128295898438, 425.009765625)
+  - Span: Amendment No. 1 to Developer Addendum No. 2, dated June 12, 2012, between Registrant and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Zynga Inc.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Amendment No. 1 to Developer Addendum No. 2, dated June 12, 2012, between Registrant and Zynga Inc.               
+
+================================================================================
+BLOCK 48:
+================================================================================
+Type: 0
+Bounding Box: (563.7000122070312, 405.63623046875, 569.5230102539062, 414.63623046875)
+  - Span: X
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: X
+
+================================================================================
+BLOCK 49:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 425.00897216796875, 34.91279983520508, 432.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:  
+
+================================================================================
+BLOCK 50:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 432.03857421875, 310.0320129394531, 441.03857421875)
+  - Span: 57
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 57

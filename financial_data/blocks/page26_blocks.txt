@@ -1,0 +1,112 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 578.6820068359375, 133.23779296875)
+  - Span: The increase in ads delivered was driven primarily by user growth and, to a lesser extent, the net effect of product changes that increased the average number of ads
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: per page relative to last year. MAUs grew 29% from June 30, 2011 to June 30, 2012 and average DAUs grew 32% from June 2011 to June 2012 . The increase in the number
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of ads was lower than our increase in users, driven primarily by the increase in user engagement on mobile devices, where the number of ads shown per user is
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: substantially lower. In the United States where smartphone use continues to grow, the overall number of ads delivered decreased 2% year-over-year despite a 10%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: increase in DAUs and despite an increase in ads per page resulting from product changes, as DAUs on personal computers in the United States declined. We expect that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the trend of ads not growing at the same pace as user growth will continue as web usage grows more slowly than mobile usage and declines in certain markets where
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: smartphone adoption is occurring most rapidly.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The increase in ads delivered was driven primarily by user growth and, to a lesser extent, the net effect of product changes that increased the average number of ads per page relative to last year. MAUs grew 29% from June 30, 2011 to June 30, 2012 and average DAUs grew 32% from June 2011 to June 2012 . The increase in the number of ads was lower than our increase in users, driven primarily by the increase in user engagement on mobile devices, where the number of ads shown per user is substantially lower. In the United States where smartphone use continues to grow, the overall number of ads delivered decreased 2% year-over-year despite a 10% increase in DAUs and despite an increase in ads per page resulting from product changes, as DAUs on personal computers in the United States declined. We expect that the trend of ads not growing at the same pace as user growth will continue as web usage grows more slowly than mobile usage and declines in certain markets where smartphone adoption is occurring most rapidly.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 141.03662109375, 578.9820556640625, 207.63623046875)
+  - Span: Growth in the average price per ad for the second quarter and the first six months of 2012 compared to the same periods in 2011 was driven primarily by an increase
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in price per ad in the United States, which benefited from growth in Sponsored Stories in News Feed across desktop and mobile devices during the second quarter of 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Sponsored Stories in News Feed, which currently represent a small percentage of our advertising revenue, have a significantly higher average price per ad due to factors
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: which include the prominent position of the Sponsored Stories. The increase in price per ad in the United States was partially offset by an increased percentage of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: worldwide ads being delivered in the Asia and Rest of World geographies where the average price per ad, while growing on a year-over-year basis, is relatively lower. The
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: average price per ad was also affected by a decline in the average price per ad in Europe in the second quarter and the first six months of 2012 compared to the same
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: periods in 2011 due in part, we believe, to continuing weak economic conditions in that region affecting advertiser demand.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Growth in the average price per ad for the second quarter and the first six months of 2012 compared to the same periods in 2011 was driven primarily by an increase in price per ad in the United States, which benefited from growth in Sponsored Stories in News Feed across desktop and mobile devices during the second quarter of 2012. Sponsored Stories in News Feed, which currently represent a small percentage of our advertising revenue, have a significantly higher average price per ad due to factors which include the prominent position of the Sponsored Stories. The increase in price per ad in the United States was partially offset by an increased percentage of our worldwide ads being delivered in the Asia and Rest of World geographies where the average price per ad, while growing on a year-over-year basis, is relatively lower. The average price per ad was also affected by a decline in the average price per ad in Europe in the second quarter and the first six months of 2012 compared to the same periods in 2011 due in part, we believe, to continuing weak economic conditions in that region affecting advertiser demand.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 215.43701171875, 578.9820556640625, 310.83740234375)
+  - Span: Payments and other fees revenue in the second quarter and the first six months of 2012 increased to $192 million, or 61% and $378 million or 77%, respectively as
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: compared to the same periods in 2011. Payments revenue has been relatively flat over the last three sequential quarters, we believe due primarily to the fact that gaming in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: general has been growing faster on mobile devices where our Payments system is generally not utilized. Facebook Payments became mandatory for all game developers
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accepting payments on the Facebook Platform with limited exceptions on July 1, 2011. Accordingly, comparisons of Payments and other fees revenue to periods before this
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: date may not be meaningful. Our Payments terms and conditions provide for a 30-day claim period subsequent to a Payments transaction during which the customer may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: dispute the virtual or digital goods transaction. To date, we have deferred recognition of Payments revenue until the expiration of this period as we were unable to make
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: reasonable and reliable estimates of future refunds or chargebacks arising during this claim period, due to lack of historical transactional information. In the fourth quarter
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of 2012, we will have 24 months of historical transactional information which we currently anticipate will enable us to estimate future refunds and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: chargebacks. Accordingly, in the fourth quarter of 2012 we expect to record all Payments revenues at the time of the purchase of the related virtual or digital goods, net of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: estimated refunds or chargebacks. We anticipate that this change will result in a one-time increase in Payments revenue in the fourth quarter.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Payments and other fees revenue in the second quarter and the first six months of 2012 increased to $192 million, or 61% and $378 million or 77%, respectively as compared to the same periods in 2011. Payments revenue has been relatively flat over the last three sequential quarters, we believe due primarily to the fact that gaming in general has been growing faster on mobile devices where our Payments system is generally not utilized. Facebook Payments became mandatory for all game developers accepting payments on the Facebook Platform with limited exceptions on July 1, 2011. Accordingly, comparisons of Payments and other fees revenue to periods before this date may not be meaningful. Our Payments terms and conditions provide for a 30-day claim period subsequent to a Payments transaction during which the customer may dispute the virtual or digital goods transaction. To date, we have deferred recognition of Payments revenue until the expiration of this period as we were unable to make reasonable and reliable estimates of future refunds or chargebacks arising during this claim period, due to lack of historical transactional information. In the fourth quarter of 2012, we will have 24 months of historical transactional information which we currently anticipate will enable us to estimate future refunds and chargebacks. Accordingly, in the fourth quarter of 2012 we expect to record all Payments revenues at the time of the purchase of the related virtual or digital goods, net of estimated refunds or chargebacks. We anticipate that this change will result in a one-time increase in Payments revenue in the fourth quarter.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 318.63623046875, 578.5410766601562, 402.810546875)
+  - Span: Ten percent of our total revenue for both the second quarter and the first six months of 2012, and 12% of our total revenue for both the second quarter and the first
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: six months of 2011 came from a single customer, Zynga. This revenue consisted of Payments processing fees related to Zynga’s sale of virtual goods and from direct
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: advertising purchased by Zynga. Additionally, Zynga’s apps generate pages on which we display ads from other advertisers; for the second quarter and the first six
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: months of 2012, we estimate that an additional approximately 4% of our total revenue was generated from the display of these ads. In May 2010, we entered into an
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: addendum to our standard terms and conditions with Zynga pursuant to which it agreed to use Facebook Payments as the primary means of payment within Zynga games
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: played on the Facebook Platform. Under this addendum, we retain a fee of up to 30% of the face value of user purchases in Zynga’s games on the Facebook Platform. This
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: addendum expires in May 2015. Additionally, the addendum allows Facebook to display ads on Zynga.com, and in the second quarter of 2012 we began delivering ads on
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Zynga.com. The revenue associated with these ads was immaterial for the second quarter and the first six months of 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Ten percent of our total revenue for both the second quarter and the first six months of 2012, and 12% of our total revenue for both the second quarter and the first six months of 2011 came from a single customer, Zynga. This revenue consisted of Payments processing fees related to Zynga’s sale of virtual goods and from direct advertising purchased by Zynga. Additionally, Zynga’s apps generate pages on which we display ads from other advertisers; for the second quarter and the first six months of 2012, we estimate that an additional approximately 4% of our total revenue was generated from the display of these ads. In May 2010, we entered into an addendum to our standard terms and conditions with Zynga pursuant to which it agreed to use Facebook Payments as the primary means of payment within Zynga games played on the Facebook Platform. Under this addendum, we retain a fee of up to 30% of the face value of user purchases in Zynga’s games on the Facebook Platform. This addendum expires in May 2015. Additionally, the addendum allows Facebook to display ads on Zynga.com, and in the second quarter of 2012 we began delivering ads on Zynga.com. The revenue associated with these ads was immaterial for the second quarter and the first six months of 2012.  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 402.63623046875, 310.0320129394531, 411.63623046875)
+  - Span: 27
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 27

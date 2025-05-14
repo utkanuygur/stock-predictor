@@ -1,0 +1,15 @@
+CIK: 0000006201
+YEAR: 2017
+QUARTER: 3
+Total Revenue: 10878.00
+Net Income: 624.00
+EPS: 1.29
+Operating Margin: 11.32
+
+CIK: 0000006201
+YEAR: 2017
+QUARTER: 3
+Total Revenue: 10875.00
+Net Income: 649.00
+EPS: 0.65
+Operating Margin: 11.26

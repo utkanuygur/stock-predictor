@@ -1,0 +1,117 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 579.1410522460938, 219.63623046875)
+  - Span: Our metrics are also affected by applications on certain mobile devices that automatically contact our servers for regular updates with no user action involved, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: this activity can cause our system to count the user associated with such a device as an active user on the day such contact occurs. For example, we estimate that less
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: than 5% of our estimated worldwide DAUs as of December 31, 2011 and 2010 resulted from this type of automatic mobile activity, and that this type of activity had a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: substantially smaller effect on our estimate of worldwide MAUs and mobile MAUs. The impact of this automatic activity on our metrics varies by geography because
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: mobile usage varies in different regions of the world. In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: as the user’s IP address and self-disclosed location. These factors may not always accurately reflect the user’s actual location. For example, a mobile-only user may appear
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user’s actual location. The methodologies used to measure
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: user metrics may also be susceptible to algorithm or other technical errors. For example, in early June 2012, we discovered an error in the algorithm we use to estimate the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: geographic location of our users that affected our attribution of certain user locations for the period ended March 31, 2012. While this issue did not affect our overall
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: worldwide MAU and DAU numbers, it did affect our attribution of users across different geographic regions. We estimate that the number of MAUs as of March 31, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: for the United States and Canada region was overstated as a result of the error by approximately 3% and this overstatement was offset by understatements in other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: regions. In addition, our estimates for revenue by user location are also affected by these factors. We regularly review and may adjust our processes for calculating these
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: metrics to improve their accuracy. In addition, our MAU and DAU estimates will differ from estimates published by third parties due to differences in methodology. For
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: example, some third parties do not count mobile users. If advertisers, developers, or investors do not perceive our user metrics to be accurate representations of our user
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: base, or if we discover material inaccuracies in our user metrics, our reputation may be harmed and advertisers and developers may be less willing to allocate their budgets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: or resources to Facebook, which could negatively affect our business and financial results.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our metrics are also affected by applications on certain mobile devices that automatically contact our servers for regular updates with no user action involved, and this activity can cause our system to count the user associated with such a device as an active user on the day such contact occurs. For example, we estimate that less than 5% of our estimated worldwide DAUs as of December 31, 2011 and 2010 resulted from this type of automatic mobile activity, and that this type of activity had a substantially smaller effect on our estimate of worldwide MAUs and mobile MAUs. The impact of this automatic activity on our metrics varies by geography because mobile usage varies in different regions of the world. In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such as the user’s IP address and self-disclosed location. These factors may not always accurately reflect the user’s actual location. For example, a mobile-only user may appear to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user’s actual location. The methodologies used to measure user metrics may also be susceptible to algorithm or other technical errors. For example, in early June 2012, we discovered an error in the algorithm we use to estimate the geographic location of our users that affected our attribution of certain user locations for the period ended March 31, 2012. While this issue did not affect our overall worldwide MAU and DAU numbers, it did affect our attribution of users across different geographic regions. We estimate that the number of MAUs as of March 31, 2012 for the United States and Canada region was overstated as a result of the error by approximately 3% and this overstatement was offset by understatements in other regions. In addition, our estimates for revenue by user location are also affected by these factors. We regularly review and may adjust our processes for calculating these metrics to improve their accuracy. In addition, our MAU and DAU estimates will differ from estimates published by third parties due to differences in methodology. For example, some third parties do not count mobile users. If advertisers, developers, or investors do not perceive our user metrics to be accurate representations of our user base, or if we discover material inaccuracies in our user metrics, our reputation may be harmed and advertisers and developers may be less willing to allocate their budgets or resources to Facebook, which could negatively affect our business and financial results.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 230.6223907470703, 249.65042114257812, 240.22239685058594)
+  - Span: We cannot assure you that we will effectively manage our growth.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We cannot assure you that we will effectively manage our growth.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 244.83935546875, 579.5730590820312, 330.63623046875)
+  - Span: Our employee headcount and the scope and complexity of our business have increased significantly, with the number of full-time employees increasing to 3,976 as
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of June 30, 2012 from 2,661 as of June 30, 2011, and we expect headcount growth to continue for the foreseeable future. The growth and expansion of our business and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: products create significant challenges for our management, operational, and financial resources, including managing multiple relations with users, advertisers, Platform
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: developers, and other third parties. In the event of continued growth of our operations or in the number of our third-party relationships, our information technology
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: systems or our internal controls and procedures may not be adequate to support our operations. In addition, some members of our management do not have significant
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: experience managing a large global business operation, so our management may not be able to manage such growth effectively. To effectively manage our growth, we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: must continue to improve our operational, financial, and management processes and systems and to effectively expand, train, and manage our employee base. As our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: organization continues to grow, and we are required to implement more complex organizational management structures, we may find it increasingly difficult to maintain the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: benefits of our corporate culture, including our ability to quickly develop and launch new and innovative products. This could negatively affect our business performance.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our employee headcount and the scope and complexity of our business have increased significantly, with the number of full-time employees increasing to 3,976 as of June 30, 2012 from 2,661 as of June 30, 2011, and we expect headcount growth to continue for the foreseeable future. The growth and expansion of our business and products create significant challenges for our management, operational, and financial resources, including managing multiple relations with users, advertisers, Platform developers, and other third parties. In the event of continued growth of our operations or in the number of our third-party relationships, our information technology systems or our internal controls and procedures may not be adequate to support our operations. In addition, some members of our management do not have significant experience managing a large global business operation, so our management may not be able to manage such growth effectively. To effectively manage our growth, we must continue to improve our operational, financial, and management processes and systems and to effectively expand, train, and manage our employee base. As our organization continues to grow, and we are required to implement more complex organizational management structures, we may find it increasingly difficult to maintain the benefits of our corporate culture, including our ability to quickly develop and launch new and innovative products. This could negatively affect our business performance.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 341.6224060058594, 531.650390625, 351.2223815917969)
+  - Span: The loss of one or more of our key personnel, or our failure to attract and retain other highly qualified personnel in the future, could harm our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: The loss of one or more of our key personnel, or our failure to attract and retain other highly qualified personnel in the future, could harm our business.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 355.83935546875, 578.3160400390625, 401.611328125)
+  - Span: We currently depend on the continued services and performance of our key personnel, including Mark Zuckerberg and Sheryl K. Sandberg. Although we have
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: entered into employment agreements with Mr. Zuckerberg and Ms. Sandberg, the agreements have no specific duration and constitute at-will employment. In addition,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: many of our key technologies and systems are custom-made for our business by our personnel. The loss of key personnel, including members of management as well as
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: key engineering, product development, marketing, and sales personnel, could disrupt our operations and have an adverse effect on our business.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We currently depend on the continued services and performance of our key personnel, including Mark Zuckerberg and Sheryl K. Sandberg. Although we have entered into employment agreements with Mr. Zuckerberg and Ms. Sandberg, the agreements have no specific duration and constitute at-will employment. In addition, many of our key technologies and systems are custom-made for our business by our personnel. The loss of key personnel, including members of management as well as key engineering, product development, marketing, and sales personnel, could disrupt our operations and have an adverse effect on our business.  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 401.43701171875, 310.0320129394531, 410.43701171875)
+  - Span: 48
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 48

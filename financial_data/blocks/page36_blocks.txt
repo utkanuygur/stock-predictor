@@ -1,0 +1,315 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 66.63818359375, 574.1160278320312, 75.63818359375)
+  - Span: If we are unable to maintain and increase our user base and user engagement, our revenue, financial results, and future growth potential may be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: If we are unable to maintain and increase our user base and user engagement, our revenue, financial results, and future growth potential may be adversely affected.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 86.62043762207031, 568.7208251953125, 106.4216079711914)
+  - Span: We generate a substantial majority of our revenue from advertising. The loss of advertisers, or reduction in spending by advertisers with Facebook, could seriously
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: harm our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We generate a substantial majority of our revenue from advertising. The loss of advertisers, or reduction in spending by advertisers with Facebook, could seriously harm our business.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 111.03662109375, 578.916015625, 190.83740234375)
+  - Span: The substantial majority of our revenue is currently generated from third parties advertising on Facebook. In the first six months of 2012 and 2011 and the full 2011,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2010, and 2009 years, advertising accounted for 83%, 87%, 85%, 95% and 98%, respectively, of our revenue. As is common in the industry, our advertisers typically do not
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have long-term advertising commitments with us. Many of our advertisers spend only a relatively small portion of their overall advertising budget with us. In addition,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: advertisers may view some of our products, such as Sponsored Stories and ads with social context, as experimental and unproven. Advertisers will not continue to do
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: business with us, or they will reduce the prices they are willing to pay to advertise with us, if we do not deliver ads and other commercial content in an effective manner, or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: if they do not believe that their investment in advertising with us will generate a competitive return relative to other alternatives. Our advertising revenue could be
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: adversely affected by a number of other factors, including:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: decreases in user engagement, including time spent on Facebook;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The substantial majority of our revenue is currently generated from third parties advertising on Facebook. In the first six months of 2012 and 2011 and the full 2011, 2010, and 2009 years, advertising accounted for 83%, 87%, 85%, 95% and 98%, respectively, of our revenue. As is common in the industry, our advertisers typically do not have long-term advertising commitments with us. Many of our advertisers spend only a relatively small portion of their overall advertising budget with us. In addition, advertisers may view some of our products, such as Sponsored Stories and ads with social context, as experimental and unproven. Advertisers will not continue to do business with us, or they will reduce the prices they are willing to pay to advertise with us, if we do not deliver ads and other commercial content in an effective manner, or if they do not believe that their investment in advertising with us will generate a competitive return relative to other alternatives. Our advertising revenue could be adversely affected by a number of other factors, including:     •  decreases in user engagement, including time spent on Facebook;
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 191.35604858398438, 34.10639953613281, 194.9560546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 206.0109405517578, 34.91279983520508, 213.2109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (60.30000305175781, 195.03662109375, 578.916015625, 204.03662109375)
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: increased user access to and engagement with Facebook through our mobile products, where we have generated only a small portion of our revenue,
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: •  increased user access to and engagement with Facebook through our mobile products, where we have generated only a small portion of our revenue,
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 204.63818359375, 578.9820556640625, 223.23779296875)
+  - Span: particularly to the extent that mobile engagement is substituted for engagement with Facebook on personal computers where we currently have greater
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: opportunities to monetize usage by displaying ads and other commercial content;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: particularly to the extent that mobile engagement is substituted for engagement with Facebook on personal computers where we currently have greater opportunities to monetize usage by displaying ads and other commercial content;
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 223.75643920898438, 34.10639953613281, 227.3564453125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 227.43701171875, 578.5410766601562, 240.810546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: product changes or inventory management decisions we may make that reduce the size, frequency, or relative prominence of ads and other commercial
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  product changes or inventory management decisions we may make that reduce the size, frequency, or relative prominence of ads and other commercial
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 237.03662109375, 179.54100036621094, 246.03662109375)
+  - Span: content displayed on Facebook;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: content displayed on Facebook;
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 246.55526733398438, 502.9410095214844, 259.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our inability to improve our analytics and measurement solutions that demonstrate the value of our ads and other commercial content;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our inability to improve our analytics and measurement solutions that demonstrate the value of our ads and other commercial content;
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 259.7564392089844, 433.9410095214844, 272.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: decisions by advertisers to use our free products, such as Facebook Pages, instead of advertising on Facebook;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  decisions by advertisers to use our free products, such as Facebook Pages, instead of advertising on Facebook;
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 272.9556579589844, 501.1410217285156, 298.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: loss of advertising market share to our competitors;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: adverse legal developments relating to advertising, including legislative and regulatory developments and developments in litigation;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  loss of advertising market share to our competitors;     •  adverse legal developments relating to advertising, including legislative and regulatory developments and developments in litigation;
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 299.3560485839844, 471.1410217285156, 312.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: adverse media reports or other negative publicity involving us, our Platform developers, or other companies in our industry;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  adverse media reports or other negative publicity involving us, our Platform developers, or other companies in our industry;
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 312.5552673339844, 429.74102783203125, 325.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our inability to create new products that sustain or increase the value of our ads and other commercial content;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our inability to create new products that sustain or increase the value of our ads and other commercial content;
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 325.7564392089844, 429.1410217285156, 338.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the degree to which users opt out of social ads or otherwise limit the potential audience of commercial content;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the degree to which users opt out of social ads or otherwise limit the potential audience of commercial content;
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 338.9556579589844, 448.9320373535156, 364.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: changes in the way online advertising is priced;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the impact of new technologies that could block or obscure the display of our ads and other commercial content; and
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  changes in the way online advertising is priced;     •  the impact of new technologies that could block or obscure the display of our ads and other commercial content; and
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 365.3560485839844, 376.71600341796875, 378.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the impact of macroeconomic conditions and conditions in the advertising industry in general.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the impact of macroeconomic conditions and conditions in the advertising industry in general.
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 385.83740234375, 578.6820068359375, 422.009765625)
+  - Span: The occurrence of any of these or other factors could result in a reduction in demand for our ads and other commercial content, which may reduce the prices we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: receive for our ads and other commercial content, or cause advertisers to stop advertising with us altogether, either of which would negatively affect our revenue and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial results.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: The occurrence of any of these or other factors could result in a reduction in demand for our ads and other commercial content, which may reduce the prices we receive for our ads and other commercial content, or cause advertisers to stop advertising with us altogether, either of which would negatively affect our revenue and financial results.  
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 421.83740234375, 310.0320129394531, 430.83740234375)
+  - Span: 37
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 37

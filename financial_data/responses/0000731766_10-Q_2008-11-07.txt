@@ -1,0 +1,7 @@
+CIK: 0000731766
+YEAR: 2008
+QUARTER: 3
+Total Revenue: 20156.00
+Net Income: 920.00
+EPS: 0.76
+Operating Margin: 7.92

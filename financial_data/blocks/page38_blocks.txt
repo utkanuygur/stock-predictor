@@ -1,0 +1,171 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63818359375, 578.6820068359375, 123.63818359375)
+  - Span: Additionally, we are actively supporting Platform developers’ efforts to develop their own mobile apps and websites that integrate with Facebook. Unlike apps that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: run within the Facebook website which enable us to show ads and offer Payments, we generally do not directly monetize from Platform developers’ integrating their own
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: mobile apps and websites with Facebook. Therefore, our Platform developers efforts to prioritize Facebook integrations with their own mobile apps or websites may reduce
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: or slow the growth of our user activity that generates advertising and Payments opportunities, which could negatively affect our revenue. Although we believe that there
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: are significant long-term benefits to Facebook resulting from increased engagement on Facebook-integrated websites and mobile apps, these benefits may not offset the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: possible loss of revenue, in which case our business could be harmed.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Additionally, we are actively supporting Platform developers’ efforts to develop their own mobile apps and websites that integrate with Facebook. Unlike apps that run within the Facebook website which enable us to show ads and offer Payments, we generally do not directly monetize from Platform developers’ integrating their own mobile apps and websites with Facebook. Therefore, our Platform developers efforts to prioritize Facebook integrations with their own mobile apps or websites may reduce or slow the growth of our user activity that generates advertising and Payments opportunities, which could negatively affect our revenue. Although we believe that there are significant long-term benefits to Facebook resulting from increased engagement on Facebook-integrated websites and mobile apps, these benefits may not offset the possible loss of revenue, in which case our business could be harmed.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 134.6204376220703, 379.85040283203125, 144.22044372558594)
+  - Span: Our business is highly competitive. Competition presents an ongoing threat to the success of our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our business is highly competitive. Competition presents an ongoing threat to the success of our business.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 148.83740234375, 578.6820068359375, 215.43701171875)
+  - Span: We face significant competition in almost every aspect of our business, including from companies such as Google, Microsoft, and Twitter, which offer a variety of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Internet products, services, content, and online advertising offerings, as well as from mobile companies and smaller Internet companies that offer products and services
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: that may compete with specific Facebook features. We also face competition from traditional and online media businesses for advertising budgets. We compete broadly
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: with Google’s social networking offerings, including Google+, and also with other, largely regional, social networks that have strong positions in particular countries,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: including Cyworld in Korea, Mixi in Japan, Orkut (owned by Google) in Brazil and India, and vKontakte in Russia. We would also face competition from companies in China
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: such as Renren, Sina, and Tencent in the event that we are able to access the market in China in the future. As we introduce new products, as our existing products evolve,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: or as other companies introduce new products and services, such as mobile messaging and chat services, we may become subject to additional competition.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We face significant competition in almost every aspect of our business, including from companies such as Google, Microsoft, and Twitter, which offer a variety of Internet products, services, content, and online advertising offerings, as well as from mobile companies and smaller Internet companies that offer products and services that may compete with specific Facebook features. We also face competition from traditional and online media businesses for advertising budgets. We compete broadly with Google’s social networking offerings, including Google+, and also with other, largely regional, social networks that have strong positions in particular countries, including Cyworld in Korea, Mixi in Japan, Orkut (owned by Google) in Brazil and India, and vKontakte in Russia. We would also face competition from companies in China such as Renren, Sina, and Tencent in the event that we are able to access the market in China in the future. As we introduce new products, as our existing products evolve, or as other companies introduce new products and services, such as mobile messaging and chat services, we may become subject to additional competition.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 223.23779296875, 578.9820556640625, 309.03662109375)
+  - Span: Some of our current and potential competitors have significantly greater resources and better competitive positions in certain markets than we do. These factors
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: may allow our competitors to respond more effectively than us to new or emerging technologies and changes in market requirements. Our competitors may develop
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: products, features, or services that are similar to ours or that achieve greater market acceptance, may undertake more far-reaching and successful product development
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: efforts or marketing campaigns, or may adopt more aggressive pricing policies. In addition, Platform partners may use information shared by our users through the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Facebook Platform in order to develop products or features that compete with us. Certain competitors, including Google, could use strong or dominant positions in one or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: more markets to gain competitive advantage against us in areas where we operate including: by integrating competing social networking platforms or features into
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: products they control such as search engines, web browsers, or mobile device operating systems; by making acquisitions; or by making access to Facebook more difficult.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: As a result, our competitors may acquire and engage users at the expense of the growth or engagement of our user base, which may negatively affect our business and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial results.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Some of our current and potential competitors have significantly greater resources and better competitive positions in certain markets than we do. These factors may allow our competitors to respond more effectively than us to new or emerging technologies and changes in market requirements. Our competitors may develop products, features, or services that are similar to ours or that achieve greater market acceptance, may undertake more far-reaching and successful product development efforts or marketing campaigns, or may adopt more aggressive pricing policies. In addition, Platform partners may use information shared by our users through the Facebook Platform in order to develop products or features that compete with us. Certain competitors, including Google, could use strong or dominant positions in one or more markets to gain competitive advantage against us in areas where we operate including: by integrating competing social networking platforms or features into products they control such as search engines, web browsers, or mobile device operating systems; by making acquisitions; or by making access to Facebook more difficult. As a result, our competitors may acquire and engage users at the expense of the growth or engagement of our user base, which may negatively affect our business and financial results.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 316.83740234375, 454.9410095214844, 325.83740234375)
+  - Span: We believe that our ability to compete effectively depends upon many factors both within and beyond our control, including:
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We believe that our ability to compete effectively depends upon many factors both within and beyond our control, including:
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 326.3560485839844, 400.34100341796875, 339.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the usefulness, ease of use, performance, and reliability of our products compared to our competitors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the usefulness, ease of use, performance, and reliability of our products compared to our competitors;
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 339.5552673339844, 211.34100341796875, 352.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the size and composition of our user base;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the size and composition of our user base;
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 352.7564392089844, 228.7410125732422, 365.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the engagement of our users with our products;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the engagement of our users with our products;
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 365.9556579589844, 480.74102783203125, 386.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the timing and market acceptance of products, including developments and enhancements to our or our competitors’ products;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     •  the timing and market acceptance of products, including developments and enhancements to our or our competitors’ products;  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 386.43701171875, 310.0320129394531, 395.43701171875)
+  - Span: 39
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 39

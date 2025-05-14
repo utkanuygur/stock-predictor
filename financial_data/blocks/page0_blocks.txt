@@ -1,0 +1,321 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 28.805889129638672, 184.0758056640625, 40.20589065551758)
+  - Span: 10-Q 1 d371464d10q.htm FORM 10-Q
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+Full Text: 10-Q 1 d371464d10q.htm FORM 10-Q
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 54.07504653930664, 89.84099578857422, 63.07504653930664)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 71.40589904785156, 35.853599548339844, 83.4058837890625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+Full Text:   
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (153.3000030517578, 81.47008514404297, 458.5932312011719, 113.27008056640625)
+  - Span: UNITED STATES
+    Font: TimesNewRomanBold, Size: 15.600000381469727
+  - Span: SECURITIES AND EXCHANGE COMMISSION
+    Font: TimesNewRomanBold, Size: 15.600000381469727
+Full Text: UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (257.4000244140625, 113.45506286621094, 354.9072265625, 124.85506439208984)
+  - Span: Washington, D.C. 20549
+    Font: TimesNewRomanBold, Size: 11.40000057220459
+Full Text: Washington, D.C. 20549
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 125.35449981689453, 344.7732238769531, 152.87008666992188)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span: FORM 10-Q
+    Font: TimesNewRomanBold, Size: 15.600000381469727
+Full Text:     FORM 10-Q
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 152.95449829101562, 529.8071899414062, 183.0550537109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span: (Mark One)
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: x
+    Font: WingdingsRegular, Size: 10.200000762939453
+  - Span: QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+    Font: TimesNewRomanBold, Size: 11.40000057220459
+Full Text:     (Mark One) x QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (232.50001525878906, 190.87506103515625, 379.33203125, 199.87506103515625)
+  - Span: For the quarterly period ended June 30, 2012
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: For the quarterly period ended June 30, 2012
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 207.675048828125, 531.0072021484375, 238.25506591796875)
+  - Span: or
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: ¨
+    Font: WingdingsRegular, Size: 10.200000762939453
+  - Span: TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+    Font: TimesNewRomanBold, Size: 11.40000057220459
+Full Text: or   ¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (231.90000915527344, 246.07505798339844, 380.3160095214844, 255.07505798339844)
+  - Span: For the transition period from            to            .
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: For the transition period from            to            .
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 262.87506103515625, 390.88201904296875, 328.1545104980469)
+  - Span: Commission File Number: 001-35551
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span: FACEBOOK, INC.
+    Font: TimesNewRomanBold, Size: 21.600000381469727
+  - Span: (Exact name of registrant as specified in its charter)
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text: Commission File Number: 001-35551     FACEBOOK, INC. (Exact name of registrant as specified in its charter)      
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (93.30000305175781, 328.2750549316406, 499.8456115722656, 345.24005126953125)
+  - Span: Delaware
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 20-1665019
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: (State or other jurisdiction of incorporation or organization)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (I.R.S. Employer Identification Number)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Delaware   20-1665019 (State or other jurisdiction of incorporation or organization)   (I.R.S. Employer Identification Number)
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (224.70001220703125, 352.2750549316406, 387.13201904296875, 361.2750549316406)
+  - Span: 1601 Willow Road, Menlo Park, California 94025
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: 1601 Willow Road, Menlo Park, California 94025
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (236.70001220703125, 362.0400390625, 375.6455993652344, 369.24005126953125)
+  - Span: (Address of principal executive offices and Zip Code)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: (Address of principal executive offices and Zip Code)
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 376.2750549316406, 578.5410766601562, 432.6362609863281)
+  - Span: (650) 308-7300
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: (Registrant’s telephone number, including area code)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+  - Span: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 90 days.    Yes  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: ¨
+    Font: WingdingsRegular, Size: 9.0
+  - Span:     No  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: x
+    Font: WingdingsRegular, Size: 9.0
+Full Text: (650) 308-7300 (Registrant’s telephone number, including area code)     Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ¨    No  x
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 440.4362487792969, 578.531982421875, 468.6362609863281)
+  - Span: Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: post such files).    Yes  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: x
+    Font: WingdingsRegular, Size: 9.0
+  - Span:     No  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: ¨
+    Font: WingdingsRegular, Size: 9.0
+Full Text: Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  x    No  ¨
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 476.4362487792969, 578.6640014648438, 515.009033203125)
+  - Span: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of “large
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act. (Check one):
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Large accelerated filer
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: ¨
+    Font: WingdingsRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Accelerated filer
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: ¨
+    Font: WingdingsRegular, Size: 9.0
+Full Text: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act. (Check one):   Large accelerated filer  ¨  Accelerated filer  ¨
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 519.3900146484375, 578.6640014648438, 529.4089965820312)
+  - Span: Non-accelerated filer
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: x
+    Font: WingdingsRegular, Size: 9.0
+  - Span:   (Do not check if a smaller reporting company)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Smaller reporting company
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: ¨
+    Font: WingdingsRegular, Size: 9.0
+Full Text: Non-accelerated filer  x  (Do not check if a smaller reporting company)  Smaller reporting company  ¨
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 536.1900634765625, 449.2230224609375, 545.436279296875)
+  - Span: Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: ¨
+    Font: WingdingsRegular, Size: 9.0
+  - Span:     No  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: x
+    Font: WingdingsRegular, Size: 9.0
+Full Text: Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ¨    No  x
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 553.2362670898438, 429.5160217285156, 571.8362426757812)
+  - Span: Indicate the number of shares outstanding of each of the issuer’s classes of Common Stock, as of the latest practicable date.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Indicate the number of shares outstanding of each of the issuer’s classes of Common Stock, as of the latest practicable date.  
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 572.6400756835938, 529.031982421875, 612.0059204101562)
+  - Span: Class
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Number of Shares Outstanding
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Class A Common Stock $0.000006 par value
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 674,605,171 shares outstanding as of July 25, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Class B Common Stock $0.000006 par value
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 1,467,762,401 shares outstanding as of July 25, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 6.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 11.40000057220459
+Full Text: Class   Number of Shares Outstanding Class A Common Stock $0.000006 par value   674,605,171 shares outstanding as of July 25, 2012 Class B Common Stock $0.000006 par value   1,467,762,401 shares outstanding as of July 25, 2012    

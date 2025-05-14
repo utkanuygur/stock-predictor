@@ -1,0 +1,134 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.676025390625, 578.916015625, 146.43446350097656)
+  - Span: Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: You should read the following discussion of our financial condition and results of operations in conjunction with the condensed consolidated financial statements and
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: the notes thereto included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated financial statements included in our prospectus filed
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: pursuant to Rule 424(b) under the Securities Act of 1933, as amended, with the Securities and Exchange Commission on May 18, 2012 (Prospectus). In addition to
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: historical condensed consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: those discussed below and elsewhere in this Quarterly Report on Form 10-Q, particularly in Part II. Item 1A. “Risk Factors.” For a discussion of limitations in the
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: measurement of certain of our user metrics, see the section entitled “—Limitations of Key Metrics.”
+    Font: TimesNewRomanItalic, Size: 9.0
+Full Text: Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations You should read the following discussion of our financial condition and results of operations in conjunction with the condensed consolidated financial statements and the notes thereto included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated financial statements included in our prospectus filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, with the Securities and Exchange Commission on May 18, 2012 (Prospectus). In addition to historical condensed consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Quarterly Report on Form 10-Q, particularly in Part II. Item 1A. “Risk Factors.” For a discussion of limitations in the measurement of certain of our user metrics, see the section entitled “—Limitations of Key Metrics.”
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 157.875244140625, 64.322998046875, 166.875244140625)
+  - Span: Overview
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Overview
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 171.03662109375, 574.7160034179688, 180.03662109375)
+  - Span: Our mission is to make the world more open and connected. Facebook enables you to express yourself and connect with the world around you instantly and freely.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our mission is to make the world more open and connected. Facebook enables you to express yourself and connect with the world around you instantly and freely.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 187.83642578125, 377.541015625, 196.83642578125)
+  - Span: We build products that support our mission by creating utility for users, developers, and advertisers:
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We build products that support our mission by creating utility for users, developers, and advertisers:
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 204.63467407226562, 577.4819946289062, 223.23681640625)
+  - Span: Users.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  We enable people who use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and express what matters to them to the people they care about.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Users. We enable people who use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 231.03408813476562, 578.531982421875, 249.63720703125)
+  - Span: Developers.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  We enable developers to use the Facebook Platform to build applications (apps) and websites that integrate with Facebook to reach our global network
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of users and to build products that are more personalized, social, and engaging.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Developers. We enable developers to use the Facebook Platform to build applications (apps) and websites that integrate with Facebook to reach our global network of users and to build products that are more personalized, social, and engaging.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 257.4344787597656, 577.9320068359375, 285.63720703125)
+  - Span: Advertisers.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  We enable advertisers to engage with more than 950 million monthly active users (MAUs) on Facebook or subsets of our users based on information
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: they have chosen to share with us such as their age, location, gender, or interests. We offer advertisers a unique combination of reach, relevance, social context, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: engagement to enhance the value of their ads.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Advertisers. We enable advertisers to engage with more than 950 million monthly active users (MAUs) on Facebook or subsets of our users based on information they have chosen to share with us such as their age, location, gender, or interests. We offer advertisers a unique combination of reach, relevance, social context, and engagement to enhance the value of their ads.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 293.43701171875, 579.1320190429688, 377.609375)
+  - Span: We generate substantially all of our revenue from advertising and from fees associated with our Payments infrastructure that enables users to purchase virtual and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: digital goods from our Platform developers. In the second quarter of 2012, we recorded revenue of $1,184 million, incurred loss from operations of $743 million and net loss
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of $157 million. In the first six months of 2012, we recorded revenue of $2,242 million, incurred loss from operations of $362 million and net income of $48 million. Total costs
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and expenses grew more than revenue, due in particular to significant increases in share-based compensation and related payroll tax expenses for restricted stock units
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (RSUs) during the second quarter and the first six months of 2012. During the second quarter and the first six months of 2012, we recognized $1,258 million and $1,362
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: million of share-based compensation and related payroll tax expenses, respectively. Of these amounts, $1,101 million was due to the recognition of share-based
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: compensation and related payroll tax expenses related to RSUs granted prior to January 1, 2011 (Pre-2011 RSUs) triggered by the completion of our initial public offering
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (IPO) in May 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We generate substantially all of our revenue from advertising and from fees associated with our Payments infrastructure that enables users to purchase virtual and digital goods from our Platform developers. In the second quarter of 2012, we recorded revenue of $1,184 million, incurred loss from operations of $743 million and net loss of $157 million. In the first six months of 2012, we recorded revenue of $2,242 million, incurred loss from operations of $362 million and net income of $48 million. Total costs and expenses grew more than revenue, due in particular to significant increases in share-based compensation and related payroll tax expenses for restricted stock units (RSUs) during the second quarter and the first six months of 2012. During the second quarter and the first six months of 2012, we recognized $1,258 million and $1,362 million of share-based compensation and related payroll tax expenses, respectively. Of these amounts, $1,101 million was due to the recognition of share-based compensation and related payroll tax expenses related to RSUs granted prior to January 1, 2011 (Pre-2011 RSUs) triggered by the completion of our initial public offering (IPO) in May 2012.  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 377.43701171875, 310.0320129394531, 386.43701171875)
+  - Span: 19
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 19

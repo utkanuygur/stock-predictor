@@ -1,0 +1,412 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22200012207031, 353.4504089355469, 75.8219985961914)
+  - Span: Our financial results will fluctuate from quarter to quarter, which makes them difficult to predict.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our financial results will fluctuate from quarter to quarter, which makes them difficult to predict.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 80.43701171875, 578.0819702148438, 118.23779296875)
+  - Span: Our quarterly financial results have fluctuated in the past and will fluctuate in the future. Additionally, we have a limited operating history with the current scale of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our business, which makes it difficult to forecast our future results. As a result, you should not rely upon our past quarterly financial results as indicators of future
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: performance. You should take into account the risks and uncertainties frequently encountered by companies in rapidly evolving markets. Our financial results in any given
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: quarter can be influenced by numerous factors, many of which we are unable to predict or are outside of our control, including:
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our quarterly financial results have fluctuated in the past and will fluctuate in the future. Additionally, we have a limited operating history with the current scale of our business, which makes it difficult to forecast our future results. As a result, you should not rely upon our past quarterly financial results as indicators of future performance. You should take into account the risks and uncertainties frequently encountered by companies in rapidly evolving markets. Our financial results in any given quarter can be influenced by numerous factors, many of which we are unable to predict or are outside of our control, including:
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 118.7564468383789, 295.34100341796875, 131.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to maintain and grow our user base and user engagement;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to maintain and grow our user base and user engagement;
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 131.95565795898438, 556.9410400390625, 157.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to attract and retain advertisers in a particular period;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: fluctuations in spending by our advertisers due to seasonality, such as historically strong spending in the fourth quarter of each year, or other factors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to attract and retain advertisers in a particular period;     •  fluctuations in spending by our advertisers due to seasonality, such as historically strong spending in the fourth quarter of each year, or other factors;
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 158.35604858398438, 187.34100341796875, 171.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the number of ads shown to users;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the number of ads shown to users;
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 171.55526733398438, 210.14100646972656, 184.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the pricing of our ads and other products;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the pricing of our ads and other products;
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 184.75643920898438, 523.9410400390625, 197.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the rate of growth in mobile usage compared to usage through personal computers, and our ability to monetize through our mobile products;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the rate of growth in mobile usage compared to usage through personal computers, and our ability to monetize through our mobile products;
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 197.95565795898438, 373.34100341796875, 223.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to maintain or increase payments and other fees revenue;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the diversification and growth of revenue sources beyond current advertising and Payments;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to maintain or increase payments and other fees revenue;     •  the diversification and growth of revenue sources beyond current advertising and Payments;
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 224.35604858398438, 358.34100341796875, 237.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the development and introduction of new products or services by us or our competitors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  the development and introduction of new products or services by us or our competitors;
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 237.55526733398438, 522.7410278320312, 250.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: increases in marketing, sales, and other operating expenses that we may incur to grow and expand our operations and to remain competitive;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  increases in marketing, sales, and other operating expenses that we may incur to grow and expand our operations and to remain competitive;
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 250.75643920898438, 268.34100341796875, 263.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to maintain gross margins and operating margins;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to maintain gross margins and operating margins;
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 263.9556579589844, 523.3410034179688, 289.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to obtain equipment and components for our data centers and other technical infrastructure in a timely and cost-effective manner;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: system failures or breaches of security or privacy;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to obtain equipment and components for our data centers and other technical infrastructure in a timely and cost-effective manner;     •  system failures or breaches of security or privacy;
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 290.3560485839844, 249.14100646972656, 303.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: inaccessibility of Facebook due to third-party actions;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  inaccessibility of Facebook due to third-party actions;
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 303.5552673339844, 34.10639953613281, 307.1552734375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 307.23779296875, 578.9820556640625, 320.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: share-based compensation expense including approximately $986 million that we incurred in the second quarter of 2012 in connection with the vesting of
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  share-based compensation expense including approximately $986 million that we incurred in the second quarter of 2012 in connection with the vesting of
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 316.83740234375, 382.34100341796875, 325.83740234375)
+  - Span: restricted stock units (RSUs) granted prior to 2011 for which the service condition was satisfied;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: restricted stock units (RSUs) granted prior to 2011 for which the service condition was satisfied;
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 326.3560485839844, 311.541015625, 339.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: adverse litigation judgments, settlements, or other litigation-related costs;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  adverse litigation judgments, settlements, or other litigation-related costs;
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 339.5552673339844, 34.10639953613281, 343.1552734375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 343.23779296875, 578.3820190429688, 356.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: changes in the legislative or regulatory environment, including with respect to privacy, or enforcement by government regulators, including fines, orders, or
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  changes in the legislative or regulatory environment, including with respect to privacy, or enforcement by government regulators, including fines, orders, or
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 352.83740234375, 130.94100952148438, 361.83740234375)
+  - Span: consent decrees;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: consent decrees;
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 362.3560485839844, 506.541015625, 375.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: fluctuations in currency exchange rates and changes in the proportion of our revenue and expenses denominated in foreign currencies;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  fluctuations in currency exchange rates and changes in the proportion of our revenue and expenses denominated in foreign currencies;
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 375.5552673339844, 338.541015625, 388.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: fluctuations in the market values of our portfolio investments and in interest rates;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  fluctuations in the market values of our portfolio investments and in interest rates;
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 388.7564392089844, 274.9320373535156, 401.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: changes in U.S. generally accepted accounting principles; and
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  changes in U.S. generally accepted accounting principles; and
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 401.9556579589844, 239.916015625, 422.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: changes in business or macroeconomic conditions.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     •  changes in business or macroeconomic conditions.  
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 422.43701171875, 310.0320129394531, 431.43701171875)
+  - Span: 42
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 42

@@ -1,0 +1,710 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 562.3128051757812, 93.84159851074219)
+  - Span: General and administrative
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: General and administrative        Three Months Ended June 30,         Six Months Ended June 30,     
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 101.00897979736328, 399.11279296875, 108.24003601074219)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:      2012     2011   
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (414.3000183105469, 93.8408203125, 545.5128173828125, 108.24003601074219)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change   2012     2011   
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 93.8408203125, 579.1656494140625, 134.609375)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions, except for percentages)
+    Font: TimesNewRomanBoldItalic, Size: 6.600000381469727
+  - Span: General and administrative
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 463  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 83  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: NM
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 567  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 140  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: NM
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Percentage of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 39%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 9%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 25%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 9%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change      (in millions, except for percentages) General and administrative    $ 463     $ 83    NM    $ 567     $ 140    NM Percentage of revenue      39%     9%       25%     9% 
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 141.63623046875, 578.6820068359375, 198.63623046875)
+  - Span: General and administrative expenses in the second quarter and the first six months of 2012 increased $380 million and $427 million, respectively, compared to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: same periods in 2011. The increases were primarily due to increased share-based compensation expense of $248 million and $264 million in the second quarter and the first
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: six months of 2012, respectively, resulting from recognition of expense related to Pre-2011 and, to a lesser extent, Post-2011 RSUs. Payroll and benefits expenses also
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: increased due to a 58% increase in employee headcount in human resources, finance, corporate communications and policy, legal, and other functions. Additionally, an
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accrual for a proposed legal settlement reached in the second quarter of 2012 as well as growth in legal fees, outside consulting fees and insurance contributed to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: increases.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: General and administrative expenses in the second quarter and the first six months of 2012 increased $380 million and $427 million, respectively, compared to the same periods in 2011. The increases were primarily due to increased share-based compensation expense of $248 million and $264 million in the second quarter and the first six months of 2012, respectively, resulting from recognition of expense related to Pre-2011 and, to a lesser extent, Post-2011 RSUs. Payroll and benefits expenses also increased due to a 58% increase in employee headcount in human resources, finance, corporate communications and policy, legal, and other functions. Additionally, an accrual for a proposed legal settlement reached in the second quarter of 2012 as well as growth in legal fees, outside consulting fees and insurance contributed to the increases.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 209.6204376220703, 569.5128173828125, 237.2400360107422)
+  - Span: Interest and other income (expense), net
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Interest and other income (expense), net        Three Months Ended June 30,          Six Months Ended June 30,       
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 244.4093780517578, 370.9128112792969, 251.6404266357422)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:      2012     2011   
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (389.1000061035156, 237.2412109375, 531.7127685546875, 251.6404266357422)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change    2012     2011   
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 237.2412109375, 578.916015625, 278.009765625)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions, except for percentages)
+    Font: TimesNewRomanBoldItalic, Size: 6.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Interest expense
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (10) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (9) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 11% 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (24) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (17) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 41% 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Other income (expense), net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (12)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  NM  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 19 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (84%) 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: % change       (in millions, except for percentages)   Interest expense    $ (10)    $ (9)     11%   $ (24)   $ (17)     41%  Other income (expense), net      (12)     1    NM      3      19    (84%) 
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 277.7860107421875, 571.7160034179688, 289.41015625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total interest and other income (expense), net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (22) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (8) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  175% 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (21) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  NM  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                      Total interest and other income (expense), net    $ (22)    $ (8)    175%   $ (21)   $ 2     NM  
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (249.3000030517578, 290.9852294921875, 278.3688049316406, 292.1852111816406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (302.70001220703125, 289.7860107421875, 302.96881103515625, 290.9859924316406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (312.9000244140625, 290.9852294921875, 344.3688049316406, 292.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (365.1000061035156, 289.7860107421875, 365.3688049316406, 290.9859924316406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (369.3000183105469, 290.9852294921875, 443.3688049316406, 292.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:        
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (464.70001220703125, 289.7860107421875, 464.96881103515625, 290.9859924316406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (474.3000183105469, 290.9852294921875, 503.3688049316406, 292.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (525.9000244140625, 289.7860107421875, 526.1688232421875, 290.9859924316406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (530.0999755859375, 290.9852294921875, 530.3687744140625, 292.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 299.43701171875, 579.7319946289062, 337.23779296875)
+  - Span: Interest expense increased by $1 million and $7 million in the second quarter and the first six months of 2012, respectively, compared to the same periods in 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: primarily due to an increased volume of property and equipment financed by capital leases. Changes in other income (expense), net for the second quarter and the first six
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: months of 2012 compared to the same periods in 2011 were mostly due to foreign exchange losses resulting from the periodic re-measurement of our foreign currency
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: balances, partially offset by an increase in interest income driven by larger invested cash balances.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Interest expense increased by $1 million and $7 million in the second quarter and the first six months of 2012, respectively, compared to the same periods in 2011 primarily due to an increased volume of property and equipment financed by capital leases. Changes in other income (expense), net for the second quarter and the first six months of 2012 compared to the same periods in 2011 were mostly due to foreign exchange losses resulting from the periodic re-measurement of our foreign currency balances, partially offset by an increase in interest income driven by larger invested cash balances.
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 348.2200622558594, 562.3128051757812, 375.84161376953125)
+  - Span: Income Tax Provision
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Income Tax Provision        Three Months Ended June 30,         Six Months Ended June 30,     
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 383.00897216796875, 398.5128173828125, 390.24005126953125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:      2012     2011   
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (413.70001220703125, 375.8408203125, 545.5128173828125, 390.24005126953125)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change   2012     2011   
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 375.8408203125, 579.1656494140625, 423.810546875)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions, except for percentages)
+    Font: TimesNewRomanBoldItalic, Size: 6.600000381469727
+  - Span: Benefit from (provision for) income taxes
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 608  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (159) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: NM
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 431  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (326) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: NM
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Effective tax rate
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 79%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 40%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 113%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 41%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change      (in millions, except for percentages) Benefit from (provision for) income taxes    $ 608     $ (159)   NM    $ 431     $ (326)   NM Effective tax rate      79%     40%       113%     41%   
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 423.63623046875, 310.0320129394531, 432.63623046875)
+  - Span: 29
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 29

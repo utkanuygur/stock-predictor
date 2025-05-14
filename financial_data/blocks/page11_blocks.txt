@@ -1,0 +1,688 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.675537109375, 141.58200073242188, 75.675537109375)
+  - Span: Note 3.    Property and Equipment
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Note 3.    Property and Equipment
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 79.83642578125, 250.34100341796875, 98.4365234375)
+  - Span: Property and equipment consist of the following (in millions):
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Property and equipment consist of the following (in millions):  
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 106.40937042236328, 390.7127990722656, 113.609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (417.9000244140625, 99.240234375, 439.9128112792969, 106.44023132324219)
+  - Span: June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: June 30,
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (423.0000305175781, 106.40937042236328, 445.9128112792969, 113.64042663574219)
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: 2012   
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (474.3000183105469, 99.240234375, 508.31280517578125, 106.44023132324219)
+  - Span: December 31,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: December 31,
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 106.40937042236328, 512.3160400390625, 171.8095703125)
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Network equipment
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 1,479  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,016  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Land
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 34  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 34  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Buildings
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 449  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 355  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Leasehold improvements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 142  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 120  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Computer software, office equipment and other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 88  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 73  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Construction in progress
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 542  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 327  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2011   Network equipment    $ 1,479    $ 1,016   Land      34      34   Buildings      449      355   Leasehold improvements      142      120   Computer software, office equipment and other      88      73   Construction in progress      542      327  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 171.58482360839844, 512.916015625, 192.8095703125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  2,734  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,925  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Less accumulated depreciation and amortization
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  (629) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (450) 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total     2,734      1,925   Less accumulated depreciation and amortization     (629)     (450) 
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 192.58482360839844, 512.3160400390625, 204.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Property and equipment, net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 2,105  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,475  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Property and equipment, net    $ 2,105    $ 1,475  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (387.3000183105469, 205.78501892089844, 421.7688293457031, 206.9850311279297)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (440.1000061035156, 204.58482360839844, 440.3688049316406, 205.7848358154297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (444.3000183105469, 205.78501892089844, 480.5688171386719, 206.9850311279297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (508.5000305175781, 204.58482360839844, 508.7688293457031, 205.7848358154297)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 214.23681640625, 578.531982421875, 232.83642578125)
+  - Span: Construction in progress includes costs primarily related to the construction of data centers and equipment located in our new data centers in Oregon, North
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Carolina and Sweden.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Construction in progress includes costs primarily related to the construction of data centers and equipment located in our new data centers in Oregon, North Carolina and Sweden.
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 244.275634765625, 184.64100646972656, 253.275634765625)
+  - Span: Note 4.    Goodwill and Other Intangible Assets
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Note 4.    Goodwill and Other Intangible Assets
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 257.43701171875, 289.9410095214844, 276.03662109375)
+  - Span: Goodwill and other intangible assets consist of the following (in millions):
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Goodwill and other intangible assets consist of the following (in millions):  
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 284.00897216796875, 378.7127990722656, 291.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (411.9000244140625, 276.8408203125, 433.9128112792969, 284.04083251953125)
+  - Span: June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: June 30,
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (417.0000305175781, 284.00897216796875, 439.9128112792969, 291.24005126953125)
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: 2012   
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (474.3000183105469, 276.8408203125, 508.31280517578125, 284.04083251953125)
+  - Span: December 31,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: December 31,
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 284.00897216796875, 512.916015625, 330.208984375)
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Acquired patents
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 684  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 51  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Acquired non-compete agreements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 21  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 18  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Acquired technology and other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 49  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 43  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Accumulated amortization
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (45) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (32) 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2011   Acquired patents    $ 684    $ 51   Acquired non-compete agreements      21      18   Acquired technology and other      49      43   Accumulated amortization      (45)     (32) 
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 329.9852294921875, 512.3160400390625, 351.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Net acquired intangible assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 709  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 80  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Goodwill
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 100  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 82  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Net acquired intangible assets      709      80   Goodwill      100      82  
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (98.70000457763672, 350.9852294921875, 512.3160400390625, 362.609375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Goodwill and other intangible assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 809  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 162  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Goodwill and other intangible assets    $ 809    $ 162  
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (375.3000183105469, 364.1854248046875, 417.5688171386719, 365.3854064941406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (434.1000061035156, 362.9852294921875, 434.3688049316406, 364.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (438.3000183105469, 364.1854248046875, 482.96881103515625, 365.3854064941406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (508.5000305175781, 362.9852294921875, 508.7688293457031, 364.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 372.63623046875, 578.531982421875, 400.83642578125)
+  - Span: Acquired patents have estimated useful lives ranging from three to 18 years at acquisition. The average term of acquired non-compete agreements is generally two
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: years. Acquired technology and other have estimated useful lives of two to ten years. Amortization expense of intangible assets for the three and six months ended
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: June 30, 2012 was $8 million and $13 million, respectively, and for the three and six months ended June 30, 2011 was $5 million and $10 million, respectively.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Acquired patents have estimated useful lives ranging from three to 18 years at acquisition. The average term of acquired non-compete agreements is generally two years. Acquired technology and other have estimated useful lives of two to ten years. Amortization expense of intangible assets for the three and six months ended June 30, 2012 was $8 million and $13 million, respectively, and for the three and six months ended June 30, 2011 was $5 million and $10 million, respectively.
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 408.63623046875, 578.9820556640625, 427.23681640625)
+  - Span: During the six months ended June 30, 2012, we completed business acquisitions for total consideration of $24 million. These acquisitions were not material to our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: condensed consolidated financial statements individually or in the aggregate.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: During the six months ended June 30, 2012, we completed business acquisitions for total consideration of $24 million. These acquisitions were not material to our condensed consolidated financial statements individually or in the aggregate.
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 435.03662109375, 578.531982421875, 463.23681640625)
+  - Span: The following table presents the aggregated estimated fair value of the assets acquired for acquisition completed during the six months ended June 30, 2012 (in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: millions):
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The following table presents the aggregated estimated fair value of the assets acquired for acquisition completed during the six months ended June 30, 2012 (in millions):  
+
+================================================================================
+BLOCK 31:
+================================================================================
+Type: 0
+Bounding Box: (120.30000305175781, 463.83642578125, 491.3160095214844, 502.4091796875)
+  - Span: Goodwill
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $            18  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Acquired technology and other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Acquired non-compete agreements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Deferred tax liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (3) 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Goodwill    $            18   Acquired technology and other      6  Acquired non-compete agreements      3  Deferred tax liabilities      (3) 
+
+================================================================================
+BLOCK 32:
+================================================================================
+Type: 0
+Bounding Box: (120.30000305175781, 502.1854248046875, 488.916015625, 513.8095703125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 24 
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:          Total    $ 24 
+
+================================================================================
+BLOCK 33:
+================================================================================
+Type: 0
+Bounding Box: (432.3000183105469, 515.3856201171875, 458.3688049316406, 516.5856323242188)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 34:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 514.1854248046875, 487.1688232421875, 524.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:    
+
+================================================================================
+BLOCK 35:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 523.83642578125, 310.0320129394531, 532.83642578125)
+  - Span: 12
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 12

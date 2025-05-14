@@ -1,0 +1,7 @@
+CIK: 0000019617
+YEAR: 2022
+QUARTER: 1
+Total Revenue: 30717.00
+Net Income: 8282.00
+EPS: 2.63
+Operating Margin: N/A

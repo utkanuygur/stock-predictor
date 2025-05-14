@@ -1,0 +1,7 @@
+CIK: 0001045810
+YEAR: 2010
+QUARTER: 1
+Total Revenue: 1001.81
+Net Income: 137.59
+EPS: 0.24
+Operating Margin: 14.72

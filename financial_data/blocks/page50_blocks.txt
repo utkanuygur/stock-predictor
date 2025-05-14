@@ -1,0 +1,218 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 563.2008056640625, 86.0231704711914)
+  - Span: We plan to continue to make acquisitions, which could require significant management attention, disrupt our business, result in dilution to our stockholders, and
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: adversely affect our financial results.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We plan to continue to make acquisitions, which could require significant management attention, disrupt our business, result in dilution to our stockholders, and adversely affect our financial results.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63623046875, 578.5410766601562, 195.63623046875)
+  - Span: As part of our business strategy, we have made and intend to make acquisitions to add specialized employees, complementary companies, products, or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: technologies. For example, in April 2012, we entered into an agreement to acquire Instagram, Inc., the closing of which is subject to closing conditions and regulatory
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: clearance. Our ability to acquire and integrate larger or more complex companies, products, or technologies in a successful manner is unproven
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: .
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  In the future, we may not
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: be able to find other suitable acquisition candidates, and we may not be able to complete acquisitions on favorable terms, if at all. Our previous and future acquisitions may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: not achieve our goals, and any future acquisitions we complete could be viewed negatively by users, developers, advertisers, or investors. In addition, if we fail to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: successfully close or integrate any acquisitions, or integrate the products or technologies associated with such acquisitions into our company, our revenue and operating
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: results could be adversely affected. Any integration process may require significant time and resources, and we may not be able to manage the process successfully. We
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: may not successfully evaluate or utilize the acquired products, technology, or personnel, or accurately forecast the financial impact of an acquisition transaction, including
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accounting charges. We may have to pay cash, incur debt, or issue equity securities to pay for any such acquisition, any of which could adversely affect our financial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: results. The sale of equity or issuance of debt to finance any such acquisitions could result in dilution to our stockholders. The incurrence of indebtedness would result in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: increased fixed obligations and could also include covenants or other restrictions that would impede our ability to manage our operations.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: As part of our business strategy, we have made and intend to make acquisitions to add specialized employees, complementary companies, products, or technologies. For example, in April 2012, we entered into an agreement to acquire Instagram, Inc., the closing of which is subject to closing conditions and regulatory clearance. Our ability to acquire and integrate larger or more complex companies, products, or technologies in a successful manner is unproven. In the future, we may not be able to find other suitable acquisition candidates, and we may not be able to complete acquisitions on favorable terms, if at all. Our previous and future acquisitions may not achieve our goals, and any future acquisitions we complete could be viewed negatively by users, developers, advertisers, or investors. In addition, if we fail to successfully close or integrate any acquisitions, or integrate the products or technologies associated with such acquisitions into our company, our revenue and operating results could be adversely affected. Any integration process may require significant time and resources, and we may not be able to manage the process successfully. We may not successfully evaluate or utilize the acquired products, technology, or personnel, or accurately forecast the financial impact of an acquisition transaction, including accounting charges. We may have to pay cash, incur debt, or issue equity securities to pay for any such acquisition, any of which could adversely affect our financial results. The sale of equity or issuance of debt to finance any such acquisitions could result in dilution to our stockholders. The incurrence of indebtedness would result in increased fixed obligations and could also include covenants or other restrictions that would impede our ability to manage our operations.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 206.6223907470703, 535.2503662109375, 216.22239685058594)
+  - Span: If we default on our leasing and credit obligations, our operations may be interrupted and our business and financial results could be adversely affected.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: If we default on our leasing and credit obligations, our operations may be interrupted and our business and financial results could be adversely affected.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 220.83935546875, 578.6820068359375, 258.63623046875)
+  - Span: We finance a significant portion of our expenditures through leasing arrangements, some of which are not required to be reflected on our balance sheet, and we may
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: enter into additional similar arrangements in the future. In particular, we have used these types of arrangements to finance some of our equipment and data centers. In
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: addition, we have credit facilities that we may draw upon to finance our operations or other corporate purposes, such as funding our tax withholding and remittance
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: obligations in connection with the settlement of RSUs. If we default on these leasing and credit obligations, our leasing partners and lenders may, among other things:
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We finance a significant portion of our expenditures through leasing arrangements, some of which are not required to be reflected on our balance sheet, and we may enter into additional similar arrangements in the future. In particular, we have used these types of arrangements to finance some of our equipment and data centers. In addition, we have credit facilities that we may draw upon to finance our operations or other corporate purposes, such as funding our tax withholding and remittance obligations in connection with the settlement of RSUs. If we default on these leasing and credit obligations, our leasing partners and lenders may, among other things:
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 259.1568298339844, 385.34100341796875, 311.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: require repayment of any outstanding lease obligations or amounts drawn on our credit facilities;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: terminate our leasing arrangements and credit facilities;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: terminate our access to the leased data centers we utilize;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: stop delivery of ordered equipment;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  require repayment of any outstanding lease obligations or amounts drawn on our credit facilities;     •  terminate our leasing arrangements and credit facilities;     •  terminate our access to the leased data centers we utilize;     •  stop delivery of ordered equipment;
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 311.9576110839844, 239.9820098876953, 324.63623046875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: sell or require us to return our leased equipment; or
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  sell or require us to return our leased equipment; or
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 325.1568298339844, 197.916015625, 337.83935546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: require us to pay significant damages.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  require us to pay significant damages.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 345.63623046875, 578.3160400390625, 364.23779296875)
+  - Span: If some or all of these events were to occur, our operations may be interrupted and our ability to fund our operations or obligations, as well as our business,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial results, and financial condition, could be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: If some or all of these events were to occur, our operations may be interrupted and our ability to fund our operations or obligations, as well as our business, financial results, and financial condition, could be adversely affected.
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 375.2200622558594, 247.8504180908203, 384.8200378417969)
+  - Span: We may have exposure to greater than anticipated tax liabilities.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: We may have exposure to greater than anticipated tax liabilities.
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 389.43701171875, 578.9820556640625, 502.412109375)
+  - Span: Our income tax obligations are based in part on our corporate operating structure and intercompany arrangements, including the manner in which we develop, value,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and use our intellectual property and the valuations of our intercompany transactions. The tax laws applicable to our business, including the laws of the United States and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: other jurisdictions, are subject to interpretation. The taxing authorities of the jurisdictions in which we operate may challenge our methodologies for valuing developed
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: technology or intercompany arrangements, which could increase our worldwide effective tax rate and harm our financial position and results of operations. In addition, our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: future income taxes could be adversely affected by earnings being lower than anticipated in jurisdictions that have lower statutory tax rates and higher than anticipated in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: jurisdictions that have higher statutory tax rates, by changes in the valuation of our deferred tax assets and liabilities, or by changes in tax laws, regulations, or accounting
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: principles. We are subject to regular review and audit by both U.S. federal and state and foreign tax authorities. Any adverse outcome of such a review or audit could have
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: a negative effect on our financial position and results of operations. In addition, the determination of our worldwide provision for income taxes and other tax liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: requires significant judgment by management, and there are many transactions where the ultimate tax determination is uncertain. Although we believe that our estimates
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: are reasonable, the ultimate tax outcome may differ from the amounts recorded in our financial statements and may materially affect our financial results in the period or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: periods for which such determination is made.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Our income tax obligations are based in part on our corporate operating structure and intercompany arrangements, including the manner in which we develop, value, and use our intellectual property and the valuations of our intercompany transactions. The tax laws applicable to our business, including the laws of the United States and other jurisdictions, are subject to interpretation. The taxing authorities of the jurisdictions in which we operate may challenge our methodologies for valuing developed technology or intercompany arrangements, which could increase our worldwide effective tax rate and harm our financial position and results of operations. In addition, our future income taxes could be adversely affected by earnings being lower than anticipated in jurisdictions that have lower statutory tax rates and higher than anticipated in jurisdictions that have higher statutory tax rates, by changes in the valuation of our deferred tax assets and liabilities, or by changes in tax laws, regulations, or accounting principles. We are subject to regular review and audit by both U.S. federal and state and foreign tax authorities. Any adverse outcome of such a review or audit could have a negative effect on our financial position and results of operations. In addition, the determination of our worldwide provision for income taxes and other tax liabilities requires significant judgment by management, and there are many transactions where the ultimate tax determination is uncertain. Although we believe that our estimates are reasonable, the ultimate tax outcome may differ from the amounts recorded in our financial statements and may materially affect our financial results in the period or periods for which such determination is made.  
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 502.23779296875, 310.0320129394531, 511.23779296875)
+  - Span: 51
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 51

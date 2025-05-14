@@ -1,0 +1,7 @@
+CIK: 0000006201
+YEAR: 2019
+QUARTER: 1
+Total Revenue: 10584.00
+Net Income: 185.00
+EPS: 0.41
+Operating Margin: 3.55

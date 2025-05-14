@@ -1,0 +1,7 @@
+CIK: 0000001800
+YEAR: 2017
+QUARTER: 1
+Total Revenue: 6335.00
+Net Income: 419.00
+EPS: 0.24
+Operating Margin: -3.19

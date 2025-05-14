@@ -1,0 +1,7 @@
+CIK: 0000070858
+YEAR: 2014
+QUARTER: 2
+Total Revenue: 21960.00
+Net Income: 2291.00
+EPS: 0.19
+Operating Margin: N/A

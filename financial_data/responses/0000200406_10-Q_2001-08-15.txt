@@ -1,0 +1,7 @@
+CIK: 0000200406
+YEAR: 2001
+QUARTER: 2
+Total Revenue: 8342.00
+Net Income: 1482.00
+EPS: 0.49
+Operating Margin: 25.50

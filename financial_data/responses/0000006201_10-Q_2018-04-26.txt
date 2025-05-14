@@ -1,0 +1,15 @@
+CIK: 0000006201
+YEAR: 2018
+QUARTER: 1
+Total Revenue: 10401.00
+Net Income: 186.00
+EPS: 0.39
+Operating Margin: 4.14
+
+CIK: 0000006201
+YEAR: 2018
+QUARTER: 1
+Total Revenue: 10398.00
+Net Income: 236.00
+EPS: N/A
+Operating Margin: 4.30

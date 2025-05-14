@@ -1,0 +1,19 @@
+CIK: 0000004962
+YEAR: 2013
+QUARTER: 1
+Total Revenue: 8400.00
+Net Income: 1280.00
+EPS: 1.15
+Operating Margin: 28.90
+
+--------------------------------
+
+Explanation:
+
+• Total Revenue is obtained by adding non‐interest revenues and interest income. The Consolidated Financial Statements show non‐interest revenues of $6,638 million and interest income of $1,762 million, which sum to $8,400 million.
+
+• To compute Operating Income (used for Operating Margin), we “back‐out” financing costs. Total revenue before financing is $8,400 million and interest expense is $519 million. Since the Consolidated Statements report “Total revenues net of interest expense” as $7,881 million, we can recover total revenue by adding interest expense back (7,881 + 519 = 8,400). Likewise, operating earnings — meaning earnings before interest and taxes (EBIT) — are computed by subtracting provisions for losses ($497 million) and operating expenses ($5,475 million) from total revenue ($8,400 million), giving EBIT = 8,400 – (497 + 5,475) = 2,428 million. The Operating Margin then is (2,428 / 8,400 × 100) ≈ 28.90%.
+
+• Net Income and EPS are given directly as $1,280 million and $1.15, respectively.
+
+Each quantitative metric is rounded to two decimal places as required.

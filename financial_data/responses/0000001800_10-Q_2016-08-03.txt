@@ -1,0 +1,7 @@
+CIK: 0000001800
+YEAR: 2016
+QUARTER: 2
+Total Revenue: 5333.00
+Net Income: 615.00
+EPS: 0.41
+Operating Margin: 15.31

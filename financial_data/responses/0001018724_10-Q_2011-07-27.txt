@@ -1,0 +1,7 @@
+CIK: 0001018724  
+YEAR: 2011  
+QUARTER: 2  
+Total Revenue: 9913.00  
+Net Income: 191.00  
+EPS: 0.42  
+Operating Margin: 2.03

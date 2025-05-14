@@ -1,0 +1,557 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 571.912841796875, 93.84159851074219)
+  - Span: Cost of revenue
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Cost of revenue        Three Months Ended June 30,          Six Months Ended June 30,       
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 101.00897979736328, 387.7127990722656, 108.24003601074219)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:      2012     2011   
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (401.70001220703125, 93.8408203125, 538.3128051757812, 108.24003601074219)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change    2012     2011   
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 93.8408203125, 578.916015625, 134.609375)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions, except for percentages)
+    Font: TimesNewRomanBoldItalic, Size: 6.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cost of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 367  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 210  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 75% 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 644  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 377  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 71% 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Percentage of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 31%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 23%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 29%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 23%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change       (in millions, except for percentages)   Cost of revenue    $ 367     $ 210      75%   $ 644     $ 377      71%  Percentage of revenue      31%     23%      29%     23% 
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 141.63623046875, 579.1410522460938, 208.23779296875)
+  - Span: Cost of revenue in the second quarter of 2012 increased $157 million, or 75%, compared to the same period in 2011 and increased by $267 million, or 71% in the first
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: six months of 2012 compared to the same period in 2011. The increases were primarily due to expenses related to expanding our data center operations, including $62 million
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and $121 million increases in depreciation in the second quarter and the first six months of 2012, respectively. Share-based compensation expense increased by $63 million
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and $68 million in the second quarter and the first six months of 2012, respectively, compared to the same periods in 2011 mainly due to recognition of expense related to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Pre-2011 RSUs triggered by the completion of our IPO in May 2012 and, to a lesser extent, RSUs granted on or after January 1, 2011 (Post-2011 RSUs). Increases in payroll
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and benefits expenses resulting from a 72% increase in employee headcount also contributed to increases in cost of revenue during the periods presented. These expenses
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: supported our user growth, the increased usage of our products by users, developers, and advertisers, and the launch of new products.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Cost of revenue in the second quarter of 2012 increased $157 million, or 75%, compared to the same period in 2011 and increased by $267 million, or 71% in the first six months of 2012 compared to the same period in 2011. The increases were primarily due to expenses related to expanding our data center operations, including $62 million and $121 million increases in depreciation in the second quarter and the first six months of 2012, respectively. Share-based compensation expense increased by $63 million and $68 million in the second quarter and the first six months of 2012, respectively, compared to the same periods in 2011 mainly due to recognition of expense related to Pre-2011 RSUs triggered by the completion of our IPO in May 2012 and, to a lesser extent, RSUs granted on or after January 1, 2011 (Post-2011 RSUs). Increases in payroll and benefits expenses resulting from a 72% increase in employee headcount also contributed to increases in cost of revenue during the periods presented. These expenses supported our user growth, the increased usage of our products by users, developers, and advertisers, and the launch of new products.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 219.2200469970703, 562.3128051757812, 246.8415985107422)
+  - Span: Marketing and sales
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Marketing and sales        Three Months Ended June 30,         Six Months Ended June 30,     
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 254.0089874267578, 399.11279296875, 261.24005126953125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:      2012     2011   
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (414.3000183105469, 246.8408203125, 545.5128173828125, 261.24005126953125)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change   2012     2011   
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 246.8408203125, 579.1656494140625, 287.609375)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions, except for percentages)
+    Font: TimesNewRomanBoldItalic, Size: 6.600000381469727
+  - Span: Marketing and sales
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 392  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 96  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: NM
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 535  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 158  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: NM
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Percentage of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 33%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 11%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 24%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 10%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change      (in millions, except for percentages) Marketing and sales    $ 392     $ 96    NM    $ 535     $ 158    NM Percentage of revenue      33%     11%       24%     10% 
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 294.63623046875, 579.7319946289062, 342.03662109375)
+  - Span: Marketing and sales expenses in the second quarter and the first six months of 2012 increased $296 million and $377 million, respectively, compared to the same
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: periods in 2011. The increases were primarily due to increased share-based compensation expense of $221 million and $240 million in the second quarter and the first six
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: months of 2012, respectively, resulting from recognition of expense related to Pre-2011 RSUs triggered by the completion of our IPO in May 2012 and, to a lesser extent,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Post-2011 RSUs. The increases were also due to an increase in payroll and benefits expenses resulting from a 33% increase in employee headcount to support global sales,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: business development, and customer service, as well as an increase in our user-, developer-, and advertiser-facing marketing.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Marketing and sales expenses in the second quarter and the first six months of 2012 increased $296 million and $377 million, respectively, compared to the same periods in 2011. The increases were primarily due to increased share-based compensation expense of $221 million and $240 million in the second quarter and the first six months of 2012, respectively, resulting from recognition of expense related to Pre-2011 RSUs triggered by the completion of our IPO in May 2012 and, to a lesser extent, Post-2011 RSUs. The increases were also due to an increase in payroll and benefits expenses resulting from a 33% increase in employee headcount to support global sales, business development, and customer service, as well as an increase in our user-, developer-, and advertiser-facing marketing.
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 353.0208435058594, 576.7128295898438, 380.64044189453125)
+  - Span: Research and development
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Three Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Six Months Ended June 30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Research and development        Three Months Ended June 30,          Six Months Ended June 30,       
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 387.80975341796875, 394.31280517578125, 395.04083251953125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:      2012     2011   
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (408.9000244140625, 380.6416015625, 542.5128173828125, 395.04083251953125)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change    2012     2011   
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 380.6416015625, 578.916015625, 421.41015625)
+  - Span: %
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: change
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions, except for percentages)
+    Font: TimesNewRomanBoldItalic, Size: 6.600000381469727
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Research and development
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 705  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 99  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  NM  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 858  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 156  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  NM  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Percentage of revenue
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 60%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 11%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 38%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 10%
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: % change       (in millions, except for percentages)   Research and development    $ 705     $ 99     NM     $ 858     $ 156     NM   Percentage of revenue      60%     11%       38%     10% 
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 428.43701171875, 578.5410766601562, 483.810546875)
+  - Span: Research and development expenses in the second quarter and the first six months of 2012 increased $606 million and $702 million, respectively, compared to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: same periods in 2011. The increases were primarily due to increased share-based compensation expense of $510 million and $566 million in the second quarter and the first
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: six months of 2012, respectively, resulting from recognition of expense related to Pre-2011 RSUs and, to a lesser extent, Post-2011 RSUs. Payroll and benefits expense also
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: increased due to a 65% growth in employee headcount in engineering, design, product management, and other technical functions. This investment supported our efforts
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: to improve existing products and build new products for users, developers, and advertisers.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Research and development expenses in the second quarter and the first six months of 2012 increased $606 million and $702 million, respectively, compared to the same periods in 2011. The increases were primarily due to increased share-based compensation expense of $510 million and $566 million in the second quarter and the first six months of 2012, respectively, resulting from recognition of expense related to Pre-2011 RSUs and, to a lesser extent, Post-2011 RSUs. Payroll and benefits expense also increased due to a 65% growth in employee headcount in engineering, design, product management, and other technical functions. This investment supported our efforts to improve existing products and build new products for users, developers, and advertisers.  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 483.63623046875, 310.0320129394531, 492.63623046875)
+  - Span: 28
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 28

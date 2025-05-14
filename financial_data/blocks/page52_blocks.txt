@@ -1,0 +1,260 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.878170013427734, 89.84099578857422, 52.878170013427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63623046875, 578.9820556640625, 114.03857421875)
+  - Span: In addition, the stock markets have experienced extreme price and volume fluctuations that have affected and continue to affect the market prices of equity securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of many technology companies. Stock prices of many technology companies have fluctuated in a manner unrelated or disproportionate to the operating performance of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: those companies. Following our initial public offering, the events surrounding the offering became the subject of securities litigation. We may experience more such
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: litigation following future periods of volatility. Any securities litigation could subject us to substantial costs, divert resources and the attention of management from our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: business, and adversely affect our business.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In addition, the stock markets have experienced extreme price and volume fluctuations that have affected and continue to affect the market prices of equity securities of many technology companies. Stock prices of many technology companies have fluctuated in a manner unrelated or disproportionate to the operating performance of those companies. Following our initial public offering, the events surrounding the offering became the subject of securities litigation. We may experience more such litigation following future periods of volatility. Any securities litigation could subject us to substantial costs, divert resources and the attention of management from our business, and adversely affect our business.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 125.02082824707031, 562.3607788085938, 144.82005310058594)
+  - Span: Substantial blocks of our total outstanding shares may be sold into the market when “lock-up” or “market standoff” periods end. If there are substantial sales of
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: shares of our common stock, the price of our Class A common stock could decline.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Substantial blocks of our total outstanding shares may be sold into the market when “lock-up” or “market standoff” periods end. If there are substantial sales of shares of our common stock, the price of our Class A common stock could decline.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 149.43701171875, 578.531982421875, 187.23779296875)
+  - Span: The price of our Class A common stock could decline if there are substantial sales of our common stock, particularly sales by our directors, executive officers,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: employees, and significant stockholders, or when there is a large number of shares of our common stock available for sale. As of June 30, 2012, there were 640,605,043
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: shares of our Class A common stock and 1,500,952,264 shares of our Class B common stock outstanding. Shares of our Class B common stock are convertible into an
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon transfer.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The price of our Class A common stock could decline if there are substantial sales of our common stock, particularly sales by our directors, executive officers, employees, and significant stockholders, or when there is a large number of shares of our common stock available for sale. As of June 30, 2012, there were 640,605,043 shares of our Class A common stock and 1,500,952,264 shares of our Class B common stock outstanding. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally convert into shares of our Class A common stock upon transfer.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 195.03857421875, 578.6820068359375, 250.23779296875)
+  - Span: The 180,000,000 shares of our Class A common stock sold in our IPO are freely tradable in the public market. The remaining shares of our Class A common stock and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Class B common stock, as well as the shares underlying outstanding RSUs and shares subject to employee stock options, will be eligible for sale in the public market in the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: near future as set forth below:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Date Available for Sale into Public Market
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Number of Shares of Common Stock
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: August 16, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The 180,000,000 shares of our Class A common stock sold in our IPO are freely tradable in the public market. The remaining shares of our Class A common stock and Class B common stock, as well as the shares underlying outstanding RSUs and shares subject to employee stock options, will be eligible for sale in the public market in the near future as set forth below:   Date Available for Sale into Public Market    Number of Shares of Common Stock August 16, 2012
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (311.70001220703125, 253.4113311767578, 315.11279296875, 260.611328125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (322.5, 241.23779296875, 578.531982421875, 259.83935546875)
+  - Span: 271,123,815 shares held by the selling stockholders in our IPO other than
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Mr. Zuckerberg
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 271,123,815 shares held by the selling stockholders in our IPO other than Mr. Zuckerberg
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 265.23779296875, 207.7320098876953, 274.23779296875)
+  - Span: Date between October 15, 2012 and November 13, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Date between October 15, 2012 and November 13, 2012
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (311.70001220703125, 296.61053466796875, 315.11279296875, 303.810546875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (322.5, 265.23779296875, 578.531982421875, 303.03857421875)
+  - Span: approximately 133 million shares underlying net- settled Pre-2011 RSUs held by
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our directors and then current employees and approximately 55 million
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: outstanding shares and approximately 55 million shares subject to stock options
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: held by then current employees other than Mr. Zuckerberg
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: approximately 133 million shares underlying net- settled Pre-2011 RSUs held by our directors and then current employees and approximately 55 million outstanding shares and approximately 55 million shares subject to stock options held by then current employees other than Mr. Zuckerberg
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 308.43701171875, 93.73199462890625, 317.43701171875)
+  - Span: November 14, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: November 14, 2012
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (311.70001220703125, 320.61053466796875, 315.11279296875, 327.810546875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (322.5, 308.43701171875, 578.531982421875, 327.03857421875)
+  - Span: approximately 1,197 million outstanding shares and approximately 20 million
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: shares underlying other net-settled Pre-2011 RSUs
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: approximately 1,197 million outstanding shares and approximately 20 million shares underlying other net-settled Pre-2011 RSUs
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 332.43701171875, 92.53199768066406, 341.43701171875)
+  - Span: December 14, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: December 14, 2012
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (311.70001220703125, 344.61053466796875, 315.11279296875, 351.810546875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (322.5, 332.43701171875, 578.531982421875, 351.03857421875)
+  - Span: 149,432,006 shares held by the selling stockholders in our IPO other than
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Mr. Zuckerberg
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 149,432,006 shares held by the selling stockholders in our IPO other than Mr. Zuckerberg
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 356.43701171875, 75.73199462890625, 365.43701171875)
+  - Span: May 18, 2013
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: May 18, 2013
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (311.70001220703125, 368.61053466796875, 315.11279296875, 375.810546875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:   
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (322.5, 356.43701171875, 578.531982421875, 375.03857421875)
+  - Span: 47,315,862 shares held by Mail.ru Group Limited and DST Global Limited and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: their respective affiliates
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 47,315,862 shares held by Mail.ru Group Limited and DST Global Limited and their respective affiliates
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 382.83935546875, 578.531982421875, 430.23779296875)
+  - Span: In addition, as of June 30, 2012, options to purchase 45,693,252 shares of Class B common stock held by former employees were outstanding and fully vested and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the Class B common stock underlying such options will be eligible for sale on November 14, 2012. Furthermore, the remaining 60,000,000 shares subject to the partially
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: exercised stock option held by Mr. Zuckerberg will be eligible for sale on November 14, 2012. We expect an additional approximately 4 million shares of Class B common
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: stock to be delivered upon the net settlement of RSUs between the date of the initial settlement of RSUs described above and December 31, 2012 will be eligible for sale in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the public market immediately following settlement.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In addition, as of June 30, 2012, options to purchase 45,693,252 shares of Class B common stock held by former employees were outstanding and fully vested and the Class B common stock underlying such options will be eligible for sale on November 14, 2012. Furthermore, the remaining 60,000,000 shares subject to the partially exercised stock option held by Mr. Zuckerberg will be eligible for sale on November 14, 2012. We expect an additional approximately 4 million shares of Class B common stock to be delivered upon the net settlement of RSUs between the date of the initial settlement of RSUs described above and December 31, 2012 will be eligible for sale in the public market immediately following settlement.
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 438.03857421875, 578.531982421875, 493.412109375)
+  - Span: Certain holders of our Class A common stock and Class B common stock have rights, subject to some conditions, to require us to file registration statements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: covering their shares or to include their shares in registration statements that we may file for ourselves or our stockholders. All of these shares are subject to market
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: standoff or lock-up agreements restricting their sale for specified periods of time after our IPO. We also registered 1,182,700,275 additional shares of common stock that we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have issued and may issue under our employee equity incentive plans on Form S-8, all of which will be freely tradeable in the public market upon issuance, subject to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: existing market standoff or lock-up agreements.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Certain holders of our Class A common stock and Class B common stock have rights, subject to some conditions, to require us to file registration statements covering their shares or to include their shares in registration statements that we may file for ourselves or our stockholders. All of these shares are subject to market standoff or lock-up agreements restricting their sale for specified periods of time after our IPO. We also registered 1,182,700,275 additional shares of common stock that we have issued and may issue under our employee equity incentive plans on Form S-8, all of which will be freely tradeable in the public market upon issuance, subject to existing market standoff or lock-up agreements.  
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 493.23779296875, 310.0320129394531, 502.23779296875)
+  - Span: 53
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 53

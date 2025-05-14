@@ -1,0 +1,174 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (185.10000610351562, 66.675048828125, 426.5820007324219, 85.275146484375)
+  - Span: FACEBOOK, INC.
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: FACEBOOK, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (286.20001220703125, 85.42024230957031, 326.2608337402344, 95.0202407836914)
+  - Span: (Unaudited)
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: (Unaudited)
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 103.275146484375, 208.64100646972656, 125.6203384399414)
+  - Span: Note 1.    Summary of Significant Accounting Policies
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Basis of Presentation
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Note 1.    Summary of Significant Accounting Policies Basis of Presentation
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 130.236328125, 578.916015625, 177.63623046875)
+  - Span: The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: United States (GAAP) and applicable rules and regulations of the Securities and Exchange Commission (SEC) regarding interim financial reporting. Certain information and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: note disclosures normally included in the financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to such rules and regulations.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: As such, the information included in this quarterly report on Form 10-Q should be read in conjunction with the consolidated financial statements and accompanying notes
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: included in our prospectus filed with the SEC pursuant to Rule 424(b) under the Securities Act of 1933, as amended, on May 18, 2012 (Prospectus).
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (GAAP) and applicable rules and regulations of the Securities and Exchange Commission (SEC) regarding interim financial reporting. Certain information and note disclosures normally included in the financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to such rules and regulations. As such, the information included in this quarterly report on Form 10-Q should be read in conjunction with the consolidated financial statements and accompanying notes included in our prospectus filed with the SEC pursuant to Rule 424(b) under the Securities Act of 1933, as amended, on May 18, 2012 (Prospectus).
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 185.4365234375, 578.5410766601562, 204.03662109375)
+  - Span: The condensed consolidated balance sheet as of December 31, 2011, included herein was derived from the audited financial statements as of that date, but does not
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: include all disclosures including notes required by GAAP.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The condensed consolidated balance sheet as of December 31, 2011, included herein was derived from the audited financial statements as of that date, but does not include all disclosures including notes required by GAAP.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 211.83642578125, 577.9320068359375, 230.4365234375)
+  - Span: The condensed consolidated financial statements include the accounts of Facebook, Inc. and its wholly owned subsidiaries. All intercompany balances and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: transactions have been eliminated.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The condensed consolidated financial statements include the accounts of Facebook, Inc. and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 238.236328125, 578.916015625, 266.4365234375)
+  - Span: The accompanying unaudited condensed consolidated financial statements reflect all normal recurring adjustments necessary to present fairly the financial position,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: results of operations, and cash flows for the interim periods, but are not necessarily indicative of the results of operations to be anticipated for the full year ending
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: December 31, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The accompanying unaudited condensed consolidated financial statements reflect all normal recurring adjustments necessary to present fairly the financial position, results of operations, and cash flows for the interim periods, but are not necessarily indicative of the results of operations to be anticipated for the full year ending December 31, 2012.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 274.236328125, 578.5410766601562, 302.4365234375)
+  - Span: We have reclassified certain prior period expense amounts from marketing and sales to general and administrative within our condensed consolidated statements of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operations to conform to our current period presentation. These reclassifications did not affect revenue, total costs and expenses, (loss) income from operations, or net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (loss) income.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We have reclassified certain prior period expense amounts from marketing and sales to general and administrative within our condensed consolidated statements of operations to conform to our current period presentation. These reclassifications did not affect revenue, total costs and expenses, (loss) income from operations, or net (loss) income.
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 310.236328125, 578.531982421875, 328.83642578125)
+  - Span: There have been no changes to our significant accounting policies described in the Prospectus that have had a material impact on our condensed consolidated
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial statements and related notes.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: There have been no changes to our significant accounting policies described in the Prospectus that have had a material impact on our condensed consolidated financial statements and related notes.
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 339.8201599121094, 214.48081970214844, 349.4201354980469)
+  - Span: Initial Public Offering and Share-based Compensation
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Initial Public Offering and Share-based Compensation
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 354.03662109375, 578.9820556640625, 391.83642578125)
+  - Span: In May 2012, we completed our initial public offering (IPO) in which we issued and sold 180 million shares of Class A common stock at a public offering price of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: $38.00 per share. We received net proceeds of $6.8 billion after deducting underwriting discounts and commissions of $75 million and other offering expenses of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: approximately $6 million. Upon the closing of the IPO, all shares of our then-outstanding convertible preferred stock automatically converted into an aggregate of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 545 million shares of Class B common stock and an aggregate of 336 million shares of Class B common stock converted into Class A common stock.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In May 2012, we completed our initial public offering (IPO) in which we issued and sold 180 million shares of Class A common stock at a public offering price of $38.00 per share. We received net proceeds of $6.8 billion after deducting underwriting discounts and commissions of $75 million and other offering expenses of approximately $6 million. Upon the closing of the IPO, all shares of our then-outstanding convertible preferred stock automatically converted into an aggregate of 545 million shares of Class B common stock and an aggregate of 336 million shares of Class B common stock converted into Class A common stock.
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 399.63623046875, 578.6820068359375, 483.80908203125)
+  - Span: Restricted stock units (RSUs) granted prior to January 1, 2011 (Pre-2011 RSUs) vest upon the satisfaction of both a service condition and a liquidity condition. The
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: service condition for the majority of these awards is satisfied over four years. The liquidity condition is satisfied upon the occurrence of a qualifying event, defined as a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: change of control transaction or six months following the completion of our IPO, which occurred in May 2012. The vesting condition that will be satisfied six months
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: following our IPO does not affect the expense attribution period for the RSUs for which the service condition has been met as of the date of our IPO. This six-month period
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: is not a substantive service condition and, accordingly, beginning on the effectiveness of our IPO in May 2012, we recognized a cumulative share-based compensation
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: expense for the portion of the RSUs that had met the service condition. In the three and six months ended June 30, 2012, the share-based compensation expense related to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our Pre-2011 RSUs recognized was $986 million. As of June 30, 2012, we have approximately $205 million of additional future period share-based compensation expense
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: related to our Pre-2011 RSUs to be recognized over a weighted-average period of approximately two years.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Restricted stock units (RSUs) granted prior to January 1, 2011 (Pre-2011 RSUs) vest upon the satisfaction of both a service condition and a liquidity condition. The service condition for the majority of these awards is satisfied over four years. The liquidity condition is satisfied upon the occurrence of a qualifying event, defined as a change of control transaction or six months following the completion of our IPO, which occurred in May 2012. The vesting condition that will be satisfied six months following our IPO does not affect the expense attribution period for the RSUs for which the service condition has been met as of the date of our IPO. This six-month period is not a substantive service condition and, accordingly, beginning on the effectiveness of our IPO in May 2012, we recognized a cumulative share-based compensation expense for the portion of the RSUs that had met the service condition. In the three and six months ended June 30, 2012, the share-based compensation expense related to our Pre-2011 RSUs recognized was $986 million. As of June 30, 2012, we have approximately $205 million of additional future period share-based compensation expense related to our Pre-2011 RSUs to be recognized over a weighted-average period of approximately two years.  
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (304.20001220703125, 483.63623046875, 308.2320251464844, 492.63623046875)
+  - Span: 8
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 8

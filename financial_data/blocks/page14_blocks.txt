@@ -1,0 +1,169 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22004699707031, 93.05039978027344, 75.8200454711914)
+  - Span: Other Agreements
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Other Agreements
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 80.43701171875, 578.6820068359375, 147.03662109375)
+  - Span: In April 2012, we entered into an agreement to acquire Instagram, Inc., which has built a mobile phone-based photo-sharing service, for 22,999,412 shares of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: common stock and $300 million in cash. The value of the equity component of the final purchase price will be determined for accounting purposes based on the fair value
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of our common stock on the closing date. Following the closing of this acquisition, we plan to maintain Instagram’s products as independent mobile applications to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: enhance our photos product offerings and to enable users to increase their levels of mobile engagement and photo sharing. This acquisition is subject to customary
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: closing conditions, including the expiration or early termination of all applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvement Act of 1976, as
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: amended (HSR), and is expected to close in 2012. We have agreed to pay Instagram a $200 million termination fee if governmental authorities permanently enjoin or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: otherwise prevent the completion of the merger or if either party terminates the agreement after December 10, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In April 2012, we entered into an agreement to acquire Instagram, Inc., which has built a mobile phone-based photo-sharing service, for 22,999,412 shares of our common stock and $300 million in cash. The value of the equity component of the final purchase price will be determined for accounting purposes based on the fair value of our common stock on the closing date. Following the closing of this acquisition, we plan to maintain Instagram’s products as independent mobile applications to enhance our photos product offerings and to enable users to increase their levels of mobile engagement and photo sharing. This acquisition is subject to customary closing conditions, including the expiration or early termination of all applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvement Act of 1976, as amended (HSR), and is expected to close in 2012. We have agreed to pay Instagram a $200 million termination fee if governmental authorities permanently enjoin or otherwise prevent the completion of the merger or if either party terminates the agreement after December 10, 2012.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 158.0208282470703, 81.05039978027344, 167.62083435058594)
+  - Span: Contingencies
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Contingencies
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 172.23428344726562, 79.04100036621094, 181.23426818847656)
+  - Span: Legal Matters
+    Font: TimesNewRomanItalic, Size: 9.0
+Full Text: Legal Matters
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 185.43701171875, 578.9820556640625, 242.43701171875)
+  - Span: On March 12, 2012, Yahoo filed a lawsuit against us in the U.S. District Court for the Northern District of California, claiming that we infringe ten of Yahoo’s patents
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: that Yahoo claimed relate to “advertising,” “social networking,” “privacy,” “customization,” and “messaging,” and on April 27, 2012 Yahoo added two patents to the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: lawsuit that Yahoo claims relate to “advertising.” Yahoo sought unspecified damages, a damage multiplier for alleged willful infringement, and an injunction. On April 3,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2012, we filed our answer with respect to this complaint and asserted counterclaims that Yahoo’s products infringe ten of our patents. On July 6, 2012, the parties entered
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: into a settlement agreement resolving all claims made in the litigation. On July 9, 2012, the parties filed a stipulated dismissal of the litigation with the U.S. District Court for
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the Northern District of California and this litigation was dismissed on July 10, 2012. We have no payment obligations under this settlement agreement.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: On March 12, 2012, Yahoo filed a lawsuit against us in the U.S. District Court for the Northern District of California, claiming that we infringe ten of Yahoo’s patents that Yahoo claimed relate to “advertising,” “social networking,” “privacy,” “customization,” and “messaging,” and on April 27, 2012 Yahoo added two patents to the lawsuit that Yahoo claims relate to “advertising.” Yahoo sought unspecified damages, a damage multiplier for alleged willful infringement, and an injunction. On April 3, 2012, we filed our answer with respect to this complaint and asserted counterclaims that Yahoo’s products infringe ten of our patents. On July 6, 2012, the parties entered into a settlement agreement resolving all claims made in the litigation. On July 9, 2012, the parties filed a stipulated dismissal of the litigation with the U.S. District Court for the Northern District of California and this litigation was dismissed on July 10, 2012. We have no payment obligations under this settlement agreement.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 250.23681640625, 579.2542724609375, 288.03662109375)
+  - Span: Beginning on May 22, 2012, multiple putative class actions, derivative actions, and individual actions were filed in state and federal courts in the United States and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in other jurisdictions against us, our directors, and/or certain of our officers alleging violation of securities laws or breach of fiduciary duties in connection with our IPO
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and seeking unspecified damages. We believe these lawsuits are without merit, and we are vigorously defending these lawsuits. In addition, following our IPO, the events
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: surrounding our IPO became the subject of government inquiries, and we have received requests for information in connection with certain of those inquiries.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Beginning on May 22, 2012, multiple putative class actions, derivative actions, and individual actions were filed in state and federal courts in the United States and in other jurisdictions against us, our directors, and/or certain of our officers alleging violation of securities laws or breach of fiduciary duties in connection with our IPO and seeking unspecified damages. We believe these lawsuits are without merit, and we are vigorously defending these lawsuits. In addition, following our IPO, the events surrounding our IPO became the subject of government inquiries, and we have received requests for information in connection with certain of those inquiries.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 295.83642578125, 389.916015625, 304.83642578125)
+  - Span: We are also party to various legal proceedings and claims which arise in the ordinary course of business.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We are also party to various legal proceedings and claims which arise in the ordinary course of business.
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 312.63623046875, 578.916015625, 350.43701171875)
+  - Span: In the opinion of management, there was not at least a reasonable possibility we may have incurred a material loss, or a material loss in excess of a recorded accrual,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: with respect to loss contingencies relating to the matters set forth above. However, the outcome of litigation is inherently uncertain. Therefore, although management
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against us in the same reporting period for amounts in excess
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of management’s expectations, our condensed consolidated financial statements of a particular reporting period could be materially adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In the opinion of management, there was not at least a reasonable possibility we may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to loss contingencies relating to the matters set forth above. However, the outcome of litigation is inherently uncertain. Therefore, although management considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against us in the same reporting period for amounts in excess of management’s expectations, our condensed consolidated financial statements of a particular reporting period could be materially adversely affected.
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 361.4202575683594, 82.7208023071289, 371.0202331542969)
+  - Span: Credit Facility
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Credit Facility
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 375.63623046875, 578.9820556640625, 403.83642578125)
+  - Span: In February 2012, we entered into an agreement for an unsecured five-year revolving credit facility that allows us to borrow up to $5,000 million for general corporate
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: purposes, with interest payable on the borrowed amounts set at LIBOR plus 1.0%. Under the terms of the agreement, we are obligated to pay a commitment fee of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0.10% per annum on the daily undrawn balance.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: In February 2012, we entered into an agreement for an unsecured five-year revolving credit facility that allows us to borrow up to $5,000 million for general corporate purposes, with interest payable on the borrowed amounts set at LIBOR plus 1.0%. Under the terms of the agreement, we are obligated to pay a commitment fee of 0.10% per annum on the daily undrawn balance.
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 411.63623046875, 579.4042358398438, 486.208984375)
+  - Span: Concurrent with our entering into the revolving credit facility, we also entered into a bridge credit facility agreement that allows us to borrow up to $3,000 million to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: fund tax withholding and remittance obligations related to the settlement of RSUs in connection with our IPO, with interest payable on the borrowed amounts set at LIBOR
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: plus 1.0% and an additional 0.25% payable on drawn balances outstanding from and after the 180th day of borrowing. Any amounts outstanding under this facility will be
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: due one year after the date we draw on the facility but no later than June 30, 2014. During the term of this bridge facility, the lenders’ commitments are subject to reduction
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and amounts borrowed thereunder are subject to repayment in the event we raise capital through certain asset sales, debt issuances, or equity issuances. Under the terms
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: of the agreement, we are obligated to pay a commitment fee of 0.10% per annum on the daily undrawn balance from and after the 90th day following the date we entered
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: into the bridge facility.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Concurrent with our entering into the revolving credit facility, we also entered into a bridge credit facility agreement that allows us to borrow up to $3,000 million to fund tax withholding and remittance obligations related to the settlement of RSUs in connection with our IPO, with interest payable on the borrowed amounts set at LIBOR plus 1.0% and an additional 0.25% payable on drawn balances outstanding from and after the 180th day of borrowing. Any amounts outstanding under this facility will be due one year after the date we draw on the facility but no later than June 30, 2014. During the term of this bridge facility, the lenders’ commitments are subject to reduction and amounts borrowed thereunder are subject to repayment in the event we raise capital through certain asset sales, debt issuances, or equity issuances. Under the terms of the agreement, we are obligated to pay a commitment fee of 0.10% per annum on the daily undrawn balance from and after the 90th day following the date we entered into the bridge facility.  
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 486.03662109375, 310.0320129394531, 495.03662109375)
+  - Span: 15
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 15

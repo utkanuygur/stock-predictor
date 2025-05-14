@@ -1,0 +1,7 @@
+CIK: 0000021344
+YEAR: 2002
+QUARTER: 2
+Total Revenue: 5368.00
+Net Income: 1290.00
+EPS: 0.52
+Operating Margin: 30.80

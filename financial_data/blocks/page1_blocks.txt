@@ -1,0 +1,333 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875057220458984, 89.84099578857422, 52.875057220458984)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.67510986328125, 578.916015625, 115.40899658203125)
+  - Span: FACEBOOK, INC.
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: TABLE OF CONTENTS
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Page No. 
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Note About Forward-Looking Statements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 3  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: FACEBOOK, INC. TABLE OF CONTENTS             Page No.  Note About Forward-Looking Statements      3  
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (221.10000610351562, 120.0362548828125, 578.916015625, 129.80902099609375)
+  - Span: PART I—FINANCIAL INFORMATION
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: PART I—FINANCIAL INFORMATION      4  
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 134.436279296875, 578.916015625, 144.20904541015625)
+  - Span: Item 1.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Financial Statements (unaudited)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 1.    Financial Statements (unaudited)      4  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 148.83624267578125, 578.916015625, 158.6090087890625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Condensed Consolidated Balance Sheets—June 30, 2012 and December 31, 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:    Condensed Consolidated Balance Sheets—June 30, 2012 and December 31, 2011      4  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 163.23626708984375, 578.916015625, 173.009033203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Condensed Consolidated Statements of Operations—for the three months and six months ended June 30, 2012 and 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 5  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:    Condensed Consolidated Statements of Operations—for the three months and six months ended June 30, 2012 and 2011      5  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 177.63629150390625, 578.916015625, 187.40899658203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Condensed Consolidated Statements of Comprehensive Income (Loss)—for the three months and six months ended June 30, 2012 and 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:    Condensed Consolidated Statements of Comprehensive Income (Loss)—for the three months and six months ended June 30, 2012 and 2011      6  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 192.0362548828125, 578.916015625, 201.80902099609375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Condensed Consolidated Statements of Cash Flows—for the six months ended June 30, 2012 and 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 7  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:    Condensed Consolidated Statements of Cash Flows—for the six months ended June 30, 2012 and 2011      7  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (65.10000610351562, 206.436279296875, 578.916015625, 216.20904541015625)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Notes to Condensed Consolidated Financial Statements
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 8  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:    Notes to Condensed Consolidated Financial Statements      8  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 220.83624267578125, 578.916015625, 230.6090087890625)
+  - Span: Item 2.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 19  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations      19  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 235.23626708984375, 578.916015625, 245.009033203125)
+  - Span: Item 3.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Quantitative and Qualitative Disclosures About Market Risk
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 33  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 3.    Quantitative and Qualitative Disclosures About Market Risk      33  
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 249.63629150390625, 578.916015625, 259.40899658203125)
+  - Span: Item 4.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Controls and Procedures
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 34  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 4.    Controls and Procedures      34  
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (228.00001525878906, 264.0362548828125, 578.916015625, 273.80902099609375)
+  - Span: PART II—OTHER INFORMATION
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 35  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: PART II—OTHER INFORMATION      35  
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 278.436279296875, 578.916015625, 288.20904541015625)
+  - Span: Item 1.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Legal Proceedings
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 35  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 1.    Legal Proceedings      35  
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 292.83624267578125, 578.916015625, 302.6090087890625)
+  - Span: Item 1A.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Risk Factors
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 35  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 1A.    Risk Factors      35  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 307.23626708984375, 578.916015625, 317.009033203125)
+  - Span: Item 2.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Unregistered Sales of Equity Securities and Use of Proceeds
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 56  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds      56  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 321.63623046875, 578.916015625, 331.4090576171875)
+  - Span: Item 6.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Exhibits
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 57  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Item 6.    Exhibits      57  
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 336.0362548828125, 578.916015625, 353.009033203125)
+  - Span: SIGNATURES
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 59  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: SIGNATURES      59    
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (304.20001220703125, 352.8363037109375, 308.2320251464844, 361.8363037109375)
+  - Span: 2
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2

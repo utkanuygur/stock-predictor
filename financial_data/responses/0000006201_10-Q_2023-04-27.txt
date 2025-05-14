@@ -1,0 +1,15 @@
+CIK: N/A
+YEAR: 2023
+QUARTER: 1
+Total Revenue: 12189.00
+Net Income: 10.00
+EPS: 0.02
+Operating Margin: 3.59
+
+CIK: N/A
+YEAR: 2023
+QUARTER: 1
+Total Revenue: 12188.00
+Net Income: 85.00
+EPS: N/A
+Operating Margin: 3.60

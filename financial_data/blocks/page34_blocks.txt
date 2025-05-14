@@ -1,0 +1,139 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.677001953125, 150.1230010986328, 88.876220703125)
+  - Span: PART II—OTHER INFORMATION
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Item 1. Legal Proceedings
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: PART II—OTHER INFORMATION Item 1. Legal Proceedings
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 93.03662109375, 578.3160400390625, 188.43701171875)
+  - Span: Paul D. Ceglia filed suit against us and Mark Zuckerberg on or about June 30, 2010, in the Supreme Court of the State of New York for the County of Allegheny,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: claiming substantial ownership of our company based on a purported contract between Mr. Ceglia and Mr. Zuckerberg allegedly entered into in April 2003. We removed
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the case to the U.S. District Court for the Western District of New York, where the case is now pending. In his first amended complaint, filed on April 11, 2011, Mr. Ceglia
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: revised his claims to include an alleged partnership with Mr. Zuckerberg, he revised his claims for relief to seek a substantial share of Mr. Zuckerberg’s ownership in us,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and he included quotations from supposed emails that he claims to have exchanged with Mr. Zuckerberg in 2003 and 2004. On June 2, 2011, we filed a motion for expedited
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: discovery based on evidence we submitted to the court showing that the alleged contract and emails upon which Mr. Ceglia bases his complaint are fraudulent. On July 1,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2011, the court granted our motion and ordered Mr. Ceglia to produce, among other things, all hard copy and electronic versions of the purported contract and emails. On
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: January 10, 2012, the court granted our request for sanctions against Mr. Ceglia for his delay in compliance with that order. On March 26, 2012, we filed a motion to dismiss
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Mr. Ceglia’s complaint and a motion for judgment on the pleadings. We continue to believe that Mr. Ceglia is attempting to perpetrate a fraud on the court and we intend
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: to continue to defend the case vigorously.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Paul D. Ceglia filed suit against us and Mark Zuckerberg on or about June 30, 2010, in the Supreme Court of the State of New York for the County of Allegheny, claiming substantial ownership of our company based on a purported contract between Mr. Ceglia and Mr. Zuckerberg allegedly entered into in April 2003. We removed the case to the U.S. District Court for the Western District of New York, where the case is now pending. In his first amended complaint, filed on April 11, 2011, Mr. Ceglia revised his claims to include an alleged partnership with Mr. Zuckerberg, he revised his claims for relief to seek a substantial share of Mr. Zuckerberg’s ownership in us, and he included quotations from supposed emails that he claims to have exchanged with Mr. Zuckerberg in 2003 and 2004. On June 2, 2011, we filed a motion for expedited discovery based on evidence we submitted to the court showing that the alleged contract and emails upon which Mr. Ceglia bases his complaint are fraudulent. On July 1, 2011, the court granted our motion and ordered Mr. Ceglia to produce, among other things, all hard copy and electronic versions of the purported contract and emails. On January 10, 2012, the court granted our request for sanctions against Mr. Ceglia for his delay in compliance with that order. On March 26, 2012, we filed a motion to dismiss Mr. Ceglia’s complaint and a motion for judgment on the pleadings. We continue to believe that Mr. Ceglia is attempting to perpetrate a fraud on the court and we intend to continue to defend the case vigorously.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 196.23779296875, 578.6820068359375, 253.23779296875)
+  - Span: On March 12, 2012, Yahoo filed a lawsuit against us in the U.S. District Court for the Northern District of California, claiming that we infringe ten of Yahoo’s patents
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: that Yahoo claims relate to “advertising,” “social networking,” “privacy,” “customization,” and “messaging,” and on April 27, 2012 Yahoo added two patents to the lawsuit
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: that Yahoo claimed relate to “advertising.” Yahoo sought unspecified damages, a damage multiplier for alleged willful infringement, and an injunction. On April 3, 2012, we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: filed our answer with respect to this complaint and asserted counterclaims that Yahoo’s products infringe ten of our patents. On July 6, 2012, the parties entered into a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: settlement agreement resolving all claims made in the litigation. On July 9, 2012, the parties filed a stipulated dismissal of the litigation with the U.S. District Court for the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Northern District of California and this litigation was dismissed on July 10, 2012. We have no payment obligations under this settlement agreement.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: On March 12, 2012, Yahoo filed a lawsuit against us in the U.S. District Court for the Northern District of California, claiming that we infringe ten of Yahoo’s patents that Yahoo claims relate to “advertising,” “social networking,” “privacy,” “customization,” and “messaging,” and on April 27, 2012 Yahoo added two patents to the lawsuit that Yahoo claimed relate to “advertising.” Yahoo sought unspecified damages, a damage multiplier for alleged willful infringement, and an injunction. On April 3, 2012, we filed our answer with respect to this complaint and asserted counterclaims that Yahoo’s products infringe ten of our patents. On July 6, 2012, the parties entered into a settlement agreement resolving all claims made in the litigation. On July 9, 2012, the parties filed a stipulated dismissal of the litigation with the U.S. District Court for the Northern District of California and this litigation was dismissed on July 10, 2012. We have no payment obligations under this settlement agreement.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 261.03662109375, 579.1410522460938, 308.43701171875)
+  - Span: Beginning on May 22, 2012, multiple putative class actions, derivative actions, and individual actions were filed in state and federal courts in the United States and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in other jurisdictions against us, our directors, and/or certain of our officers alleging violation of securities laws or breach of fiduciary duties in connection with our initial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: public offering (IPO) and seeking unspecified damages. We believe these lawsuits are without merit, and we are vigorously defending these lawsuits. In addition, following
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our IPO, the events surrounding our IPO became the subject of government inquiries, and we have received requests for information in connection with certain of those
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: inquiries. Any such inquiries could subject us to substantial costs, divert resources and the attention of management from our business, or adversely affect our business.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Beginning on May 22, 2012, multiple putative class actions, derivative actions, and individual actions were filed in state and federal courts in the United States and in other jurisdictions against us, our directors, and/or certain of our officers alleging violation of securities laws or breach of fiduciary duties in connection with our initial public offering (IPO) and seeking unspecified damages. We believe these lawsuits are without merit, and we are vigorously defending these lawsuits. In addition, following our IPO, the events surrounding our IPO became the subject of government inquiries, and we have received requests for information in connection with certain of those inquiries. Any such inquiries could subject us to substantial costs, divert resources and the attention of management from our business, or adversely affect our business.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 316.23779296875, 578.3820190429688, 363.63818359375)
+  - Span: We are also currently parties to multiple other lawsuits related to our products, including patent infringement lawsuits brought by both other companies and non-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: practicing entities as well as class action lawsuits brought by users and advertisers, and we may in the future be subject to additional lawsuits and disputes. We are also
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: involved in other claims, government investigations, and proceedings arising from the ordinary course of our business. Although the results of these other lawsuits,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: claims, government investigations, and proceedings in which we are involved cannot be predicted with certainty, we do not believe that the final outcome of these other
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: matters will have a material adverse effect on our business, financial condition, or results of operations.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We are also currently parties to multiple other lawsuits related to our products, including patent infringement lawsuits brought by both other companies and non- practicing entities as well as class action lawsuits brought by users and advertisers, and we may in the future be subject to additional lawsuits and disputes. We are also involved in other claims, government investigations, and proceedings arising from the ordinary course of our business. Although the results of these other lawsuits, claims, government investigations, and proceedings in which we are involved cannot be predicted with certainty, we do not believe that the final outcome of these other matters will have a material adverse effect on our business, financial condition, or results of operations.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 375.075439453125, 104.84100341796875, 384.075439453125)
+  - Span: Item 1A. Risk Factors
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Item 1A. Risk Factors
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 388.2352600097656, 578.9542236328125, 453.2109375)
+  - Span: Certain factors may have a material adverse effect on our business, financial condition and results of operations. You should consider carefully the risks and
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: uncertainties described below, in addition to other information contained in this Quarterly Report on Form 10-Q, including our condensed consolidated financial
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: statements and related notes. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: that we currently believe are not material, may also become important factors that adversely affect our business. If any of the following risks actually occurs, our
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: business, financial condition, results of operations, and future prospects could be materially and adversely affected. In that event, the trading price of our Class A
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span: common stock could decline, and you could lose part or all of your investment.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Certain factors may have a material adverse effect on our business, financial condition and results of operations. You should consider carefully the risks and uncertainties described below, in addition to other information contained in this Quarterly Report on Form 10-Q, including our condensed consolidated financial statements and related notes. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that adversely affect our business. If any of the following risks actually occurs, our business, financial condition, results of operations, and future prospects could be materially and adversely affected. In that event, the trading price of our Class A common stock could decline, and you could lose part or all of your investment.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 453.03662109375, 310.0320129394531, 462.03662109375)
+  - Span: 35
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 35

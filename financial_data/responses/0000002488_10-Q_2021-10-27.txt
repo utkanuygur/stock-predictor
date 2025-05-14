@@ -1,0 +1,7 @@
+CIK: 0000002488
+YEAR: 2021
+QUARTER: 3
+Total Revenue: 4313.00
+Net Income: 923.00
+EPS: 0.76
+Operating Margin: 21.97

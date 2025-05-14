@@ -1,0 +1,7 @@
+CIK: 0001141391
+YEAR: 2008
+QUARTER: 1
+Total Revenue: 1182.08
+Net Income: 446.88
+EPS: 3.40
+Operating Margin: 43.63

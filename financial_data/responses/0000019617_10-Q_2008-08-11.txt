@@ -1,0 +1,9 @@
+CIK: 0000019617
+YEAR: 2008
+QUARTER: 2
+Total Revenue: 18399.00
+Net Income: 2003.00
+EPS: 0.54
+Operating Margin: 33.80
+
+→ Explanation: The report “0000019617_10-Q_2008-08-11.pdf” is a 10‑Q filing for the quarter ended June 30, 2008 (i.e. Q2 2008). From the Consolidated Statements of Income the “Total net revenue” is $18,399 million, “Net income” is $2,003 million, and diluted “Earnings per share” is $0.54. Calculating an operating income as (Total net revenue minus total noninterest expense: 18,399 – 12,177 = 6,222 million) and then computing operating margin = (6,222/18,399)*100 yields approximately 33.80%. All values are presented with two decimal places as required.

@@ -1,0 +1,722 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (54.900001525878906, 66.63623046875, 392.3160095214844, 75.63623046875)
+  - Span: No amounts were drawn down under these credit and bridge credit facility agreements as of June 30, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: No amounts were drawn down under these credit and bridge credit facility agreements as of June 30, 2012.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 87.075439453125, 144.65040588378906, 109.4206314086914)
+  - Span: Note 7.     Stockholders’ Equity
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Share-based Compensation Plans
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Note 7.     Stockholders’ Equity Share-based Compensation Plans
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 114.03662109375, 579.1320190429688, 180.63623046875)
+  - Span: We maintain three share-based employee compensation plans: the 2012 Equity Incentive Plan, the 2005 Stock Plan and the 2005 Officers’ Stock Plan (Stock Plans). In
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: January 2012, our board of directors approved our 2012 Equity Incentive Plan (2012 Plan), and in April 2012 our stockholders adopted the 2012 Plan, effective on May 17,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2012, which serves as the successor to our 2005 Stock Plan and provides for the issuance of incentive and nonstatutory stock options, restricted stock awards, stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: appreciation rights, restricted stock units, performance shares and stock bonuses to qualified employees, directors and consultants. No new awards will be issued under
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the 2005 Stock Plan as of the effective date of the 2012 Plan. Outstanding awards under the 2005 Stock Plan continue to be subject to the terms and conditions of the 2005
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Stock Plan. Shares available for grant under the 2005 Stock Plan, which were reserved but not issued or subject to outstanding awards under the 2005 Stock Plan as of the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: effective date, were added to the reserves of the 2012 Plan.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We maintain three share-based employee compensation plans: the 2012 Equity Incentive Plan, the 2005 Stock Plan and the 2005 Officers’ Stock Plan (Stock Plans). In January 2012, our board of directors approved our 2012 Equity Incentive Plan (2012 Plan), and in April 2012 our stockholders adopted the 2012 Plan, effective on May 17, 2012, which serves as the successor to our 2005 Stock Plan and provides for the issuance of incentive and nonstatutory stock options, restricted stock awards, stock appreciation rights, restricted stock units, performance shares and stock bonuses to qualified employees, directors and consultants. No new awards will be issued under the 2005 Stock Plan as of the effective date of the 2012 Plan. Outstanding awards under the 2005 Stock Plan continue to be subject to the terms and conditions of the 2005 Stock Plan. Shares available for grant under the 2005 Stock Plan, which were reserved but not issued or subject to outstanding awards under the 2005 Stock Plan as of the effective date, were added to the reserves of the 2012 Plan.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 188.43701171875, 578.9820556640625, 226.23681640625)
+  - Span: We have initially reserved 25,000,000 shares of our Class A common stock for issuance under our 2012 Plan. The number of shares reserved for issuance under our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2012 Plan will increase automatically on the first day of January of each of 2013 through 2022. The maximum term for stock options granted under the 2012 Plan may not
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: exceed ten years from the date of grant. Our 2012 Plan will terminate ten years from the date our board of directors approved the plan, unless it is terminated earlier by our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: board of directors.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We have initially reserved 25,000,000 shares of our Class A common stock for issuance under our 2012 Plan. The number of shares reserved for issuance under our 2012 Plan will increase automatically on the first day of January of each of 2013 through 2022. The maximum term for stock options granted under the 2012 Plan may not exceed ten years from the date of grant. Our 2012 Plan will terminate ten years from the date our board of directors approved the plan, unless it is terminated earlier by our board of directors.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 234.03662109375, 578.9820556640625, 291.03662109375)
+  - Span: The 2005 Officers’ Stock Plan provides for up to 120,000,000 shares of incentive and nonstatutory stock options to certain of our employees or officers. The 2005
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Officers’ Stock Plan will terminate ten years after its adoption unless terminated earlier by our compensation committee. Stock options become vested and exercisable at
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: such times and under such conditions as determined by our compensation committee on the date of grant. In November 2005, we issued a nonstatutory stock option to our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: CEO to purchase 120,000,000 shares of our Class B common stock under the 2005 Officers’ Stock Plan. As of June 30, 2012, the option had been partially exercised in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: respect of 60,000,000 shares with the remainder remaining outstanding and fully vested, and no options were available for future issuance under the 2005 Officers’ Stock
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Plan.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The 2005 Officers’ Stock Plan provides for up to 120,000,000 shares of incentive and nonstatutory stock options to certain of our employees or officers. The 2005 Officers’ Stock Plan will terminate ten years after its adoption unless terminated earlier by our compensation committee. Stock options become vested and exercisable at such times and under such conditions as determined by our compensation committee on the date of grant. In November 2005, we issued a nonstatutory stock option to our CEO to purchase 120,000,000 shares of our Class B common stock under the 2005 Officers’ Stock Plan. As of June 30, 2012, the option had been partially exercised in respect of 60,000,000 shares with the remainder remaining outstanding and fully vested, and no options were available for future issuance under the 2005 Officers’ Stock Plan.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 298.83642578125, 576.7128295898438, 325.44024658203125)
+  - Span: The following table summarizes the stock option and RSU award activity under the Stock Plans during the six months ended June 30, 2012:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Shares Subject to Options Outstanding
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Outstanding RSUs
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: The following table summarizes the stock option and RSU award activity under the Stock Plans during the six months ended June 30, 2012:             Shares Subject to Options Outstanding     Outstanding RSUs  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 354.80975341796875, 237.71279907226562, 362.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (253.8000030517578, 340.4404296875, 291.11279296875, 362.04083251953125)
+  - Span: Shares
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Available
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: for Grant
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Shares Available for Grant   
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (307.5, 347.640625, 335.44561767578125, 354.84063720703125)
+  - Span: Number of
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Number of
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (312.9000244140625, 354.80975341796875, 346.31280517578125, 362.04083251953125)
+  - Span: Shares
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Shares   
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (357.9000244140625, 333.240234375, 382.4856262207031, 340.44024658203125)
+  - Span: Weighted
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Weighted
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (359.1000061035156, 340.4404296875, 381.4656066894531, 354.84063720703125)
+  - Span: Average 
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Exercise
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Average  Exercise
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (363.9000244140625, 354.80975341796875, 389.5128173828125, 362.04083251953125)
+  - Span: Price
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:     
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Price    
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (401.4000244140625, 326.0400390625, 428.1456298828125, 333.24005126953125)
+  - Span: Weighted-
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Weighted-
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (399.3000183105469, 333.240234375, 429.8927917480469, 354.84063720703125)
+  - Span: Average
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Remaining
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Contractual
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Average Remaining Contractual
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (407.70001220703125, 354.80975341796875, 436.9128112792969, 362.04083251953125)
+  - Span: Term
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Term    
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (450.0000305175781, 340.4404296875, 475.6656188964844, 347.64044189453125)
+  - Span: Aggregate
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Aggregate
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (451.5000305175781, 347.640625, 474.1656188964844, 354.84063720703125)
+  - Span: Intrinsic
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Intrinsic
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (452.1000061035156, 354.80975341796875, 485.5128173828125, 362.04083251953125)
+  - Span: Value
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Value    
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (497.70001220703125, 347.640625, 530.9255981445312, 354.84063720703125)
+  - Span: Outstanding
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Outstanding
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (507.0000305175781, 354.80975341796875, 538.912841796875, 362.04083251953125)
+  - Span: RSUs
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: RSUs   
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (550.5, 326.0400390625, 575.0855712890625, 333.24005126953125)
+  - Span: Weighted
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Weighted
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (552.6000366210938, 333.240234375, 573.4656372070312, 340.44024658203125)
+  - Span: Average
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Average
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (550.800048828125, 340.4404296875, 575.265625, 354.84063720703125)
+  - Span: Grant
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span: Date Fair
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: Grant Date Fair
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 354.80975341796875, 578.916015625, 428.009765625)
+  - Span: Value
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in thousands)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in thousands)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in years)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:     
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in millions)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:    
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: (in thousands)
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Balance as of December 31, 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 52,318  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 258,539  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0.47  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4.38  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 7,360  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 378,772  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6.83  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: RSUs granted
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (28,603) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 28,603  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  36.04  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Stock options exercised
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (84,078) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0.11  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Stock options forfeited/cancelled
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 584  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (584) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0.62  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: RSUs forfeited and cancelled
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4,385  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (4,385) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  14.86  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2012 Equity Incentive Plan shares authorized
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 25,000  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Value        (in thousands)   (in thousands)         (in years)     (in millions)    (in thousands)       Balance as of December 31, 2011      52,318      258,539    $ 0.47       4.38     $ 7,360       378,772    $ 6.83   RSUs granted      (28,603)     0               28,603     36.04   Stock options exercised      0      (84,078)     0.11             0    Stock options forfeited/cancelled      584      (584)     0.62             0    RSUs forfeited and cancelled      4,385      0               (4,385)    14.86   2012 Equity Incentive Plan shares authorized      25,000                
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 427.7850341796875, 578.916015625, 439.4091796875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Balance as of June 30, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 53,684  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 173,877  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0.65  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4.08  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 5,294  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 402,990  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 8.81  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                                     Balance as of June 30, 2012      53,684      173,877    $ 0.65       4.08     $ 5,294       402,990    $ 8.81  
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (234.3000030517578, 440.9852294921875, 250.16880798339844, 442.1852111816406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (285.3000183105469, 439.7850341796875, 285.5688171386719, 440.9850158691406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 29:
+================================================================================
+Type: 0
+Bounding Box: (289.5, 440.9852294921875, 305.3688049316406, 442.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 30:
+================================================================================
+Type: 0
+Bounding Box: (340.5, 439.7850341796875, 340.768798828125, 440.9850158691406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 31:
+================================================================================
+Type: 0
+Bounding Box: (344.70001220703125, 440.9852294921875, 497.96881103515625, 442.1852111816406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:               
+
+================================================================================
+BLOCK 32:
+================================================================================
+Type: 0
+Bounding Box: (533.0999755859375, 439.7850341796875, 533.3687744140625, 440.9850158691406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 33:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 440.9852294921875, 578.9820556640625, 478.4091796875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (1)
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: The aggregate intrinsic value is calculated as the difference between the exercise price of the underlying stock option awards and the assessed fair value of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: common stock as of December 31, 2011 and the closing market price of our common stock as of June 30, 2012.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     (1) The aggregate intrinsic value is calculated as the difference between the exercise price of the underlying stock option awards and the assessed fair value of our common stock as of December 31, 2011 and the closing market price of our common stock as of June 30, 2012.  
+
+================================================================================
+BLOCK 34:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 478.23681640625, 310.0320129394531, 487.23681640625)
+  - Span: 16
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 16
+
+================================================================================
+BLOCK 35:
+================================================================================
+Type: 0
+Bounding Box: (467.1000061035156, 354.6952209472656, 473.2668151855469, 361.29522705078125)
+  - Span: (1)
+    Font: TimesNewRomanBold, Size: 6.600000381469727
+Full Text: (1)

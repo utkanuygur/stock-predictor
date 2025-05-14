@@ -1,0 +1,7 @@
+CIK: 0000002969
+YEAR: 2013
+QUARTER: 4
+Total Revenue: 2545.50
+Net Income: 299.10
+EPS: 1.35
+Operating Margin: 15.10

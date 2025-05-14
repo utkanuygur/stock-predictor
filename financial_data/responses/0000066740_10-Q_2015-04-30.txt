@@ -1,0 +1,7 @@
+CIK: 0000066740
+YEAR: 2015
+QUARTER: 1
+Total Revenue: 7578.00
+Net Income: 1199.00
+EPS: 1.88
+Operating Margin: 22.82

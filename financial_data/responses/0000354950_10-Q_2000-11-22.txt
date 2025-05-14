@@ -1,0 +1,7 @@
+CIK: 0000354950
+YEAR: 2000
+QUARTER: 3
+Total Revenue: 11545.00
+Net Income: 650.00
+EPS: 0.28
+Operating Margin: 9.13

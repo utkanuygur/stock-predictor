@@ -1,0 +1,7 @@
+CIK: 0000320193
+YEAR: 2025
+QUARTER: 1
+Total Revenue: 124300.00
+Net Income: 36330.00
+EPS: 2.41
+Operating Margin: 34.47

@@ -1,0 +1,7 @@
+CIK: 0001045810
+YEAR: 2023
+QUARTER: 2
+Total Revenue: 13507.00
+Net Income: 6188.00
+EPS: 2.50
+Operating Margin: 50.31

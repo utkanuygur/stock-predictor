@@ -1,0 +1,7 @@
+CIK: 0000731766
+YEAR: 1999
+QUARTER: 3
+Total Revenue: 4903.00
+Net Income: 144.00
+EPS: 0.83
+Operating Margin: 4.90

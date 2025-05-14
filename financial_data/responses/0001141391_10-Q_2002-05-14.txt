@@ -1,0 +1,7 @@
+CIK: 0001141391
+YEAR: 2002
+QUARTER: 1
+Total Revenue: N/A
+Net Income: N/A
+EPS: N/A
+Operating Margin: N/A

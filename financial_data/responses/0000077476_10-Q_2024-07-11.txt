@@ -1,0 +1,7 @@
+CIK: 0000077476
+YEAR: 2024
+QUARTER: 2
+Total Revenue: 40751.00
+Net Income: 5125.00
+EPS: 3.71
+Operating Margin: 16.60

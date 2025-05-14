@@ -1,0 +1,144 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.675048828125, 120.44100189208984, 75.675048828125)
+  - Span: Limitations of Key Metrics
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Limitations of Key Metrics
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 79.83740234375, 578.9820556640625, 213.63623046875)
+  - Span: The numbers of our MAUs and DAUs and ARPU are calculated using internal company data based on the activity of user accounts. While these numbers are
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: based on what we believe to be reasonable estimates of our user base for the applicable period of measurement, there are inherent challenges in measuring usage of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: products across large online and mobile populations around the world. For example, there may be individuals who maintain one or more Facebook accounts in violation of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our terms of service, despite our efforts to detect and suppress such behavior. We estimate that “duplicate” accounts (an account that a user maintains in addition to his
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: or her principal account) may have represented approximately 4.8% of our worldwide MAUs as of June 30, 2012. We also seek to identify “false” accounts, which we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: divide into two categories: (1) user-misclassified accounts, where users have created personal profiles for a business, organization, or non-human entity such as a pet
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (such entities are permitted on Facebook using a Page rather than a personal profile under our terms of service); and (2) undesirable accounts, which represent user
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: profiles that we determine are intended to be used for purposes that violate our terms of service, such as spamming. As of June 30, 2012, we estimate user-misclassified
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: accounts may have represented approximately 2.4% of our worldwide MAUs and undesirable accounts may have represented approximately 1.5% of our worldwide
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: MAUs. We believe the percentage of accounts that are duplicate or false is meaningfully lower in developed markets such as the United States or Australia and higher in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: developing markets such as Indonesia and Turkey. However, these estimates are based on an internal review of a limited sample of accounts and we apply significant
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: judgment in making this determination, such as identifying names that appear to be fake or other behavior that appears inauthentic to the reviewers. As such, our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: estimation of duplicate or false accounts may not accurately represent the actual number of such accounts. We are continually seeking to improve our ability to identify
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: duplicate or false accounts and estimate the total number of such accounts, and such estimates may be affected by improvements or changes in our methodology.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: The numbers of our MAUs and DAUs and ARPU are calculated using internal company data based on the activity of user accounts. While these numbers are based on what we believe to be reasonable estimates of our user base for the applicable period of measurement, there are inherent challenges in measuring usage of our products across large online and mobile populations around the world. For example, there may be individuals who maintain one or more Facebook accounts in violation of our terms of service, despite our efforts to detect and suppress such behavior. We estimate that “duplicate” accounts (an account that a user maintains in addition to his or her principal account) may have represented approximately 4.8% of our worldwide MAUs as of June 30, 2012. We also seek to identify “false” accounts, which we divide into two categories: (1) user-misclassified accounts, where users have created personal profiles for a business, organization, or non-human entity such as a pet (such entities are permitted on Facebook using a Page rather than a personal profile under our terms of service); and (2) undesirable accounts, which represent user profiles that we determine are intended to be used for purposes that violate our terms of service, such as spamming. As of June 30, 2012, we estimate user-misclassified accounts may have represented approximately 2.4% of our worldwide MAUs and undesirable accounts may have represented approximately 1.5% of our worldwide MAUs. We believe the percentage of accounts that are duplicate or false is meaningfully lower in developed markets such as the United States or Australia and higher in developing markets such as Indonesia and Turkey. However, these estimates are based on an internal review of a limited sample of accounts and we apply significant judgment in making this determination, such as identifying names that appear to be fake or other behavior that appears inauthentic to the reviewers. As such, our estimation of duplicate or false accounts may not accurately represent the actual number of such accounts. We are continually seeking to improve our ability to identify duplicate or false accounts and estimate the total number of such accounts, and such estimates may be affected by improvements or changes in our methodology.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 221.43701171875, 579.1410522460938, 355.23779296875)
+  - Span: Our metrics are also affected by applications on certain mobile devices that automatically contact our servers for regular updates with no user action involved, and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: this activity can cause our system to count the user associated with such a device as an active user on the day such contact occurs. For example, we estimate that less
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: than 5% of our estimated worldwide DAUs as of December 31, 2011 and 2010 resulted from this type of automatic mobile activity, and that this type of activity had a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: substantially smaller effect on our estimate of worldwide MAUs and mobile MAUs. The impact of this automatic activity on our metrics varies by geography because
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: mobile usage varies in different regions of the world. In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: as the user’s IP address and self-disclosed location. These factors may not always accurately reflect the user’s actual location. For example, a mobile-only user may appear
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user’s actual location. The methodologies used to measure
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: user metrics may also be susceptible to algorithm or other technical errors. For example, in early June 2012, we discovered an error in the algorithm we used to estimate the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: geographic location of our users that affected our attribution of certain user locations for the period ended March 31, 2012. While this issue did not affect our overall
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: worldwide MAU number, it did affect our attribution of users to different geographic regions. We estimate that the number of MAUs as of March 31, 2012 for the United
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: States and Canada region was overstated as a result of the error by approximately 3% and these overstatements were offset by understatements in other regions. In
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: addition, our estimates for revenue by user location are also affected by these factors. We regularly review and may adjust our processes for calculating these metrics to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: improve their accuracy. In addition, our MAU and DAU estimates will differ from estimates published by third parties due to differences in methodology. For example,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: some third parties do not count mobile users.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our metrics are also affected by applications on certain mobile devices that automatically contact our servers for regular updates with no user action involved, and this activity can cause our system to count the user associated with such a device as an active user on the day such contact occurs. For example, we estimate that less than 5% of our estimated worldwide DAUs as of December 31, 2011 and 2010 resulted from this type of automatic mobile activity, and that this type of activity had a substantially smaller effect on our estimate of worldwide MAUs and mobile MAUs. The impact of this automatic activity on our metrics varies by geography because mobile usage varies in different regions of the world. In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such as the user’s IP address and self-disclosed location. These factors may not always accurately reflect the user’s actual location. For example, a mobile-only user may appear to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user’s actual location. The methodologies used to measure user metrics may also be susceptible to algorithm or other technical errors. For example, in early June 2012, we discovered an error in the algorithm we used to estimate the geographic location of our users that affected our attribution of certain user locations for the period ended March 31, 2012. While this issue did not affect our overall worldwide MAU number, it did affect our attribution of users to different geographic regions. We estimate that the number of MAUs as of March 31, 2012 for the United States and Canada region was overstated as a result of the error by approximately 3% and these overstatements were offset by understatements in other regions. In addition, our estimates for revenue by user location are also affected by these factors. We regularly review and may adjust our processes for calculating these metrics to improve their accuracy. In addition, our MAU and DAU estimates will differ from estimates published by third parties due to differences in methodology. For example, some third parties do not count mobile users.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 366.675048828125, 154.04100036621094, 388.876220703125)
+  - Span: Components of Results of Operations
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Revenue
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Components of Results of Operations Revenue
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 393.03662109375, 577.9320068359375, 411.63623046875)
+  - Span: We generate substantially all of our revenue from advertising and from fees associated with our Payments infrastructure that enables users to purchase virtual and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: digital goods from our Platform developers.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We generate substantially all of our revenue from advertising and from fees associated with our Payments infrastructure that enables users to purchase virtual and digital goods from our Platform developers.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 419.43701171875, 578.9820556640625, 494.009765625)
+  - Span: Advertising. 
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Our advertising revenue is generated by displaying ad products on the Facebook website or mobile app and third-party affiliated websites. Advertisers
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: pay for ad products which include Sponsored Stories in News Feed, either directly or through their relationships with advertising agencies, based on the number of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: impressions delivered or the number of clicks made by our users. We recognize revenue from the delivery of click-based ads or Sponsored Stories in the period in which a
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: user clicks on the content. We recognize revenue from the display of impression-based ads or Sponsored Stories in the contracted period in which the impressions are
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: delivered. Impressions are considered delivered when an ad or Sponsored Story is displayed to users. An individual Sponsored Story in News Feed that is purchased on
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: an impression basis may be displayed to users more than once during a day, however only the initial display of the Sponsored Story is considered an impression,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: regardless of how many times the ad is actually displayed within the News Feed.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: Advertising. Our advertising revenue is generated by displaying ad products on the Facebook website or mobile app and third-party affiliated websites. Advertisers pay for ad products which include Sponsored Stories in News Feed, either directly or through their relationships with advertising agencies, based on the number of impressions delivered or the number of clicks made by our users. We recognize revenue from the delivery of click-based ads or Sponsored Stories in the period in which a user clicks on the content. We recognize revenue from the display of impression-based ads or Sponsored Stories in the contracted period in which the impressions are delivered. Impressions are considered delivered when an ad or Sponsored Story is displayed to users. An individual Sponsored Story in News Feed that is purchased on an impression basis may be displayed to users more than once during a day, however only the initial display of the Sponsored Story is considered an impression, regardless of how many times the ad is actually displayed within the News Feed.  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 493.83740234375, 310.0320129394531, 502.83740234375)
+  - Span: 24
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 24

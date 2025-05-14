@@ -1,0 +1,7 @@
+CIK: 0001403161
+YEAR: 2011
+QUARTER: 4
+Total Revenue: 2547.00
+Net Income: 1029.00
+EPS: 1.50
+Operating Margin: 63.55

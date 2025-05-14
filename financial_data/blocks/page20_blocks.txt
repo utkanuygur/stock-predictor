@@ -1,0 +1,122 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 77.60956573486328, 34.91279983520508, 84.8095703125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:  
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (60.30000305175781, 66.22102355957031, 578.0819702148438, 75.8210220336914)
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Daily Active Users (DAUs).
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span:  We define a daily active user as a registered Facebook user who logged in and visited Facebook through our website or a mobile
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: •  Daily Active Users (DAUs). We define a daily active user as a registered Facebook user who logged in and visited Facebook through our website or a mobile
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 76.83642578125, 578.531982421875, 108.14908599853516)
+  - Span: device, or took an action to share content or activity with his or her Facebook friends or connections via a third-party website that is integrated with
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Facebook, on a given day. We view DAUs, and DAUs as a percentage of MAUs, as measures of user engagement.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 12.0
+Full Text: device, or took an action to share content or activity with his or her Facebook friends or connections via a third-party website that is integrated with Facebook, on a given day. We view DAUs, and DAUs as a percentage of MAUs, as measures of user engagement.  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 134.6075439453125, 578.6928100585938, 156.2079315185547)
+  - Span: Note: For non-worldwide DAU user numbers presented for the periods marked March 31, 2012 and June 30, 2012, the figures represent an average of the first 25 days of the period and the last 27 days of
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+  - Span: the period, respectively, in order to avoid using data subject to the algorithm error described in the MAU section above. These average numbers do not meaningfully differ from the average numbers when
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+  - Span: calculated over a full month.
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+Full Text: Note: For non-worldwide DAU user numbers presented for the periods marked March 31, 2012 and June 30, 2012, the figures represent an average of the first 25 days of the period and the last 27 days of the period, respectively, in order to avoid using data subject to the algorithm error described in the MAU section above. These average numbers do not meaningfully differ from the average numbers when calculated over a full month.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 166.83642578125, 578.531982421875, 214.23681640625)
+  - Span: Worldwide DAUs increased 32% to 552 million on average during June 2012 from 417 million during June 2011. We experienced growth in DAUs across major
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: markets including Brazil, the United States, and India. Overall growth in DAUs was driven largely by increased mobile usage of Facebook. Relative to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: March 31, 2012, DAUs increased from 526 million to 552 million, due to an increase in mobile users. During the second quarter of 2012, the number of DAUs
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: using personal computers was essentially flat, and declined modestly in certain key markets such as the United States and Europe, while mobile DAUs
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: continued to increase.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Worldwide DAUs increased 32% to 552 million on average during June 2012 from 417 million during June 2011. We experienced growth in DAUs across major markets including Brazil, the United States, and India. Overall growth in DAUs was driven largely by increased mobile usage of Facebook. Relative to March 31, 2012, DAUs increased from 526 million to 552 million, due to an increase in mobile users. During the second quarter of 2012, the number of DAUs using personal computers was essentially flat, and declined modestly in certain key markets such as the United States and Europe, while mobile DAUs continued to increase.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 214.75546264648438, 34.10639953613281, 218.35546875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 218.0208282470703, 577.6409912109375, 231.8095703125)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Mobile MAUs
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: . We define a mobile MAU as a user who accessed Facebook via a mobile app or via mobile-optimized versions of our website such as
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  Mobile MAUs. We define a mobile MAU as a user who accessed Facebook via a mobile app or via mobile-optimized versions of our website such as
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 228.63720703125, 413.3160095214844, 245.609375)
+  - Span: m.facebook.com, whether on a mobile phone or tablet such as the iPad, during the period of measurement.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: m.facebook.com, whether on a mobile phone or tablet such as the iPad, during the period of measurement.  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 245.43701171875, 310.0320129394531, 254.43701171875)
+  - Span: 21
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 21

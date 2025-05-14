@@ -1,0 +1,7 @@
+CIK: 0001141391
+YEAR: 2009
+QUARTER: 3
+Total Revenue: 1364.28
+Net Income: 452.20
+EPS: 3.46
+Operating Margin: 49.36

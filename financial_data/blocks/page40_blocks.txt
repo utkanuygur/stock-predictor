@@ -1,0 +1,131 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.22200012207031, 570.0504150390625, 86.0212173461914)
+  - Span: If we are not able to maintain and enhance our brand, or if events occur that damage our reputation and brand, our ability to expand our base of users, developers,
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: and advertisers may be impaired, and our business and financial results may be harmed.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: If we are not able to maintain and enhance our brand, or if events occur that damage our reputation and brand, our ability to expand our base of users, developers, and advertisers may be impaired, and our business and financial results may be harmed.
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.63818359375, 578.916015625, 195.63818359375)
+  - Span: We believe that the Facebook brand has significantly contributed to the success of our business. We also believe that maintaining and enhancing our brand is
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: critical to expanding our base of users, developers, and advertisers. Many of our new users are referred by existing users, and therefore we strive to ensure that our users
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: remain favorably inclined towards Facebook. Maintaining and enhancing our brand will depend largely on our ability to continue to provide useful, reliable, trustworthy,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and innovative products, which we may not do successfully. We may introduce new products or terms of service that users do not like, which may negatively affect our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: brand. Additionally, the actions of our Platform developers may affect our brand if users do not have a positive experience using third-party apps and websites integrated
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: with Facebook. We have in the past experienced, and we expect that in the future we will continue to experience, media, legislative, or regulatory scrutiny of our decisions
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: regarding user privacy or other issues, which may adversely affect our reputation and brand. We also may fail to provide adequate customer service, which could erode
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: confidence in our brand. Our brand may also be negatively affected by the actions of users that are deemed to be hostile or inappropriate to other users, or by users acting
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: under false or inauthentic identities. Maintaining and enhancing our brand may require us to make substantial investments and these investments may not be successful.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: If we fail to successfully promote and maintain the Facebook brand or if we incur excessive expenses in this effort, our business and financial results may be adversely
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: We believe that the Facebook brand has significantly contributed to the success of our business. We also believe that maintaining and enhancing our brand is critical to expanding our base of users, developers, and advertisers. Many of our new users are referred by existing users, and therefore we strive to ensure that our users remain favorably inclined towards Facebook. Maintaining and enhancing our brand will depend largely on our ability to continue to provide useful, reliable, trustworthy, and innovative products, which we may not do successfully. We may introduce new products or terms of service that users do not like, which may negatively affect our brand. Additionally, the actions of our Platform developers may affect our brand if users do not have a positive experience using third-party apps and websites integrated with Facebook. We have in the past experienced, and we expect that in the future we will continue to experience, media, legislative, or regulatory scrutiny of our decisions regarding user privacy or other issues, which may adversely affect our reputation and brand. We also may fail to provide adequate customer service, which could erode confidence in our brand. Our brand may also be negatively affected by the actions of users that are deemed to be hostile or inappropriate to other users, or by users acting under false or inauthentic identities. Maintaining and enhancing our brand may require us to make substantial investments and these investments may not be successful. If we fail to successfully promote and maintain the Facebook brand or if we incur excessive expenses in this effort, our business and financial results may be adversely affected.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 206.6204376220703, 550.2504272460938, 226.42161560058594)
+  - Span: Improper access to or disclosure of our users’ information, or violation of our terms of service or policies, could harm our reputation and adversely affect our
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Improper access to or disclosure of our users’ information, or violation of our terms of service or policies, could harm our reputation and adversely affect our business.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 231.03662109375, 579.5730590820312, 297.63818359375)
+  - Span: Our efforts to protect the information that our users have chosen to share using Facebook may be unsuccessful due to the actions of third parties, software bugs or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: other technical malfunctions, employee error or malfeasance, or other factors. In addition, third parties may attempt to fraudulently induce employees or users to disclose
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: information in order to gain access to our data or our users’ data. If any of these events occur, our users’ information could be accessed or disclosed improperly. Our Data
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Use Policy governs the use of information that users have chosen to share using Facebook and how that information may be used by us and third parties. Some Platform
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: developers may store information provided by our users through apps on the Facebook Platform or websites integrated with Facebook. If these third parties or Platform
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: developers fail to adopt or adhere to adequate data security practices or fail to comply with our terms and policies, or in the event of a breach of their networks, our users’
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: data may be improperly accessed or disclosed.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our efforts to protect the information that our users have chosen to share using Facebook may be unsuccessful due to the actions of third parties, software bugs or other technical malfunctions, employee error or malfeasance, or other factors. In addition, third parties may attempt to fraudulently induce employees or users to disclose information in order to gain access to our data or our users’ data. If any of these events occur, our users’ information could be accessed or disclosed improperly. Our Data Use Policy governs the use of information that users have chosen to share using Facebook and how that information may be used by us and third parties. Some Platform developers may store information provided by our users through apps on the Facebook Platform or websites integrated with Facebook. If these third parties or Platform developers fail to adopt or adhere to adequate data security practices or fail to comply with our terms and policies, or in the event of a breach of their networks, our users’ data may be improperly accessed or disclosed.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 305.43701171875, 578.9820556640625, 343.23779296875)
+  - Span: Any incidents involving unauthorized access to or improper use of the information of our users or incidents involving violation of our terms of service or policies,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: including our Data Use Policy, could damage our reputation and our brand and diminish our competitive position. In addition, the affected users or government authorities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: could initiate legal or regulatory action against us in connection with such incidents, which could cause us to incur significant expense and liability or result in orders or
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: consent decrees forcing us to modify our business practices. Any of these events could have a material and adverse effect on our business, reputation, or financial results.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Any incidents involving unauthorized access to or improper use of the information of our users or incidents involving violation of our terms of service or policies, including our Data Use Policy, could damage our reputation and our brand and diminish our competitive position. In addition, the affected users or government authorities could initiate legal or regulatory action against us in connection with such incidents, which could cause us to incur significant expense and liability or result in orders or consent decrees forcing us to modify our business practices. Any of these events could have a material and adverse effect on our business, reputation, or financial results.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 354.2220153808594, 250.2504119873047, 363.8219909667969)
+  - Span: Unfavorable media coverage could negatively affect our business.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Unfavorable media coverage could negatively affect our business.
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 368.43701171875, 579.1410522460938, 414.2109375)
+  - Span: We receive a high degree of media coverage around the world. Unfavorable publicity regarding, for example, our privacy practices, product changes, product
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: quality, litigation or regulatory activity, or the actions of our Platform developers or our users, could adversely affect our reputation. Such negative publicity also could
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: have an adverse effect on the size, engagement, and loyalty of our user base and result in decreased revenue, which could adversely affect our business and financial
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: results.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We receive a high degree of media coverage around the world. Unfavorable publicity regarding, for example, our privacy practices, product changes, product quality, litigation or regulatory activity, or the actions of our Platform developers or our users, could adversely affect our reputation. Such negative publicity also could have an adverse effect on the size, engagement, and loyalty of our user base and result in decreased revenue, which could adversely affect our business and financial results.  
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 414.03662109375, 310.0320129394531, 423.03662109375)
+  - Span: 41
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 41

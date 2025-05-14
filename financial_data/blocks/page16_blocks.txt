@@ -1,0 +1,112 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.675048828125, 109.04100036621094, 75.675048828125)
+  - Span: Note 8.     Income Taxes
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Note 8.     Income Taxes
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 79.83642578125, 578.9820556640625, 136.83642578125)
+  - Span: Our tax provision for interim periods is determined using an estimate of our annual effective tax rate, adjusted for discrete items arising in that quarter. In each
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: quarter we update our estimate of the annual effective tax rate, and if our estimated annual tax rate changes, we make a cumulative adjustment in that quarter. Our quarterly
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: tax provision, and our quarterly estimate of our annual effective tax rate, are subject to significant volatility due to several factors, including our ability to accurately predict
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our pre-tax income and loss in multiple jurisdictions, including the portions of our share-based compensation that will not generate tax benefits, and the effects of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: acquisitions and the integration of those acquisitions. In addition, our effective tax rate can be more or less volatile based on the amount of pre-tax income. For example,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: the impact of non-deductible share based compensation expenses on our effective tax rate is significantly greater when our pre-tax income is lower.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our tax provision for interim periods is determined using an estimate of our annual effective tax rate, adjusted for discrete items arising in that quarter. In each quarter we update our estimate of the annual effective tax rate, and if our estimated annual tax rate changes, we make a cumulative adjustment in that quarter. Our quarterly tax provision, and our quarterly estimate of our annual effective tax rate, are subject to significant volatility due to several factors, including our ability to accurately predict our pre-tax income and loss in multiple jurisdictions, including the portions of our share-based compensation that will not generate tax benefits, and the effects of acquisitions and the integration of those acquisitions. In addition, our effective tax rate can be more or less volatile based on the amount of pre-tax income. For example, the impact of non-deductible share based compensation expenses on our effective tax rate is significantly greater when our pre-tax income is lower.
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 144.63623046875, 579.7319946289062, 192.03662109375)
+  - Span: Our effective tax rate has exceeded the U.S. statutory rate primarily because of losses arising outside the United States in jurisdictions where we do not receive a tax
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: benefit and the impact of non-deductible share-based compensation. These losses were primarily due to the initial start-up costs incurred by our foreign subsidiaries to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: operate in certain foreign markets, including the costs incurred by those subsidiaries to license, develop, and use our intellectual property. Our effective tax rate in the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: future will depend on the portion of our profits earned within and outside the United States, which will also be affected by our methodologies for valuing our intellectual
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: property and intercompany transactions.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our effective tax rate has exceeded the U.S. statutory rate primarily because of losses arising outside the United States in jurisdictions where we do not receive a tax benefit and the impact of non-deductible share-based compensation. These losses were primarily due to the initial start-up costs incurred by our foreign subsidiaries to operate in certain foreign markets, including the costs incurred by those subsidiaries to license, develop, and use our intellectual property. Our effective tax rate in the future will depend on the portion of our profits earned within and outside the United States, which will also be affected by our methodologies for valuing our intellectual property and intercompany transactions.
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 199.83642578125, 579.7319946289062, 228.03662109375)
+  - Span: Our effective tax rate in the three and six months ended June 30, 2012 exceeded our effective tax rate in 2011 because the amount of losses arising outside the United
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: States in jurisdictions where we do not receive a tax benefit and the amount of non-deductible share-based compensation are proportionately larger relative to pre-tax
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: income in 2012 than in 2011. Our effective tax rate in 2012 was also higher due to the expiration of the federal tax credit for research and development activities.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our effective tax rate in the three and six months ended June 30, 2012 exceeded our effective tax rate in 2011 because the amount of losses arising outside the United States in jurisdictions where we do not receive a tax benefit and the amount of non-deductible share-based compensation are proportionately larger relative to pre-tax income in 2012 than in 2011. Our effective tax rate in 2012 was also higher due to the expiration of the federal tax credit for research and development activities.
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 235.83642578125, 579.1320190429688, 273.63623046875)
+  - Span: Our income tax refundable was $567 million as of June 30, 2012, which is an increase of $567 million from December 31, 2011. This balance reflects the expected
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: refund of estimated income tax payments made in 2012 and the expected refund from income tax loss carrybacks to 2010 and 2011. Our net deferred tax assets were $396
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: million as of June 30, 2012, which is an increase of $336 million from December 31, 2011. This increase is primarily due to the recognition of tax benefits related to share-
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: based compensation.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our income tax refundable was $567 million as of June 30, 2012, which is an increase of $567 million from December 31, 2011. This balance reflects the expected refund of estimated income tax payments made in 2012 and the expected refund from income tax loss carrybacks to 2010 and 2011. Our net deferred tax assets were $396 million as of June 30, 2012, which is an increase of $336 million from December 31, 2011. This increase is primarily due to the recognition of tax benefits related to share- based compensation.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 281.43701171875, 578.9820556640625, 346.4091796875)
+  - Span: We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are subject to potential
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: examination include the United States and Ireland. We are under examination by the Internal Revenue Service (IRS) for our 2008 and 2009 tax years. We believe that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: adequate amounts have been reserved for any adjustments that may ultimately result from these examinations and we do not anticipate a significant impact to our gross
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: unrecognized tax benefits within the next 12 months related to these years. Our 2010 and 2011 tax years remain subject to examination by the IRS and all tax years starting in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2008 remain subject to examination in Ireland. We remain subject to possible examinations or are undergoing audits in various other jurisdictions that are not material to our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: financial statements.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are subject to potential examination include the United States and Ireland. We are under examination by the Internal Revenue Service (IRS) for our 2008 and 2009 tax years. We believe that adequate amounts have been reserved for any adjustments that may ultimately result from these examinations and we do not anticipate a significant impact to our gross unrecognized tax benefits within the next 12 months related to these years. Our 2010 and 2011 tax years remain subject to examination by the IRS and all tax years starting in 2008 remain subject to examination in Ireland. We remain subject to possible examinations or are undergoing audits in various other jurisdictions that are not material to our financial statements.  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 346.23681640625, 310.0320129394531, 355.23681640625)
+  - Span: 17
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 17

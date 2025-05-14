@@ -1,0 +1,287 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.876216888427734, 89.84099578857422, 52.876216888427734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63818359375, 461.541015625, 88.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to monetize our products, including our ability to successfully monetize mobile usage;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: the frequency, size, and relative prominence of the ads and other commercial content displayed by us or our competitors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  our ability to monetize our products, including our ability to successfully monetize mobile usage;     •  the frequency, size, and relative prominence of the ads and other commercial content displayed by us or our competitors;
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 89.3560562133789, 196.34100341796875, 102.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: customer service and support efforts;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  customer service and support efforts;
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 102.5552749633789, 169.34100341796875, 115.23779296875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: marketing and selling efforts;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  marketing and selling efforts;
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 115.7564468383789, 377.541015625, 128.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to establish and maintain developers’ interest in building on the Facebook Platform;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to establish and maintain developers’ interest in building on the Facebook Platform;
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 128.95565795898438, 34.10639953613281, 132.5556640625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text:  
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 132.63818359375, 578.6820068359375, 146.009765625)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: changes mandated by legislation, regulatory authorities, or litigation, including settlements and consent decrees, some of which may have a disproportionate
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   •  changes mandated by legislation, regulatory authorities, or litigation, including settlements and consent decrees, some of which may have a disproportionate
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 142.23779296875, 116.54100036621094, 151.23779296875)
+  - Span: effect on us;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: effect on us;
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 151.75643920898438, 392.541015625, 164.43701171875)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: acquisitions or consolidation within our industry, which may result in more formidable competitors;
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  acquisitions or consolidation within our industry, which may result in more formidable competitors;
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 164.95565795898438, 373.9410095214844, 190.83740234375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to attract, retain, and motivate talented employees, particularly software engineers;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our ability to cost-effectively manage and grow our operations; and
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our ability to attract, retain, and motivate talented employees, particularly software engineers;     •  our ability to cost-effectively manage and grow our operations; and
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 191.35604858398438, 272.916015625, 204.03662109375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: our reputation and brand strength relative to our competitors.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:     •  our reputation and brand strength relative to our competitors.
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 211.83740234375, 578.531982421875, 230.43701171875)
+  - Span: If we are not able to effectively compete, our user base and level of user engagement may decrease, which could make us less attractive to developers and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: advertisers and materially and adversely affect our revenue and results of operations.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: If we are not able to effectively compete, our user base and level of user engagement may decrease, which could make us less attractive to developers and advertisers and materially and adversely affect our revenue and results of operations.
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 241.4212188720703, 465.6504211425781, 251.02122497558594)
+  - Span: Action by governments to restrict access to Facebook in their countries could substantially harm our business and financial results.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Action by governments to restrict access to Facebook in their countries could substantially harm our business and financial results.
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 255.63818359375, 578.9820556640625, 312.63818359375)
+  - Span: It is possible that governments of one or more countries may seek to censor content available on Facebook in their country, restrict access to Facebook from their
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: country entirely, or impose other restrictions that may affect the accessibility of Facebook in their country for an extended period of time or indefinitely. For example,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: access to Facebook has been or is currently restricted in whole or in part in China, Iran, North Korea, and Syria. In addition, governments in other countries may seek to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: restrict access to Facebook if they consider us to be in violation of their laws. In the event that access to Facebook is restricted, in whole or in part, in one or more
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: countries or our competitors are able to successfully penetrate geographic markets that we cannot access, our ability to retain or increase our user base and user
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: engagement may be adversely affected, we may not be able to maintain or grow our revenue as anticipated, and our financial results could be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: It is possible that governments of one or more countries may seek to censor content available on Facebook in their country, restrict access to Facebook from their country entirely, or impose other restrictions that may affect the accessibility of Facebook in their country for an extended period of time or indefinitely. For example, access to Facebook has been or is currently restricted in whole or in part in China, Iran, North Korea, and Syria. In addition, governments in other countries may seek to restrict access to Facebook if they consider us to be in violation of their laws. In the event that access to Facebook is restricted, in whole or in part, in one or more countries or our competitors are able to successfully penetrate geographic markets that we cannot access, our ability to retain or increase our user base and user engagement may be adversely affected, we may not be able to maintain or grow our revenue as anticipated, and our financial results could be adversely affected.
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 323.6204528808594, 386.4504089355469, 333.2204284667969)
+  - Span: Our new products and changes to existing products could fail to attract or retain users or generate revenue.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our new products and changes to existing products could fail to attract or retain users or generate revenue.
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 337.83740234375, 578.916015625, 404.43701171875)
+  - Span: Our ability to retain, increase, and engage our user base and to increase our revenue will depend heavily on our ability to create successful new products, both
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: independently and in conjunction with Platform developers or other third parties. We may introduce significant changes to our existing products or develop and introduce
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: new and unproven products, including using technologies with which we have little or no prior development or operating experience. If new or enhanced products fail to
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: engage users, developers, or advertisers, we may fail to attract or retain users or to generate sufficient revenue, operating margin, or other value to justify our investments,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and our business may be adversely affected. In the future, we may invest in new products and initiatives to generate revenue, but there is no guarantee these approaches
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: will be successful. If we are not successful with new approaches to monetization, we may not be able to maintain or grow our revenue as anticipated or recover any
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: associated development costs, and our financial results could be adversely affected.
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Our ability to retain, increase, and engage our user base and to increase our revenue will depend heavily on our ability to create successful new products, both independently and in conjunction with Platform developers or other third parties. We may introduce significant changes to our existing products or develop and introduce new and unproven products, including using technologies with which we have little or no prior development or operating experience. If new or enhanced products fail to engage users, developers, or advertisers, we may fail to attract or retain users or to generate sufficient revenue, operating margin, or other value to justify our investments, and our business may be adversely affected. In the future, we may invest in new products and initiatives to generate revenue, but there is no guarantee these approaches will be successful. If we are not successful with new approaches to monetization, we may not be able to maintain or grow our revenue as anticipated or recover any associated development costs, and our financial results could be adversely affected.
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 415.4212341308594, 384.650390625, 425.0212097167969)
+  - Span: Our culture emphasizes rapid innovation and prioritizes user engagement over short-term financial results.
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+Full Text: Our culture emphasizes rapid innovation and prioritizes user engagement over short-term financial results.
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 429.63818359375, 578.916015625, 494.609375)
+  - Span: We have a culture that encourages employees to quickly develop and launch new and innovative products. As our business grows and becomes more complex, our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: cultural emphasis on moving quickly may result in unintended outcomes or decisions that are poorly received by users, developers, or advertisers. Our culture also
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: prioritizes our user engagement over short-term financial results, and we frequently make product decisions that may reduce our short-term revenue or profitability if we
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: believe that the decisions are consistent with our mission and benefit the aggregate user experience and will thereby improve our financial performance over the long term.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: These decisions may not produce the long-term benefits that we expect, in which case our user growth and engagement, our relationships with developers and advertisers,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and our business and results of operations could be harmed.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We have a culture that encourages employees to quickly develop and launch new and innovative products. As our business grows and becomes more complex, our cultural emphasis on moving quickly may result in unintended outcomes or decisions that are poorly received by users, developers, or advertisers. Our culture also prioritizes our user engagement over short-term financial results, and we frequently make product decisions that may reduce our short-term revenue or profitability if we believe that the decisions are consistent with our mission and benefit the aggregate user experience and will thereby improve our financial performance over the long term. These decisions may not produce the long-term benefits that we expect, in which case our user growth and engagement, our relationships with developers and advertisers, and our business and results of operations could be harmed.  
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 494.43701171875, 310.0320129394531, 503.43701171875)
+  - Span: 40
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 40

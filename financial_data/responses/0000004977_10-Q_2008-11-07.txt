@@ -1,0 +1,7 @@
+CIK: 0000004977
+YEAR: 2008
+QUARTER: 3
+Total Revenue: 3691.00
+Net Income: 100.00
+EPS: 0.21
+Operating Margin: 4.01

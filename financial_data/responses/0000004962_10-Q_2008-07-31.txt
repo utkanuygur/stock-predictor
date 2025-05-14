@@ -1,0 +1,7 @@
+CIK: 0000004962
+YEAR: 2008
+QUARTER: 2
+Total Revenue: 8097.00
+Net Income: 653.00
+EPS: 0.56
+Operating Margin: 8.08

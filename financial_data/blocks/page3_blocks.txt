@@ -1,0 +1,771 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.675048828125, 162.72300720214844, 88.875244140625)
+  - Span: PART I—FINANCIAL INFORMATION
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: Item 1. Financial Statements
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: PART I—FINANCIAL INFORMATION Item 1. Financial Statements
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (215.70001220703125, 96.675048828125, 395.9820251464844, 124.8338851928711)
+  - Span: FACEBOOK, INC.
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: CONDENSED CONSOLIDATED BALANCE SHEETS
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span: (In millions, except for number of shares and par value)
+    Font: TimesNewRomanItalic, Size: 9.0
+Full Text: FACEBOOK, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (In millions, except for number of shares and par value)
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 125.4337387084961, 326.08203125, 144.036376953125)
+  - Span: (Unaudited)
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: (Unaudited)  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 152.0089874267578, 473.5128173828125, 159.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:     
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (491.1000061035156, 144.840087890625, 514.912841796875, 152.0400848388672)
+  - Span: June  30,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: June  30,
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (497.1000061035156, 152.0089874267578, 520.912841796875, 159.2400360107422)
+  - Span: 2012
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: 2012   
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (540.300048828125, 144.840087890625, 574.3128051757812, 152.0400848388672)
+  - Span: December 31,
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+Full Text: December 31,
+
+================================================================================
+BLOCK 8:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 152.0089874267578, 578.3160400390625, 226.4091796875)
+  - Span: 2011
+    Font: TimesNewRomanBold, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Assets
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Current assets:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Cash and cash equivalents
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $ 2,098 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,512  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Marketable securities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  8,090 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2,396  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Accounts receivable, net of allowances for doubtful accounts of $17 as of June 30, 2012 and December 31, 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 578 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 547  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Income tax refundable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 567  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Prepaid expenses and other current assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 634 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 149  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2011   Assets      Current assets:      Cash and cash equivalents    $ 2,098   $ 1,512   Marketable securities     8,090     2,396   Accounts receivable, net of allowances for doubtful accounts of $17 as of June 30, 2012 and December 31, 2011      578     547   Income tax refundable      567      0   Prepaid expenses and other current assets      634     149  
+
+================================================================================
+BLOCK 9:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 226.18492126464844, 578.3160400390625, 266.609130859375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total current assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  11,967 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4,604  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Property and equipment, net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  2,105 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,475  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Goodwill and intangible assets, net
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 809 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 162  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Other assets
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 47  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 90  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total current assets     11,967     4,604   Property and equipment, net     2,105     1,475   Goodwill and intangible assets, net      809     162   Other assets      47      90  
+
+================================================================================
+BLOCK 10:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 266.3848876953125, 578.3160400390625, 278.009033203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total assets
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $14,928 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6,331  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total assets    $14,928   $ 6,331  
+
+================================================================================
+BLOCK 11:
+================================================================================
+Type: 0
+Bounding Box: (470.1000061035156, 279.5848388671875, 494.96881103515625, 280.7848205566406)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 12:
+================================================================================
+Type: 0
+Bounding Box: (515.0999755859375, 278.3848876953125, 515.3687744140625, 279.5848693847656)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 13:
+================================================================================
+Type: 0
+Bounding Box: (519.300048828125, 279.5848388671875, 546.56884765625, 280.7848205566406)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 14:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 278.3848876953125, 578.3160400390625, 348.208984375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Liabilities and stockholders’ equity
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Current liabilities:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Accounts payable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 43 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 63  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Platform partners payable
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 153  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 171  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Accrued expenses and other current liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 441 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 296  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Deferred revenue and deposits
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 85 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 90  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Current portion of capital lease obligations
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 312 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 279  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:   Liabilities and stockholders’ equity      Current liabilities:      Accounts payable    $ 43   $ 63   Platform partners payable      153      171   Accrued expenses and other current liabilities      441     296   Deferred revenue and deposits      85     90   Current portion of capital lease obligations      312     279  
+
+================================================================================
+BLOCK 15:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 347.9849853515625, 578.3160400390625, 378.80908203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total current liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,034  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 899  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Capital lease obligations, less current portion
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 394  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 398  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Other liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 191 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 135  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total current liabilities     1,034      899   Capital lease obligations, less current portion      394      398   Other liabilities      191     135  
+
+================================================================================
+BLOCK 16:
+================================================================================
+Type: 0
+Bounding Box: (71.69999694824219, 378.5848388671875, 578.3160400390625, 390.208984375)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total liabilities
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,619 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,432  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total liabilities     1,619     1,432  
+
+================================================================================
+BLOCK 17:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 389.9849853515625, 574.768798828125, 410.436279296875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Stockholders’ equity:
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Convertible preferred stock, $0.000006 par value, issuable in series; no shares and 569 million shares authorized as of June 30, 2012
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Stockholders’ equity:      Convertible preferred stock, $0.000006 par value, issuable in series; no shares and 569 million shares authorized as of June 30, 2012
+
+================================================================================
+BLOCK 18:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 411.036376953125, 578.3160400390625, 439.236328125)
+  - Span: and December 31, 2011, respectively, no shares and 543 million shares issued and outstanding as of June 30, 2012 and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: December 31, 2011, respectively
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 615  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Common stock, $0.000006 par value; 5,000 million and 4,141 million Class A shares authorized as of June 30, 2012 and December 31,
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: and December 31, 2011, respectively, no shares and 543 million shares issued and outstanding as of June 30, 2012 and December 31, 2011, respectively      0     615   Common stock, $0.000006 par value; 5,000 million and 4,141 million Class A shares authorized as of June 30, 2012 and December 31,
+
+================================================================================
+BLOCK 19:
+================================================================================
+Type: 0
+Bounding Box: (62.10000228881836, 439.83642578125, 457.33203125, 487.236328125)
+  - Span: 2011, respectively, 641 million and 117 million shares issued and outstanding as of June 30, 2012 and December 31, 2011,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: respectively, including 1 million outstanding shares subject to repurchase as of June 30, 2012 and December 31, 2011;
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4,141 million Class B shares authorized, 1,501 million and 1,213 million shares issued and outstanding as of June 30, 2012 and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: December 31, 2011, respectively, including 2 million outstanding shares subject to repurchase, as of June 30, 2012 and
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: December 31, 2011
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 2011, respectively, 641 million and 117 million shares issued and outstanding as of June 30, 2012 and December 31, 2011, respectively, including 1 million outstanding shares subject to repurchase as of June 30, 2012 and December 31, 2011; 4,141 million Class B shares authorized, 1,501 million and 1,213 million shares issued and outstanding as of June 30, 2012 and December 31, 2011, respectively, including 2 million outstanding shares subject to repurchase, as of June 30, 2012 and December 31, 2011
+
+================================================================================
+BLOCK 20:
+================================================================================
+Type: 0
+Bounding Box: (52.5, 485.436279296875, 578.916015625, 524.009033203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 0  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Additional paid-in capital
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  11,684 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 2,684  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Accumulated other comprehensive loss
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (29) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: (6) 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Retained earnings
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  1,654 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 1,606  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:      0      0   Additional paid-in capital     11,684     2,684   Accumulated other comprehensive loss      (29)     (6)  Retained earnings     1,654     1,606  
+
+================================================================================
+BLOCK 21:
+================================================================================
+Type: 0
+Bounding Box: (71.69999694824219, 523.7850341796875, 578.3160400390625, 535.4091796875)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total stockholders’ equity
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  13,309 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 4,899  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total stockholders’ equity     13,309     4,899  
+
+================================================================================
+BLOCK 22:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 535.1849365234375, 578.3160400390625, 546.80908203125)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span: Total liabilities and stockholders’ equity
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $14,928 
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: $
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: 6,331  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text:                  Total liabilities and stockholders’ equity    $14,928   $ 6,331  
+
+================================================================================
+BLOCK 23:
+================================================================================
+Type: 0
+Bounding Box: (470.1000061035156, 548.3848876953125, 494.96881103515625, 549.5848999023438)
+  - Span:   
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:       
+
+================================================================================
+BLOCK 24:
+================================================================================
+Type: 0
+Bounding Box: (515.0999755859375, 547.1849365234375, 515.3687744140625, 548.3849487304688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 25:
+================================================================================
+Type: 0
+Bounding Box: (519.300048828125, 548.3848876953125, 546.56884765625, 549.5848999023438)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:      
+
+================================================================================
+BLOCK 26:
+================================================================================
+Type: 0
+Bounding Box: (574.5, 547.1849365234375, 574.768798828125, 548.3849487304688)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 1.2000000476837158
+Full Text:  
+
+================================================================================
+BLOCK 27:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 556.8338623046875, 430.416015625, 573.80908203125)
+  - Span: See Accompanying Notes to Condensed Consolidated Financial Statements.
+    Font: TimesNewRomanItalic, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: See Accompanying Notes to Condensed Consolidated Financial Statements.  
+
+================================================================================
+BLOCK 28:
+================================================================================
+Type: 0
+Bounding Box: (304.20001220703125, 573.63623046875, 308.2320251464844, 582.63623046875)
+  - Span: 4
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 4

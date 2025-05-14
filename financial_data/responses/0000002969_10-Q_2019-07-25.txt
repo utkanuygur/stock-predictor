@@ -1,0 +1,7 @@
+CIK: 0000002969
+YEAR: 2019
+QUARTER: 3
+Total Revenue: 2224.00
+Net Income: 500.20
+EPS: 2.21
+Operating Margin: 25.60

@@ -1,0 +1,7 @@
+CIK: 0001001039
+YEAR: 2006
+QUARTER: 1
+Total Revenue: 8027.00
+Net Income: 733.00
+EPS: 0.37
+Operating Margin: 14.78

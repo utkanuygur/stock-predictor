@@ -1,0 +1,104 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.676025390625, 125.24100494384766, 79.7548828125)
+  - Span: Trends in Our User Metrics
+    Font: TimesNewRomanBold, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 3.6000001430511475
+Full Text: Trends in Our User Metrics  
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 110.00995635986328, 34.91279983520508, 117.2099609375)
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text:  
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (60.30000305175781, 79.42024230957031, 578.0819702148438, 89.0202407836914)
+  - Span: •
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+  - Span: Monthly Active Users (MAUs). 
+    Font: TimesNewRomanBoldItalic, Size: 9.600000381469727
+  - Span: We define a monthly active user as a registered Facebook user who logged in and visited Facebook through our website or a
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: •  Monthly Active Users (MAUs). We define a monthly active user as a registered Facebook user who logged in and visited Facebook through our website or a
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 90.03662109375, 578.6820068359375, 156.63720703125)
+  - Span: mobile device, or took an action to share content or activity with his or her Facebook friends or connections via a third-party website that is integrated with
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Facebook, in the last 30 days as of the date of measurement. MAUs are a measure of the size of our global active user community, which has grown
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: substantially in the past several years. In June 2012, we discovered an error in the algorithm we used to estimate the geographic location of our users that
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: affected our attribution of certain user locations for the first quarter of 2012. While this issue did not affect our overall worldwide MAU number, it did affect
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: our attribution of users to different geographic regions. The first quarter of 2012 user metrics below reflect the reclassification to more correctly attribute
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: users by geographic region.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: mobile device, or took an action to share content or activity with his or her Facebook friends or connections via a third-party website that is integrated with Facebook, in the last 30 days as of the date of measurement. MAUs are a measure of the size of our global active user community, which has grown substantially in the past several years. In June 2012, we discovered an error in the algorithm we used to estimate the geographic location of our users that affected our attribution of certain user locations for the first quarter of 2012. While this issue did not affect our overall worldwide MAU number, it did affect our attribution of users to different geographic regions. The first quarter of 2012 user metrics below reflect the reclassification to more correctly attribute users by geographic region.  
+
+================================================================================
+BLOCK 5:
+================================================================================
+Type: 0
+Bounding Box: (76.5, 179.6075439453125, 577.7255859375, 194.0077362060547)
+  - Span: Note: For purposes of reporting MAUs, DAUs, and ARPU by geographic region, Europe includes all users in Russia and Turkey, Asia includes all users in Australia and New Zealand, and Rest of World
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+  - Span: includes Africa, Latin America, and the Middle East.
+    Font: TimesNewRomanItalic, Size: 7.200000286102295
+Full Text: Note: For purposes of reporting MAUs, DAUs, and ARPU by geographic region, Europe includes all users in Russia and Turkey, Asia includes all users in Australia and New Zealand, and Rest of World includes Africa, Latin America, and the Middle East.
+
+================================================================================
+BLOCK 6:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 204.63720703125, 578.531982421875, 260.009765625)
+  - Span: As of June 30, 2012, we had 955 million MAUs, an increase of 29% from June 30, 2011. Users in Brazil, India, and Indonesia represented key sources of growth
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: in the second quarter of 2012 relative to the prior year. We had 54 million MAUs in Brazil as of June 30, 2012, an increase of 146% compared to the same
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: period in 2011; we had 59 million MAUs in India as of June 30, 2012, an increase of 84% compared to the same period in 2011; and we had 55 million MAUs in
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: Indonesia as of June 30, 2012, an increase of 24% compared to the same period in 2011. Additionally, we had 168 million MAUs in the United States as of
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: June 30, 2012, an increase of 10% compared to the same period in 2011.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: As of June 30, 2012, we had 955 million MAUs, an increase of 29% from June 30, 2011. Users in Brazil, India, and Indonesia represented key sources of growth in the second quarter of 2012 relative to the prior year. We had 54 million MAUs in Brazil as of June 30, 2012, an increase of 146% compared to the same period in 2011; we had 59 million MAUs in India as of June 30, 2012, an increase of 84% compared to the same period in 2011; and we had 55 million MAUs in Indonesia as of June 30, 2012, an increase of 24% compared to the same period in 2011. Additionally, we had 168 million MAUs in the United States as of June 30, 2012, an increase of 10% compared to the same period in 2011.  
+
+================================================================================
+BLOCK 7:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 259.83642578125, 310.0320129394531, 268.83642578125)
+  - Span: 20
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 20

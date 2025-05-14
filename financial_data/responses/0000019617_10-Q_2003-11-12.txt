@@ -1,0 +1,12 @@
+CIK: 0000019617
+YEAR: 2003
+QUARTER: 3
+Total Revenue: 7748.00
+Net Income: 1628.00
+EPS: 0.80
+Operating Margin: 31.38
+
+Explanation:
+• Although many “operating‐based” earnings numbers are discussed in the MD&A, the reported consolidated income statement for the quarter shows total net revenue of approximately $7,748 million, net income of approximately $1,628 million, and basic earnings per share of about $0.80. 
+• In our analysis we computed an “operating margin” – a percentage expressing “operating income” relative to revenue – using the figure “Income before income tax expense” of about $2,430 million divided by total revenue ($7,748 million) which gives (2430/7748)*100 ≈ 31.38%.
+• All numbers are expressed with two significant digits after the decimal point and in the appropriate units.

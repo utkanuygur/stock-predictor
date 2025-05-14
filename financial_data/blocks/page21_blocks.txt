@@ -1,0 +1,63 @@
+
+================================================================================
+BLOCK 0:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 43.875240325927734, 89.84099578857422, 52.875240325927734)
+  - Span: Table of Contents
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Table of Contents
+
+================================================================================
+BLOCK 1:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 66.63720703125, 579.1410522460938, 123.63720703125)
+  - Span: Worldwide mobile MAUs increased by 67% from 325 million as of June 30, 2011 to 543 million as of June 30, 2012. In all regions, an increasing number of our
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: MAUs are accessing Facebook through mobile devices, with users in the United States, India, and Brazil representing key sources of mobile growth over this
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: period. Approximately 102 million mobile MAUs accessed Facebook solely through mobile apps or our mobile website during the month ended June 30, 2012,
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: increasing 23% from 83 million during the month ended March 31, 2012. The remaining 441 million mobile MAUs accessed Facebook from both personal
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: computers and mobile devices during that month.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: Worldwide mobile MAUs increased by 67% from 325 million as of June 30, 2011 to 543 million as of June 30, 2012. In all regions, an increasing number of our MAUs are accessing Facebook through mobile devices, with users in the United States, India, and Brazil representing key sources of mobile growth over this period. Approximately 102 million mobile MAUs accessed Facebook solely through mobile apps or our mobile website during the month ended June 30, 2012, increasing 23% from 83 million during the month ended March 31, 2012. The remaining 441 million mobile MAUs accessed Facebook from both personal computers and mobile devices during that month.  
+
+================================================================================
+BLOCK 2:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 153.676025390625, 189.1320037841797, 162.676025390625)
+  - Span: Trends in Our Monetization by User Geography
+    Font: TimesNewRomanBold, Size: 9.0
+Full Text: Trends in Our Monetization by User Geography
+
+================================================================================
+BLOCK 3:
+================================================================================
+Type: 0
+Bounding Box: (33.29999923706055, 166.83642578125, 578.6820068359375, 212.609375)
+  - Span: We calculate our revenue by user geography based on our estimate of the geography in which ad impressions are delivered or virtual goods are purchased. We
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: define average revenue per user (ARPU) as our total revenue in a given geography during a given period, divided by the average of the number of MAUs in the
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: geography at the beginning and end of the period. Our revenue and ARPU in markets such as the United States, Canada, and Europe are relatively higher due to the size
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span: and maturity of those advertising markets as well as our greater sales presence and the number of payment methods that we make available to advertisers and users.
+    Font: TimesNewRomanRegular, Size: 9.0
+  - Span:  
+    Font: TimesNewRomanRegular, Size: 7.200000286102295
+Full Text: We calculate our revenue by user geography based on our estimate of the geography in which ad impressions are delivered or virtual goods are purchased. We define average revenue per user (ARPU) as our total revenue in a given geography during a given period, divided by the average of the number of MAUs in the geography at the beginning and end of the period. Our revenue and ARPU in markets such as the United States, Canada, and Europe are relatively higher due to the size and maturity of those advertising markets as well as our greater sales presence and the number of payment methods that we make available to advertisers and users.  
+
+================================================================================
+BLOCK 4:
+================================================================================
+Type: 0
+Bounding Box: (302.4000244140625, 212.43701171875, 310.0320129394531, 221.43701171875)
+  - Span: 22
+    Font: TimesNewRomanRegular, Size: 9.0
+Full Text: 22

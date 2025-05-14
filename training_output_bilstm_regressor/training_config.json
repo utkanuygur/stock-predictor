@@ -1,0 +1,19 @@
+{
+    "epochs": 100,
+    "batch_size": 4,
+    "hidden_size": 1024,
+    "num_layers": 6,
+    "dropout_rate": 0.3,
+    "learning_rate": 1e-05,
+    "early_stopping_patience": 15,
+    "train_csv_path": "train_agg_regression_60_40.csv",
+    "val_csv_path": "validation_agg_regression_60_40.csv",
+    "scaler_info_path": "stock_price_scaler_info.pkl",
+    "expected_num_features": 4,
+    "target_name": "Normalized Stock Price",
+    "company_col": "Ticker",
+    "cik_col": "CIK",
+    "data_seq_col": "Data_Sequence",
+    "target_seq_col": "Target_Sequence",
+    "device": "cuda"
+}

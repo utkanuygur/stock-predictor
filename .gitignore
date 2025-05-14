@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 *.jsonl
 *.pth
+main.ipynb
